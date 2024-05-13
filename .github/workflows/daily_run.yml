@@ -8,6 +8,7 @@ on:
     - cron: '0 8 * 11-12 *'
     # Runs at 8:00 AM UTC from January to February (10 AM IST, UTC+2)
     - cron: '0 8 * 1-2 *'
+  workflow_dispatch:  # Allows manual triggering
 
 
 jobs:
