@@ -1,0 +1,30 @@
+name: Daily Python Script Run
+
+on:
+  schedule:
+    # Runs at 8:00 AM UTC from late March to late October (Israel Daylight Time, UTC+3)
+    - cron: '0 7 * 3-10 *'
+    # Runs at 8:00 AM UTC from November to early March (Israel Standard Time, UTC+2)
+    - cron: '0 8 * 11-2 *'
+
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'  # Specify the Python version you need
+
+    - name: Install dependencies (if any)
+      run: |
+        pip install requests feedparser
+
+    - name: Run the script
+      run: python main.py ${{ secrets.URL }}
+      env:
+        URL: ${{ secrets.URL }}
