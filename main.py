@@ -33,85 +33,18 @@ class Criteria:
     bad_keywords: List[Tuple[str, int]] = field(default_factory=list)
 
 
-my_criteria = Criteria(
-    authors=[("Devoret", 10),
-             ('Blais', 10),
-             ('Puri', 10),
-             ('Wallraff', 10),
-             ('Schoelkopf', 10),
-             ('Leghtas', 10),
-             ('Mirrahimi', 10),
-             ('Siddiqi', 10),
-             ('Grimm', 10),
-             ('Oliver', 10),
-             ('Frattini', 10),
-             ('Fedorov', 8),
-             ('Clerk', 5),
-             ('Chen Wang', 8),
-             ('Jiang', 6),
-             ('Lukin', 4),
-             ('Monroe', 4),
-             ('Koch', 7),
-             ('Schuster', 5),
-             ('Girvin', 5),
-             ('Minev', 5),
-             ('Houck ', 5),
-             ('Gambetta', 3),
-             ('Martinis', 3),
-             ('Venkatraman', 5),
-             ('Retzker', 8),
-             ('DiCarlo', 8)],
+# Function to load criteria from a JSON file
+def load_criteria_from_json(file_path):
+    # Read the JSON data from a file
+    with open(file_path, 'r') as file:
+        json_data = file.read()
+    
+    # Deserialize the JSON string to a dictionary
+    data_dict = json.loads(json_data)
+    
+    # Convert the dictionary back to a Criteria dataclass instance
+    return Criteria(**data_dict)
 
-    good_keywords=[("superconducting", 4),
-                   ('niobium cavity', 5),
-                   ('Bosonic', 3),
-                   ('Josephson', 3),
-                   ("Transmon", 2),
-                   ("qubit", 2),
-                   ('cat', 2),
-                   ('kerr-cat', 5),
-                   ('dissipative cat', 5),
-                   ("circuit QED", 3),
-                   ("quantum error correction", 4),
-                   ("quantum information processing", 5),
-                   ('quantum computing', 2),
-                   ('XZZX', 2),
-                   ('GKP', 2),
-                   ('microwave', 2),
-                   ('High-Q', 2),
-                   ('distillation', 3),
-                   ('artificial atom', 3),
-                   ('squeezing', 2),
-                   ('Nb ', 2)],
-
-    bad_keywords=[("nitrogen", 2),
-                  ('ion', 2),
-                  ('spin', 2),
-                  ('optical', 2),
-                  ('laser', 3),
-                  ('molecular', 3),
-                  ('molecule', 3),
-                  ('nanowire', 2),
-                  ('MoTe2', 3),
-                  ('Mott', 3),
-                  ('phonon', 2),
-                  ('diamond', 3),
-                  ('magnon', 3),
-                  ('vibrational', 2),
-                  ('quantum dot', 2),
-                  ('nanomechanical', 2),
-                  ('mechanical resonator', 2),
-                  ('black hole', 4),
-                  ('gravity', 4),
-                  ('finance', 2),
-                  ('algebra', 2),
-                  ('annealing', 2),
-                  ('markovian', 1),
-                  ('decoder', 1),
-                  ('neural network', 1),
-                  ('MaxCut', 1),
-                  ('toric', 1)],
-)
 
 """ --------------------------------------------- Paper utilities -------------------------------------------------- """
 
@@ -276,7 +209,7 @@ def create_message(relevant_papers, scores, current_date, threshold_star):
     return message
 
 
-def get_message():
+def get_message(my_criteria: Criteria):
     print('Got into the send_papers_daily function')
     now = datetime.datetime.now()
     weekday = now.weekday()
@@ -330,9 +263,13 @@ def send_message(url, message: str):
     else:
         print(f"Failed to send message. Status code: {response.status_code}, Response: {response.text}")
 
+# To run the script use main.py <slack url> <criteria file>
 if __name__ == "__main__":
+    # Load criteria from the JSON file
+    my_criteria = load_criteria_from_json(sys.argv[2])
+
     # Start the bot
-    message = get_message()
+    message = get_message(my_criteria)
     print(message)
 
     send_message(sys.argv[1], message)
