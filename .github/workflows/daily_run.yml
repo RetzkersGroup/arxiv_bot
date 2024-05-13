@@ -28,3 +28,19 @@ jobs:
       run: python main.py ${{ secrets.URL }}
       env:
         URL: ${{ secrets.URL }}
+
+
+      # Configure git with your identity
+    - name: Configure git
+      run: |
+        git config --global user.email "shohamjac@gmail.com"
+        git config --global user.name "shohamjac"
+
+    # Commit and push changes
+    - name: Commit and push changes
+      run: |
+        git add .
+        git commit -m "Update from GitHub Actions"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
