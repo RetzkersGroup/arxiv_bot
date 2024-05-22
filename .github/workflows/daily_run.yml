@@ -30,7 +30,7 @@ jobs:
         pip install requests feedparser
 
     - name: Run the script
-      run: python main.py ${{ secrets.URL }} Criterias/QEC.json
+      run: python main.py ${{ secrets.URL }} Criterias/QEC.json last_published.json
       env:
         URL: ${{ secrets.URL }}
 

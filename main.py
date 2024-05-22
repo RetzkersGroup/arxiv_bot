@@ -209,7 +209,7 @@ def create_message(relevant_papers, scores, current_date, threshold_star):
     return message
 
 
-def get_message(my_criteria: Criteria):
+def get_message(my_criteria: Criteria, output_file):
     print('Got into the send_papers_daily function')
     now = datetime.datetime.now()
     weekday = now.weekday()
@@ -229,7 +229,7 @@ def get_message(my_criteria: Criteria):
                 message = f"No relevant papers found for {now.strftime('%a, %d %b %Y')}."
                 return message
 
-            write_last_published(relevant_papers)
+            write_last_published(relevant_papers, output_file)
 
             sorted_relevant_papers, sorted_scores = sort_papers_by_score(relevant_papers, scores)
 
@@ -263,13 +263,14 @@ def send_message(url, message: str):
     else:
         print(f"Failed to send message. Status code: {response.status_code}, Response: {response.text}")
 
-# To run the script use main.py <slack url> <criteria file>
+# To run the script use main.py <slack url> <criteria file> <output_file>
 if __name__ == "__main__":
     # Load criteria from the JSON file
     my_criteria = load_criteria_from_json(sys.argv[2])
+    output_file = sys.argv[3]
 
     # Start the bot
-    message = get_message(my_criteria)
+    message = get_message(my_criteria, output_file)
     print(message)
 
     send_message(sys.argv[1], message)

@@ -37,7 +37,8 @@
         ["squeezing", 1],
         ["decoder", 3],
         ["syndrome", 3],
-        ["neural network", 1]
+        ["neural network", 1],
+        ["toric", 1]
     ],
     "bad_keywords": [
         ["nitrogen", 2],
