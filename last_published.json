@@ -1,458 +1,74 @@
 [
     [
-        "Homological Quantum Error Correction with Torsion",
-        "2024-05-06"
-    ],
-    [
-        "Evaluating radiation impact on transmon qubits in above and underground facilities",
-        "2024-05-28"
-    ],
-    [
-        "Exponential improvements in the simulation of lattice gauge theories using near-optimal techniques",
-        "2024-05-16"
-    ],
-    [
-        "A Fast and Adaptable Algorithm for Optimal Multi-Qubit Pathfinding in Quantum Circuit Compilation",
-        "2024-05-29"
-    ],
-    [
-        "Quantum Computing Perspective for Electromagnetic Wave Propagation in Cold Magnetized Plasmas",
-        "2023-09-21"
-    ],
-    [
-        "Understanding Side-Channel Vulnerabilities in Superconducting Qubit Readout Architectures",
-        "2024-05-14"
-    ],
-    [
-        "Quantum computation of $\u03c0\\to \u03c0^*$ and $n \\to \u03c0^*$ excited states of aromatic heterocycles",
-        "2023-09-18"
-    ],
-    [
-        "Accurate and Honest Approximation of Correlated Qubit Noise",
-        "2023-11-15"
-    ],
-    [
-        "Experimental distillation of tripartite quantum steering",
-        "2023-11-16"
-    ],
-    [
-        "Photon loss effects on light-mediated non-Gaussian entangled Bose-Einstein condensates projecting with different photon measurement outcomes",
-        "2024-05-12"
-    ],
-    [
-        "Nanomechanical manipulation of superconducting charge-qubit quantum networks",
-        "2023-10-05"
-    ],
-    [
-        "Compilation for Dynamically Field-Programmable Qubit Arrays with Efficient and Provably Near-Optimal Scheduling",
+        "Parametrically controlled chiral interface for superconducting quantum devices",
         "2024-05-23"
     ],
     [
-        "First Measurement of Correlated Charge Noise in Superconducting Qubits at an Underground Facility",
-        "2024-05-07"
+        "Semiquantum private comparison via cavity QED",
+        "2023-09-23"
     ],
     [
-        "QubiC 2.0: An Extensible Open-Source Qubit Control System Capable of Mid-Circuit Measurement and Feed-Forward",
-        "2023-09-19"
-    ],
-    [
-        "Data augmentation experiments with style-based quantum generative adversarial networks on trapped-ion and superconducting-qubit technologies",
-        "2024-05-07"
-    ],
-    [
-        "Machine-learning-inspired quantum optimal control of nonadiabatic geometric quantum computation via reverse engineering",
-        "2023-09-28"
-    ],
-    [
-        "Quantum Error Correction for Kids",
-        "2024-05-10"
-    ],
-    [
-        "Surface Code Stabilizer Measurements for Rydberg Atoms",
-        "2024-05-26"
-    ],
-    [
-        "Dynamic Inhomogeneous Quantum Resource Scheduling with Reinforcement Learning",
-        "2024-05-25"
-    ],
-    [
-        "Multi-qubit Lattice Surgery Scheduling",
-        "2024-05-27"
-    ],
-    [
-        "Quantum computing with Qiskit",
-        "2024-05-14"
-    ],
-    [
-        "Hardness results for decoding the surface code with Pauli noise",
-        "2023-09-19"
-    ],
-    [
-        "Uncovering measurement-induced entanglement via directional adaptive dynamics and incomplete information",
-        "2023-10-02"
+        "Qubit Gate Operations in Elliptically Trapped Polariton Condensates",
+        "2023-09-29"
     ],
     [
         "Multi-frequency control and measurement of a spin-7/2 system encoded in a transmon qudit",
         "2024-05-24"
     ],
     [
-        "Complexity in Tame Quantum Theories",
-        "2023-10-02"
-    ],
-    [
-        "One generalization of the Dicke-type models",
-        "2023-09-22"
-    ],
-    [
-        "Heat bath in a quantum circuit",
-        "2023-10-02"
-    ],
-    [
-        "Scalable Circuit Cutting and Scheduling in a Resource-constrained and Distributed Quantum System",
-        "2024-05-07"
-    ],
-    [
-        "Circuit-Noise-Resilient Virtual Distillation",
-        "2023-11-14"
-    ],
-    [
-        "Quantum State Reconstruction in a Noisy Environment via Deep Learning",
-        "2023-09-21"
-    ],
-    [
-        "High transparency induced superconductivity in field effect two-dimensional electron gases in undoped InAs/AlGaSb surface quantum wells",
-        "2024-05-23"
-    ],
-    [
-        "Automated Superconducting Qubit Characterisation Platform Based on a Modified 3D Printer",
-        "2023-09-30"
-    ],
-    [
-        "Barren plateaus are swamped with traps",
-        "2024-05-08"
-    ],
-    [
-        "Mitigating errors in logical qubits",
-        "2024-05-06"
-    ],
-    [
-        "Mobile Impurity in a Two-Leg Bosonic Ladder",
-        "2023-10-05"
-    ],
-    [
-        "Non-Abelian Self-Correcting Quantum Memory",
-        "2024-05-20"
-    ],
-    [
-        "Symmetric Clifford twirling for cost-optimal quantum error mitigation in early FTQC regime",
-        "2024-05-13"
-    ],
-    [
-        "Resonant Schr\u00f6dinger Cat States in Circuit Quantum Electrodynamics",
-        "2023-10-05"
-    ],
-    [
-        "High-performance superconducting two-qubit gate using a three-mode tunable coupler",
-        "2024-05-17"
-    ],
-    [
-        "Experimental virtual distillation of entanglement and coherence",
-        "2023-11-16"
-    ],
-    [
-        "A novel gas sensing principle based on quantum fluctuations",
-        "2024-05-10"
-    ],
-    [
-        "Lecture notes on quantum computing",
-        "2023-11-14"
-    ],
-    [
-        "Demonstrating a universal logical gate set on a superconducting quantum processor",
-        "2024-05-15"
-    ],
-    [
-        "ZZ-Interaction-Free Single-Qubit-Gate Optimization in Superconducting Qubits",
-        "2023-09-25"
-    ],
-    [
-        "How much entanglement is needed for emergent anyons and fermions?",
-        "2024-05-13"
-    ],
-    [
-        "Observation of collapse and revival in a superconducting atomic frequency comb",
-        "2023-10-06"
-    ],
-    [
-        "Qudit generalization of the qubit echo and its application to a qutrit-based Toffoli gate",
-        "2024-05-23"
-    ],
-    [
-        "Charge-parity switching effects and optimisation of transmon-qubit design parameters",
-        "2023-09-29"
-    ],
-    [
-        "Light-Induced Microwave Noise in Superconducting Microwave-Optical Transducers",
-        "2023-11-14"
-    ],
-    [
-        "Hybrid Stabilizer Matrix Product Operator",
-        "2024-05-09"
-    ],
-    [
-        "ZX-calculus is Complete for Finite-Dimensional Hilbert Spaces",
-        "2024-05-17"
-    ],
-    [
-        "Multi-mode Cavity Centric Architectures for Quantum Simulation",
-        "2023-09-27"
-    ],
-    [
-        "SU(d)-Symmetric Random Unitaries: Quantum Scrambling, Error Correction, and Machine Learning",
-        "2023-09-28"
-    ],
-    [
-        "Gate-Compatible Circuit QED in a Three-Dimensional Cavity Architecture",
-        "2023-11-13"
-    ],
-    [
-        "Schrieffer-Wolff transformation for non-Hermitian systems: application for $\\mathcal{PT}$-symmetric circuit QED",
-        "2023-09-18"
-    ],
-    [
-        "Towards Distributed Quantum Computing by Qubit and Gate Graph Partitioning Techniques",
-        "2023-10-05"
-    ],
-    [
-        "Fault-Tolerant Quantum LDPC Encoders",
-        "2024-05-12"
-    ],
-    [
-        "Dual-Capability Machine Learning Models for Quantum Hamiltonian Parameter Estimation and Dynamics Prediction",
-        "2024-05-22"
-    ],
-    [
-        "Feynman Paradox about the Josephson effect and a sawtooth current in the double junction",
-        "2024-05-13"
-    ],
-    [
-        "Wigner's Theorem for stabilizer states and quantum designs",
-        "2024-05-27"
-    ],
-    [
-        "Fermi accelerating an Anderson-localized Fermi gas to superdiffusion",
-        "2023-11-14"
-    ],
-    [
-        "Local Hamiltonian Problem with succinct ground state is MA-Complete",
-        "2023-09-18"
-    ],
-    [
-        "Quantum Parity Detectors: a qubit based particle detection scheme with meV thresholds for rare-event searches",
-        "2024-05-27"
-    ],
-    [
-        "Creation and manipulation of Schr\u00f6dinger cat states of a nuclear spin qudit in silicon",
-        "2024-05-24"
-    ],
-    [
-        "Microwave Quantum Memristors",
-        "2023-11-12"
-    ],
-    [
-        "Room-temperature photonic quantum computing in integrated silicon photonics with germanium-silicon single-photon avalanche diodes",
-        "2024-05-08"
-    ],
-    [
-        "Parity-dependent state transfer for direct entanglement generation",
-        "2024-05-29"
-    ],
-    [
-        "Synthetic high angular momentum spin dynamics in a microwave oscillator",
-        "2024-05-24"
-    ],
-    [
-        "Quantum Circuit Tensors and Enumerators with Applications to Quantum Fault Tolerance",
-        "2024-05-30"
-    ],
-    [
-        "Photonic quantum computing on thin-film lithium niobate: Part I Design of an efficient heralded single photon source co-integrated with superconducting detectors",
-        "2023-11-15"
-    ],
-    [
-        "Hungarian Qubit Assignment for Optimized Mapping of Quantum Circuits on Multi-Core Architectures",
-        "2023-09-21"
-    ],
-    [
-        "Efficient multimode Wigner tomography",
-        "2023-09-18"
-    ],
-    [
-        "Control Requirements and Benchmarks for Quantum Error Correction",
-        "2023-11-13"
-    ],
-    [
-        "Krylov Complexity of Fermionic and Bosonic Gaussian States",
-        "2023-09-19"
-    ],
-    [
-        "Conceptual study of a two-layer silicon pixel detector to tag the passage of muons from cosmic sources through quantum processors",
-        "2023-10-01"
-    ],
-    [
-        "Simon algorithm in measurement-based quantum computing",
-        "2024-05-28"
-    ],
-    [
-        "Encoding optimization for quantum machine learning demonstrated on a superconducting transmon qutrit",
-        "2023-09-22"
-    ],
-    [
-        "Evaluating analytic gradients of pulse programs on quantum computers",
-        "2023-09-28"
-    ],
-    [
-        "Strong Microwave Squeezing Above 1 Tesla and 1 Kelvin",
-        "2023-11-14"
-    ],
-    [
-        "Quasi-probabilistic Bit Erasure Causes Bell Non-locality",
-        "2024-05-26"
+        "Bipartite entanglement of noisy stabilizer states through the lens of stabilizer codes",
+        "2024-06-04"
     ],
     [
         "Non-locality of conjugation symmetry: characterization and examples in quantum network sensing",
         "2023-09-21"
     ],
     [
-        "Design of deeply cooled ultra-low dissipation amplifier and measuring cell for quantum measurements with a microwave single-photon counter",
-        "2023-09-25"
-    ],
-    [
-        "Accommodating Fabrication Defects on Floquet Codes with Minimal Hardware Requirements",
-        "2024-05-24"
-    ],
-    [
-        "Cyclic Quantum Teleportation of Two-Qubit Entangled States by using Six-Qubit Cluster State and Six-Qubit Entangled State",
-        "2024-05-27"
-    ],
-    [
-        "Fault-tolerant simulation of Lattice Gauge Theories with gauge covariant codes",
-        "2024-05-29"
-    ],
-    [
-        "Symmetrically Threaded SQUIDs As Next Generation Kerr-cat Qubits",
-        "2024-05-18"
-    ],
-    [
-        "Convergence of bipartite open quantum systems stabilized by reservoir engineering",
-        "2023-11-16"
-    ],
-    [
-        "Device-independent dimension leakage null test on qubits with minimal resources",
-        "2024-05-29"
-    ],
-    [
-        "Tunneling of fluxons via a Josephson resonant level",
-        "2023-10-04"
-    ],
-    [
-        "On the electromagnetic couplings in superconducting qubit circuits",
-        "2024-05-19"
-    ],
-    [
-        "Interferometric Purcell suppression of spontaneous emission in a superconducting qubit",
-        "2024-05-16"
-    ],
-    [
-        "Thermalization and Criticality on an Analog-Digital Quantum Simulator",
-        "2024-05-27"
-    ],
-    [
-        "Diffusion coefficients preserving long-time correlations: Consequences on the Einstein relation and on entanglement in a bosonic Bogoliubov system",
-        "2023-09-28"
-    ],
-    [
-        "Domain formation and universally critical dynamics through phase separation in two-component Bose-Einstein condensates",
-        "2023-11-14"
-    ],
-    [
-        "Flux-pulse-assisted Readout of a Fluxonium Qubit",
-        "2023-09-29"
-    ],
-    [
-        "A novel multi-photon entangled state with enhanced resilience to path loss",
-        "2024-05-13"
-    ],
-    [
-        "Unusual Diffusivity in Strongly Disordered Quantum Lattices: Random Dimer Model",
-        "2024-05-31"
-    ],
-    [
-        "Equivalence of flexible stripline and coaxial cables for superconducting qubit control and readout pulses",
-        "2024-05-15"
-    ],
-    [
-        "InAs on Insulator: A New Platform for Cryogenic Hybrid Superconducting Electronics",
-        "2024-05-13"
+        "Holographic Entanglement Distillation from the Surface State Correspondence",
+        "2023-11-13"
     ],
     [
         "Engineering Entangled Coherent States of Magnons and Phonons via a Transmon Qubit",
         "2023-09-28"
     ],
     [
-        "Quantum Computation Using Large Spin Qudits",
-        "2024-05-13"
+        "Lecture notes on quantum computing",
+        "2023-11-14"
     ],
     [
-        "Memory-corrected quantum repeaters with adaptive syndrome identification",
-        "2024-05-12"
+        "Quantum computing with Qiskit",
+        "2024-05-14"
     ],
     [
-        "Entanglement dynamics of two modes coupled through a dissipative movable mirror in an optomechanical system",
-        "2024-05-15"
+        "One generalization of the Dicke-type models",
+        "2023-09-22"
     ],
     [
-        "Experimental demonstration of a fault-tolerant qubit encoded on a hyperfine-coupled qudit",
-        "2024-05-31"
+        "Krylov Complexity of Fermionic and Bosonic Gaussian States",
+        "2023-09-19"
     ],
     [
-        "Bidirectional multi-photon communication between remote superconducting nodes",
-        "2023-09-29"
-    ],
-    [
-        "Linear cooling of a levitated micromagnetic cylinder by vibration",
-        "2023-10-05"
-    ],
-    [
-        "Multimode physics of the unimon circuit",
-        "2023-09-18"
-    ],
-    [
-        "Simulating X-ray absorption spectroscopy of battery materials on a quantum computer",
-        "2024-05-17"
-    ],
-    [
-        "Investigating pump harmonics generation in a SNAIL-based Traveling Wave Parametric Amplifier",
-        "2024-05-30"
-    ],
-    [
-        "Shortcut to Chemically Accurate Quantum Computing via Density-based Basis-set Correction",
+        "Universal spectra of noisy parameterized quantum circuits",
         "2024-05-19"
     ],
     [
-        "Characterizing losses in InAs two-dimensional electron gas-based gatemon qubits",
-        "2023-09-29"
+        "Anomaly inflow for CSS and fractonic lattice models and dualities via cluster state measurement",
+        "2024-05-24"
     ],
     [
-        "Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code",
-        "2024-05-29"
+        "Wigner's Theorem for stabilizer states and quantum designs",
+        "2024-05-27"
     ],
     [
-        "Tight bounds on Pauli channel learning without entanglement",
-        "2023-09-23"
+        "Steady-State Entanglement Generation via Casimir-Polder Interactions",
+        "2024-06-04"
     ],
     [
-        "Error Crafting in Probabilistic Quantum Gate Synthesis",
+        "Weaving Complex Graph on simple low-dimensional qubit lattices",
+        "2024-05-25"
+    ],
+    [
+        "Benchmarking bosonic modes for quantum information with randomized displacements",
         "2024-05-24"
     ],
     [
@@ -460,15 +76,71 @@
         "2024-05-30"
     ],
     [
-        "The Magic in Nuclear and Hypernuclear Forces",
-        "2024-05-16"
+        "Demonstration of Erasure Conversion in a Molecular Tweezer Array",
+        "2024-06-04"
+    ],
+    [
+        "SU(d)-Symmetric Random Unitaries: Quantum Scrambling, Error Correction, and Machine Learning",
+        "2023-09-28"
+    ],
+    [
+        "Group twirling and noise tailoring for multi-qubit controlled phase gates",
+        "2023-09-27"
+    ],
+    [
+        "FlexiSCD: Flexible Surface Code Deformer for Dynamic Defects",
+        "2024-05-11"
+    ],
+    [
+        "Uncovering measurement-induced entanglement via directional adaptive dynamics and incomplete information",
+        "2023-10-02"
+    ],
+    [
+        "Heat bath in a quantum circuit",
+        "2023-10-02"
+    ],
+    [
+        "Experimental distillation of tripartite quantum steering",
+        "2023-11-16"
+    ],
+    [
+        "Quantum Error Correction for Kids",
+        "2024-05-10"
+    ],
+    [
+        "Qudit generalization of the qubit echo and its application to a qutrit-based Toffoli gate",
+        "2024-05-23"
+    ],
+    [
+        "Simon algorithm in measurement-based quantum computing",
+        "2024-05-28"
+    ],
+    [
+        "Error Crafting in Probabilistic Quantum Gate Synthesis",
+        "2024-05-24"
     ],
     [
         "Fault Tolerance Embedded in a Quantum-Gap-Estimation Algorithm with Trial-State Optimization",
         "2024-05-16"
     ],
     [
-        "Collective randomized measurements in quantum information processing",
+        "Quantum Parity Detectors: a qubit based particle detection scheme with meV thresholds for rare-event searches",
+        "2024-05-27"
+    ],
+    [
+        "Quantum Circuit Tensors and Enumerators with Applications to Quantum Fault Tolerance",
+        "2024-05-30"
+    ],
+    [
+        "A Fast and Adaptable Algorithm for Optimal Multi-Qubit Pathfinding in Quantum Circuit Compilation",
+        "2024-05-29"
+    ],
+    [
+        "Machine-learning-inspired quantum optimal control of nonadiabatic geometric quantum computation via reverse engineering",
+        "2023-09-28"
+    ],
+    [
+        "QubiC 2.0: An Extensible Open-Source Qubit Control System Capable of Mid-Circuit Measurement and Feed-Forward",
         "2023-09-19"
     ],
     [
@@ -476,191 +148,575 @@
         "2024-05-25"
     ],
     [
-        "Efficient tensor network simulation of IBM's largest quantum processors",
-        "2023-09-27"
-    ],
-    [
-        "Integrated and DC-powered superconducting microcomb",
-        "2024-05-15"
-    ],
-    [
-        "Anomaly inflow for CSS and fractonic lattice models and dualities via cluster state measurement",
-        "2024-05-24"
-    ],
-    [
-        "Ion-Based Quantum Computing Hardware: Performance and End-User Perspective",
-        "2024-05-19"
-    ],
-    [
-        "Josephson threshold detector in the phase diffusion regime",
-        "2024-05-07"
-    ],
-    [
-        "ERASER: Towards Adaptive Leakage Suppression for Fault-Tolerant Quantum Computing",
-        "2023-09-22"
-    ],
-    [
-        "A logical qubit-design with geometrically tunable error-resistibility",
+        "Symmetric Clifford twirling for cost-optimal quantum error mitigation in early FTQC regime",
         "2024-05-13"
     ],
     [
-        "Early Fault-Tolerant Quantum Algorithms in Practice: Application to Ground-State Energy Estimation",
-        "2024-05-06"
+        "Domain formation and universally critical dynamics through phase separation in two-component Bose-Einstein condensates",
+        "2023-11-14"
     ],
     [
-        "Weaving Complex Graph on simple low-dimensional qubit lattices",
-        "2024-05-25"
+        "Quantum Computing Perspective for Electromagnetic Wave Propagation in Cold Magnetized Plasmas",
+        "2023-09-21"
     ],
     [
-        "Self-correcting GKP qubit and gates in a driven-dissipative circuit",
-        "2024-05-09"
+        "First Measurement of Correlated Charge Noise in Superconducting Qubits at an Underground Facility",
+        "2024-05-07"
     ],
     [
-        "The Superconducting Quasiparticle-Amplifying Transmon: A Qubit-Based Sensor for meV Scale Phonons and Single THz Photons",
-        "2023-10-02"
-    ],
-    [
-        "Fault-tolerant hyperbolic Floquet quantum error correcting codes",
-        "2023-09-18"
-    ],
-    [
-        "Explicit decoders using quantum singular value transformation",
-        "2024-05-09"
-    ],
-    [
-        "Quantum error detection with noise-resilient parity-controlled gate in two-dimensional Rydberg atom arrays",
-        "2024-05-29"
-    ],
-    [
-        "Holographic Entanglement Distillation from the Surface State Correspondence",
-        "2023-11-13"
-    ],
-    [
-        "On the properties of qudits",
-        "2024-05-22"
-    ],
-    [
-        "Dynamical subset sampling of quantum error correcting protocols",
-        "2023-09-22"
-    ],
-    [
-        "Universal spectra of noisy parameterized quantum circuits",
-        "2024-05-19"
+        "ZX-calculus is Complete for Finite-Dimensional Hilbert Spaces",
+        "2024-05-17"
     ],
     [
         "Circuit-based erasure conversion of leakage errors in neutral atoms",
         "2024-05-16"
     ],
     [
-        "Blueprint for all-to-all connected superconducting spin qubits",
-        "2024-05-16"
+        "Feynman Paradox about the Josephson effect and a sawtooth current in the double junction",
+        "2024-05-13"
     ],
     [
-        "Protecting quantum gates from arbitrary single- and two-qubit errors",
-        "2024-05-07"
+        "Tunneling of fluxons via a Josephson resonant level",
+        "2023-10-04"
     ],
     [
-        "Implementation of CU gates and its application in a remote-controlled quantum operation",
-        "2024-05-24"
+        "Early Fault-Tolerant Quantum Algorithms in Practice: Application to Ground-State Energy Estimation",
+        "2024-05-06"
     ],
     [
-        "Generation of multi-photon Fock states at telecommunication wavelength using picosecond pulsed light",
-        "2024-05-10"
+        "Surface Code Stabilizer Measurements for Rydberg Atoms",
+        "2024-05-26"
     ],
     [
-        "Benchmarking bosonic modes for quantum information with randomized displacements",
-        "2024-05-24"
+        "Cyclic Quantum Teleportation of Two-Qubit Entangled States by using Six-Qubit Cluster State and Six-Qubit Entangled State",
+        "2024-05-27"
     ],
     [
-        "Semiquantum private comparison via cavity QED",
-        "2023-09-23"
+        "Demonstrating a universal logical gate set on a superconducting quantum processor",
+        "2024-05-15"
     ],
     [
-        "Group twirling and noise tailoring for multi-qubit controlled phase gates",
-        "2023-09-27"
+        "Strong Microwave Squeezing Above 1 Tesla and 1 Kelvin",
+        "2023-11-14"
     ],
     [
-        "Parametrically controlled chiral interface for superconducting quantum devices",
-        "2024-05-23"
-    ],
-    [
-        "Systematic Design and Optimization of Quantum Circuits for Stabilizer Codes",
-        "2023-09-21"
-    ],
-    [
-        "Circuit QED theory of direct and dual Shapiro steps with finite-size transmission line resonators",
-        "2024-05-21"
+        "Dynamical subset sampling of quantum error correcting protocols",
+        "2023-09-22"
     ],
     [
         "The MQT Handbook: A Summary of Design Automation Tools and Software for Quantum Computing",
         "2024-05-27"
     ],
     [
-        "Clifford operations and homological codes for rotors and oscillators",
-        "2023-11-13"
+        "Compilation for Dynamically Field-Programmable Qubit Arrays with Efficient and Provably Near-Optimal Scheduling",
+        "2024-05-23"
     ],
     [
-        "SuperGaN: Synthesis of NbTiN/GaN/NbTiN Tunnel Junctions",
-        "2023-09-26"
+        "Investigating pump harmonics generation in a SNAIL-based Traveling Wave Parametric Amplifier",
+        "2024-05-30"
     ],
     [
-        "Chemistry Beyond Exact Solutions on a Quantum-Centric Supercomputer",
-        "2024-05-08"
+        "Hungarian Qubit Assignment for Optimized Mapping of Quantum Circuits on Multi-Core Architectures",
+        "2023-09-21"
     ],
     [
-        "FlexiSCD: Flexible Surface Code Deformer for Dynamic Defects",
-        "2024-05-11"
+        "Fault-tolerant simulation of Lattice Gauge Theories with gauge covariant codes",
+        "2024-05-29"
     ],
     [
-        "Quantum heat valve and entanglement in superconducting $LC$ resonators",
-        "2023-09-20"
+        "Interferometric Purcell suppression of spontaneous emission in a superconducting qubit",
+        "2024-05-16"
     ],
     [
-        "Limitations of local update recovery in stabilizer-GKP codes: a quantum optimal transport approach",
-        "2023-09-28"
-    ],
-    [
-        "Qubit Gate Operations in Elliptically Trapped Polariton Condensates",
-        "2023-09-29"
-    ],
-    [
-        "Characterization of errors in a CNOT between surface code patches",
-        "2024-05-08"
-    ],
-    [
-        "Scalability enhancement of quantum computing under limited connectivity through distributed quantum computing",
-        "2024-05-17"
-    ],
-    [
-        "A Genetic Approach to Minimising Gate and Qubit Teleportations for Multi-Processor Quantum Circuit Distribution",
-        "2024-05-09"
-    ],
-    [
-        "Characterizing the Inter-Core Qubit Traffic in Large-Scale Quantum Modular Architectures",
-        "2023-10-03"
-    ],
-    [
-        "Experimental demonstration of a versatile and scalable scheme for iterative generation of non-Gaussian states of light",
-        "2024-05-12"
-    ],
-    [
-        "Nonlocality via multiqubit orthogonal product bases",
-        "2023-09-29"
+        "Josephson threshold detector in the phase diffusion regime",
+        "2024-05-07"
     ],
     [
         "Strategic Code: A Unified Spatio-Temporal Framework for Quantum Error-Correction",
         "2024-05-27"
     ],
     [
+        "A Genetic Approach to Minimising Gate and Qubit Teleportations for Multi-Processor Quantum Circuit Distribution",
+        "2024-05-09"
+    ],
+    [
+        "Mitigating errors in logical qubits",
+        "2024-05-06"
+    ],
+    [
+        "Fault-tolerant hyperbolic Floquet quantum error correcting codes",
+        "2023-09-18"
+    ],
+    [
         "Unravelling Interaction and Temperature Contributions in Unpolarized Trapped Fermionic Atoms in the BCS Regime",
         "2023-11-15"
+    ],
+    [
+        "On the electromagnetic couplings in superconducting qubit circuits",
+        "2024-05-19"
+    ],
+    [
+        "Design of deeply cooled ultra-low dissipation amplifier and measuring cell for quantum measurements with a microwave single-photon counter",
+        "2023-09-25"
+    ],
+    [
+        "Bidirectional multi-photon communication between remote superconducting nodes",
+        "2023-09-29"
+    ],
+    [
+        "Observation of collapse and revival in a superconducting atomic frequency comb",
+        "2023-10-06"
+    ],
+    [
+        "Quasi-probabilistic Bit Erasure Causes Bell Non-locality",
+        "2024-05-26"
+    ],
+    [
+        "A Near Quantum Limited Sub-GHz TiN Kinetic Inductance Traveling Wave Parametric Amplifier Operating in a Frequency Translating Mode",
+        "2024-06-01"
+    ],
+    [
+        "Local Hamiltonian Problem with succinct ground state is MA-Complete",
+        "2023-09-18"
+    ],
+    [
+        "Generation of multi-photon Fock states at telecommunication wavelength using picosecond pulsed light",
+        "2024-05-10"
+    ],
+    [
+        "Flux-pulse-assisted Readout of a Fluxonium Qubit",
+        "2023-09-29"
+    ],
+    [
+        "Accommodating Fabrication Defects on Floquet Codes with Minimal Hardware Requirements",
+        "2024-05-24"
+    ],
+    [
+        "Hardness results for decoding the surface code with Pauli noise",
+        "2023-09-19"
+    ],
+    [
+        "Verification of entangled states under noisy measurements",
+        "2024-06-03"
+    ],
+    [
+        "Chemistry Beyond Exact Solutions on a Quantum-Centric Supercomputer",
+        "2024-05-08"
+    ],
+    [
+        "Synthetic high angular momentum spin dynamics in a microwave oscillator",
+        "2024-05-24"
+    ],
+    [
+        "Implementation of CU gates and its application in a remote-controlled quantum operation",
+        "2024-05-24"
+    ],
+    [
+        "Room-temperature photonic quantum computing in integrated silicon photonics with germanium-silicon single-photon avalanche diodes",
+        "2024-05-08"
+    ],
+    [
+        "Resource Optimized Quantum Squaring Circuit",
+        "2024-06-04"
+    ],
+    [
+        "ZZ-Interaction-Free Single-Qubit-Gate Optimization in Superconducting Qubits",
+        "2023-09-25"
+    ],
+    [
+        "Quantum computation of $\u03c0\\to \u03c0^*$ and $n \\to \u03c0^*$ excited states of aromatic heterocycles",
+        "2023-09-18"
+    ],
+    [
+        "Experimental virtual distillation of entanglement and coherence",
+        "2023-11-16"
+    ],
+    [
+        "Exponential improvements in the simulation of lattice gauge theories using near-optimal techniques",
+        "2024-05-16"
+    ],
+    [
+        "Data augmentation experiments with style-based quantum generative adversarial networks on trapped-ion and superconducting-qubit technologies",
+        "2024-05-07"
+    ],
+    [
+        "Equivalence of flexible stripline and coaxial cables for superconducting qubit control and readout pulses",
+        "2024-05-15"
+    ],
+    [
+        "Understanding Side-Channel Vulnerabilities in Superconducting Qubit Readout Architectures",
+        "2024-05-14"
+    ],
+    [
+        "Experimental demonstration of a versatile and scalable scheme for iterative generation of non-Gaussian states of light",
+        "2024-05-12"
+    ],
+    [
+        "Efficient multimode Wigner tomography",
+        "2023-09-18"
+    ],
+    [
+        "Charge-parity switching effects and optimisation of transmon-qubit design parameters",
+        "2023-09-29"
+    ],
+    [
+        "Experimental demonstration of a fault-tolerant qubit encoded on a hyperfine-coupled qudit",
+        "2024-05-31"
+    ],
+    [
+        "Parity-dependent state transfer for direct entanglement generation",
+        "2024-05-29"
+    ],
+    [
+        "Tight bounds on Pauli channel learning without entanglement",
+        "2023-09-23"
+    ],
+    [
+        "Quantum Computation Using Large Spin Qudits",
+        "2024-05-13"
+    ],
+    [
+        "Systematic Design and Optimization of Quantum Circuits for Stabilizer Codes",
+        "2023-09-21"
+    ],
+    [
+        "Multimode physics of the unimon circuit",
+        "2023-09-18"
+    ],
+    [
+        "Nonlocality via multiqubit orthogonal product bases",
+        "2023-09-29"
+    ],
+    [
+        "Encoding optimization for quantum machine learning demonstrated on a superconducting transmon qutrit",
+        "2023-09-22"
+    ],
+    [
+        "Fermi accelerating an Anderson-localized Fermi gas to superdiffusion",
+        "2023-11-14"
+    ],
+    [
+        "Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code",
+        "2024-05-29"
+    ],
+    [
+        "N-photon solutions to the two-qubit quantum Rabi model",
+        "2024-06-04"
+    ],
+    [
+        "Multi-qubit Lattice Surgery Scheduling",
+        "2024-05-27"
+    ],
+    [
+        "A logical qubit-design with geometrically tunable error-resistibility",
+        "2024-05-13"
+    ],
+    [
+        "Creation and manipulation of surface code defects with quantum optimal control",
+        "2024-06-01"
+    ],
+    [
+        "Shortcut to Chemically Accurate Quantum Computing via Density-based Basis-set Correction",
+        "2024-05-19"
+    ],
+    [
+        "Scalable Circuit Cutting and Scheduling in a Resource-constrained and Distributed Quantum System",
+        "2024-05-07"
+    ],
+    [
+        "The Magic in Nuclear and Hypernuclear Forces",
+        "2024-05-16"
+    ],
+    [
+        "Memory-corrected quantum repeaters with adaptive syndrome identification",
+        "2024-05-12"
+    ],
+    [
+        "Accurate and Honest Approximation of Correlated Qubit Noise",
+        "2023-11-15"
+    ],
+    [
+        "Incompressible Navier-Stokes solve on noisy quantum hardware via a hybrid quantum-classical scheme",
+        "2024-06-01"
+    ],
+    [
+        "Quantum error detection with noise-resilient parity-controlled gate in two-dimensional Rydberg atom arrays",
+        "2024-05-29"
+    ],
+    [
+        "Limitations of local update recovery in stabilizer-GKP codes: a quantum optimal transport approach",
+        "2023-09-28"
+    ],
+    [
+        "Complexity in Tame Quantum Theories",
+        "2023-10-02"
+    ],
+    [
+        "Integrated and DC-powered superconducting microcomb",
+        "2024-05-15"
+    ],
+    [
+        "Collective randomized measurements in quantum information processing",
+        "2023-09-19"
+    ],
+    [
+        "A Novel Quantum-Classical Hybrid Algorithm for Determining Eigenstate Energies in Quantum Systems",
+        "2024-06-01"
+    ],
+    [
+        "High-performance superconducting two-qubit gate using a three-mode tunable coupler",
+        "2024-05-17"
+    ],
+    [
+        "Scalability enhancement of quantum computing under limited connectivity through distributed quantum computing",
+        "2024-05-17"
+    ],
+    [
+        "Automated Superconducting Qubit Characterisation Platform Based on a Modified 3D Printer",
+        "2023-09-30"
+    ],
+    [
+        "ERASER: Towards Adaptive Leakage Suppression for Fault-Tolerant Quantum Computing",
+        "2023-09-22"
+    ],
+    [
+        "Multi-mode Cavity Centric Architectures for Quantum Simulation",
+        "2023-09-27"
+    ],
+    [
+        "The Superconducting Quasiparticle-Amplifying Transmon: A Qubit-Based Sensor for meV Scale Phonons and Single THz Photons",
+        "2023-10-02"
+    ],
+    [
+        "Quantum State Reconstruction in a Noisy Environment via Deep Learning",
+        "2023-09-21"
+    ],
+    [
+        "Device-independent dimension leakage null test on qubits with minimal resources",
+        "2024-05-29"
     ],
     [
         "Qubit-efficient Variational Quantum Algorithms for Image Segmentation",
         "2024-05-23"
     ],
     [
+        "Creation and manipulation of Schr\u00f6dinger cat states of a nuclear spin qudit in silicon",
+        "2024-05-24"
+    ],
+    [
+        "Evaluating radiation impact on transmon qubits in above and underground facilities",
+        "2024-05-28"
+    ],
+    [
+        "Self-correcting GKP qubit and gates in a driven-dissipative circuit",
+        "2024-05-09"
+    ],
+    [
+        "Photon loss effects on light-mediated non-Gaussian entangled Bose-Einstein condensates projecting with different photon measurement outcomes",
+        "2024-05-12"
+    ],
+    [
+        "Quantum heat valve and entanglement in superconducting $LC$ resonators",
+        "2023-09-20"
+    ],
+    [
+        "Non-Abelian Self-Correcting Quantum Memory",
+        "2024-05-20"
+    ],
+    [
+        "Fault-Tolerant Quantum LDPC Encoders",
+        "2024-05-12"
+    ],
+    [
+        "Unusual Diffusivity in Strongly Disordered Quantum Lattices: Random Dimer Model",
+        "2024-05-31"
+    ],
+    [
+        "Conceptual study of a two-layer silicon pixel detector to tag the passage of muons from cosmic sources through quantum processors",
+        "2023-10-01"
+    ],
+    [
         "Unbiasing Fermionic Auxiliary-Field Quantum Monte Carlo with Matrix Product State Trial Wavefunctions",
         "2024-05-08"
+    ],
+    [
+        "Dynamic Inhomogeneous Quantum Resource Scheduling with Reinforcement Learning",
+        "2024-05-25"
+    ],
+    [
+        "Explicit decoders using quantum singular value transformation",
+        "2024-05-09"
+    ],
+    [
+        "Hybrid Stabilizer Matrix Product Operator",
+        "2024-05-09"
+    ],
+    [
+        "Gate-Compatible Circuit QED in a Three-Dimensional Cavity Architecture",
+        "2023-11-13"
+    ],
+    [
+        "Entanglement dynamics of two modes coupled through a dissipative movable mirror in an optomechanical system",
+        "2024-05-15"
+    ],
+    [
+        "Noise-adapted qudit codes for amplitude-damping noise",
+        "2024-06-04"
+    ],
+    [
+        "Mobile Impurity in a Two-Leg Bosonic Ladder",
+        "2023-10-05"
+    ],
+    [
+        "Dual-Capability Machine Learning Models for Quantum Hamiltonian Parameter Estimation and Dynamics Prediction",
+        "2024-05-22"
+    ],
+    [
+        "A novel multi-photon entangled state with enhanced resilience to path loss",
+        "2024-05-13"
+    ],
+    [
+        "InAs on Insulator: A New Platform for Cryogenic Hybrid Superconducting Electronics",
+        "2024-05-13"
+    ],
+    [
+        "SuperGaN: Synthesis of NbTiN/GaN/NbTiN Tunnel Junctions",
+        "2023-09-26"
+    ],
+    [
+        "Diffusion coefficients preserving long-time correlations: Consequences on the Einstein relation and on entanglement in a bosonic Bogoliubov system",
+        "2023-09-28"
+    ],
+    [
+        "Symmetrically Threaded SQUIDs As Next Generation Kerr-cat Qubits",
+        "2024-05-18"
+    ],
+    [
+        "Thermalization and Criticality on an Analog-Digital Quantum Simulator",
+        "2024-05-27"
+    ],
+    [
+        "How much entanglement is needed for emergent anyons and fermions?",
+        "2024-05-13"
+    ],
+    [
+        "Schrieffer-Wolff transformation for non-Hermitian systems: application for $\\mathcal{PT}$-symmetric circuit QED",
+        "2023-09-18"
+    ],
+    [
+        "Barren plateaus are swamped with traps",
+        "2024-05-08"
+    ],
+    [
+        "On the properties of qudits",
+        "2024-05-22"
+    ],
+    [
+        "Circuit QED theory of direct and dual Shapiro steps with finite-size transmission line resonators",
+        "2024-05-21"
+    ],
+    [
+        "Simulating X-ray absorption spectroscopy of battery materials on a quantum computer",
+        "2024-05-17"
+    ],
+    [
+        "High transparency induced superconductivity in field effect two-dimensional electron gases in undoped InAs/AlGaSb surface quantum wells",
+        "2024-05-23"
+    ],
+    [
+        "Resonant Schr\u00f6dinger Cat States in Circuit Quantum Electrodynamics",
+        "2023-10-05"
+    ],
+    [
+        "Towards Distributed Quantum Computing by Qubit and Gate Graph Partitioning Techniques",
+        "2023-10-05"
+    ],
+    [
+        "Convergence of bipartite open quantum systems stabilized by reservoir engineering",
+        "2023-11-16"
+    ],
+    [
+        "Evaluating analytic gradients of pulse programs on quantum computers",
+        "2023-09-28"
+    ],
+    [
+        "Nanomechanical manipulation of superconducting charge-qubit quantum networks",
+        "2023-10-05"
+    ],
+    [
+        "Characterizing losses in InAs two-dimensional electron gas-based gatemon qubits",
+        "2023-09-29"
+    ],
+    [
+        "Clifford operations and homological codes for rotors and oscillators",
+        "2023-11-13"
+    ],
+    [
+        "Microwave Quantum Memristors",
+        "2023-11-12"
+    ],
+    [
+        "Protecting quantum gates from arbitrary single- and two-qubit errors",
+        "2024-05-07"
+    ],
+    [
+        "Snowflake: A Distributed Streaming Decoder",
+        "2024-06-03"
+    ],
+    [
+        "Characterizing the Inter-Core Qubit Traffic in Large-Scale Quantum Modular Architectures",
+        "2023-10-03"
+    ],
+    [
+        "Homological Quantum Error Correction with Torsion",
+        "2024-05-06"
+    ],
+    [
+        "Light-Induced Microwave Noise in Superconducting Microwave-Optical Transducers",
+        "2023-11-14"
+    ],
+    [
+        "Control Requirements and Benchmarks for Quantum Error Correction",
+        "2023-11-13"
+    ],
+    [
+        "Efficient tensor network simulation of IBM's largest quantum processors",
+        "2023-09-27"
+    ],
+    [
+        "Bit by Bit: Gravity Through the Lens of Quantum Information",
+        "2024-06-03"
+    ],
+    [
+        "Characterization of errors in a CNOT between surface code patches",
+        "2024-05-08"
+    ],
+    [
+        "A novel gas sensing principle based on quantum fluctuations",
+        "2024-05-10"
+    ],
+    [
+        "Blueprint for all-to-all connected superconducting spin qubits",
+        "2024-05-16"
+    ],
+    [
+        "Linear cooling of a levitated micromagnetic cylinder by vibration",
+        "2023-10-05"
+    ],
+    [
+        "Floquet engineering nearly flat bands through quantum-geometric light-matter coupling with surface polaritons",
+        "2024-06-03"
+    ],
+    [
+        "Ion-Based Quantum Computing Hardware: Performance and End-User Perspective",
+        "2024-05-19"
+    ],
+    [
+        "Photonic quantum computing on thin-film lithium niobate: Part I Design of an efficient heralded single photon source co-integrated with superconducting detectors",
+        "2023-11-15"
+    ],
+    [
+        "Circuit-Noise-Resilient Virtual Distillation",
+        "2023-11-14"
     ]
 ]
