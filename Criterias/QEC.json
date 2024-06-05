@@ -9,7 +9,8 @@
         ["Gambetta", 3],
         ["Litinski", 7],
         ["Rosenblum", 10],
-        ["Noh", 5]
+        ["Noh", 5],
+        ["Stutz", 5]
     ],
     "good_keywords": [
         ["surface", 5],
@@ -31,6 +32,7 @@
         ["fault-tolerant", 4],
         ["quantum information", 4],
         ["quantum computing", 2],
+        ["quantum circuit", 2],
         ["XZZX", 4],
         ["GKP", 2],
         ["microwave", 1],
@@ -40,7 +42,11 @@
         ["decoder", 3],
         ["syndrome", 3],
         ["neural network", 1],
-        ["toric", 1]
+        ["toric", 1],
+        ["Quantinuum", 2],
+        ["IBM", 2],
+        ["sycamore", 2],
+        ["two-qubit gate", 2]
     ],
     "bad_keywords": [
         ["nitrogen", 2],
