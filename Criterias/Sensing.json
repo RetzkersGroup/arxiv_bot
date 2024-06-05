@@ -1,0 +1,17 @@
+{
+    "authors": [
+        ["Retzker", 10]
+    ],
+    "good_keywords": [
+        ["sensing", 10],
+        ["metrology", 10],
+        ["noise", 10],
+        ["decoupling", 10],
+        ["diamond", 10],
+        ["cluster", 10],
+        ["molecule", 10]
+    ],
+    "bad_keywords": [
+        ["superconducting", 5]
+    ]
+}

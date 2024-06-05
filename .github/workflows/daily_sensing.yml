@@ -1,0 +1,56 @@
+name: Daily sensing Script Run
+
+on:
+  schedule:
+    # Runs at 7:00 AM UTC from March to October (10 AM IDT, UTC+3)
+    - cron: '55 6 * 3-10 *'
+    # Runs at 8:00 AM UTC from November to December (10 AM IST, UTC+2)
+    - cron: '55 7 * 11-12 *'
+    # Runs at 8:00 AM UTC from January to February (10 AM IST, UTC+2)
+    - cron: '55 7 * 1-2 *'
+  workflow_dispatch:  # Allows manual triggering
+
+permissions:
+    contents: write
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'  # Specify the Python version you need
+
+    - name: Install dependencies (if any)
+      run: |
+        pip install requests feedparser
+
+    - name: Run the script
+      run: python main.py ${{ secrets.sensing_URL }} Criterias/Sensing.json last_published_sensing.json
+      env:
+        URL: ${{ secrets.sensing_URL }}
+
+
+      # Configure git with your identity
+    - name: Configure git
+      run: |
+        git config --global user.email "shohamjac@gmail.com"
+        git config --global user.name "shohamjac"
+
+    # Commit and push changes
+    - name: Commit and push changes
+      run: |
+        git add .
+        # Check if there are any changes staged
+        if git diff --staged --exit-code; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update from GitHub Actions"
+          git push
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
