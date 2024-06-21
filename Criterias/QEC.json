@@ -10,7 +10,11 @@
         ["Litinski", 7],
         ["Rosenblum", 10],
         ["Noh", 5],
-        ["Stutz", 5]
+        ["Stutz", 5],
+        ["Gottesman",6],
+        ["Preskill",3],
+        ["Jiang",5],
+        ["Kitaev",6]
     ],
     "good_keywords": [
         ["surface", 5],

@@ -20,6 +20,7 @@ TRIGGER_COMMAND = 'papers'
 
 THRESHOLD_SCORE = 5
 THRESHOLD_STAR = 15
+DAYS_BACK = 7
 
 PUBLISH_HOUR = 10
 
@@ -195,16 +196,28 @@ def remove_entries_older_than_days(days_ago: int, json_file: str | Path = LAST_P
     with open(json_file, 'w') as file:
         json.dump(filtered_data, file, indent=4)
 
+def get_relevant_authors(paper, criteria: Criteria):
+    relevant_authors = []
+    paper_authors = ', '.join([author['name'] for author in paper['authors']])
+    for author in criteria.authors:
+        # print(author)
+        if re.search(r'\b' + re.escape(author[0]) + r'\b', paper_authors, flags=re.IGNORECASE):
+            relevant_authors.append(author[0])
+    return relevant_authors
 
-def create_message(relevant_papers, scores, current_date, threshold_star):
+def create_message(relevant_papers, scores, current_date, threshold_star, criteria: Criteria):
     message = f"**Papers for {current_date.strftime('%a, %d %b %Y')}**:\n"
     for paper, score in zip(relevant_papers, scores):
         title = paper['title'].replace('\n', '').replace('  ', ' ')
         url = paper['id']
         if score <= threshold_star:
-            message += f"-  {title} - <{url}> (score: {score})\n"
+            message += f"- "
         elif score > threshold_star:
-            message += f"- :star: {title} - <{url}> (score: {score})\n"
+            message += f"- :star:"
+        relevant_authors = ': ' + ','.join(get_relevant_authors(paper, criteria))
+        if relevant_authors == ': ':
+            relevant_authors = ''
+        message += f" {title}{relevant_authors} - <{url}> (score: {score})\n"
     message += '\n'
     return message
 
@@ -219,7 +232,7 @@ def get_message(my_criteria: Criteria, output_file):
         if True:  # hour == DISCORD_PUBLISH_HOUR:
             print(f'valid weekday ({weekday}) and hour ({hour}).')
 
-            papers = get_quant_ph_papers(now, days_back=7)
+            papers = get_quant_ph_papers(now, days_back=DAYS_BACK)
 
             new_papers = filter_papers_by_paper_list(papers)
             relevant_papers, scores = filter_papers_by_score(new_papers,
@@ -233,7 +246,7 @@ def get_message(my_criteria: Criteria, output_file):
 
             sorted_relevant_papers, sorted_scores = sort_papers_by_score(relevant_papers, scores)
 
-            message = create_message(sorted_relevant_papers, sorted_scores, now, THRESHOLD_STAR)
+            message = create_message(sorted_relevant_papers, sorted_scores, now, THRESHOLD_STAR, criteria=my_criteria)
             return message
 
             # Delete old paper entries
