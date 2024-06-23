@@ -229,31 +229,28 @@ def get_message(my_criteria: Criteria, output_file):
     hour = now.hour
     # Check if it's a working day (Monday=0, Sunday=6)
     if weekday < 5:
-        if True:  # hour == DISCORD_PUBLISH_HOUR:
-            print(f'valid weekday ({weekday}) and hour ({hour}).')
+        print(f'valid weekday ({weekday}) and hour ({hour}).')
 
-            papers = get_quant_ph_papers(now, days_back=DAYS_BACK)
+        papers = get_quant_ph_papers(now, days_back=DAYS_BACK)
 
-            new_papers = filter_papers_by_paper_list(papers)
-            relevant_papers, scores = filter_papers_by_score(new_papers,
-                                                             criteria=my_criteria, threshold_score=THRESHOLD_SCORE)
+        new_papers = filter_papers_by_paper_list(papers, output_file)
+        relevant_papers, scores = filter_papers_by_score(new_papers,
+                                                            criteria=my_criteria, threshold_score=THRESHOLD_SCORE)
 
-            if not len(relevant_papers) > 0:
-                message = f"No relevant papers found for {now.strftime('%a, %d %b %Y')}."
-                return message
-
-            write_last_published(relevant_papers, output_file)
-
-            sorted_relevant_papers, sorted_scores = sort_papers_by_score(relevant_papers, scores)
-
-            message = create_message(sorted_relevant_papers, sorted_scores, now, THRESHOLD_STAR, criteria=my_criteria)
+        if not len(relevant_papers) > 0:
+            message = f"No relevant papers found for {now.strftime('%a, %d %b %Y')}."
             return message
 
-            # Delete old paper entries
-            remove_entries_older_than_days(days_ago=21)
+        write_last_published(relevant_papers, output_file)
 
-        else:
-            print(f'valid weekday ({weekday}) but invalid hour ({hour}).')
+        sorted_relevant_papers, sorted_scores = sort_papers_by_score(relevant_papers, scores)
+
+        message = create_message(sorted_relevant_papers, sorted_scores, now, THRESHOLD_STAR, criteria=my_criteria)
+        return message
+
+        # Delete old paper entries
+        remove_entries_older_than_days(days_ago=21)
+
     else:
         print(f'invalid weekday ({weekday}).')
 
