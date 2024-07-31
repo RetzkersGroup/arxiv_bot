@@ -1,826 +1,18 @@
 [
     [
-        "Unruh-DeWitt Quantum Computing: Realizing Quantum Shannon Theory With Quantum Fields",
-        "2024-07-18"
-    ],
-    [
-        "Raman effects in Quantum Frequency Conversion using Bragg Scattering",
-        "2024-06-05"
-    ],
-    [
-        "Hybrid quantum systems with artificial atoms in solid state",
-        "2024-04-08"
-    ],
-    [
-        "Quantum Noise Spectroscopy of Critical Slowing Down in an Atomically Thin Magnet",
-        "2024-07-08"
-    ],
-    [
-        "Detection of Electron Paramagnetic Resonance of Two Electron Spins Using a Single NV Center in Diamond",
-        "2024-07-29"
-    ],
-    [
-        "TANQ-Sim: Tensorcore Accelerated Noisy Quantum System Simulation via QIR on Perlmutter HPC",
-        "2024-04-19"
-    ],
-    [
-        "Quantum teleportation between a continuous-variable optical qumode and a discrete-variable solid-state qubit",
-        "2024-06-27"
-    ],
-    [
-        "Analyzing the sensitivity of an atom interferometer with a phase modulation readout scheme",
-        "2024-06-06"
-    ],
-    [
-        "Effects of resonant dipole-dipole interactions in the spin noise of atomic vapors",
-        "2024-06-28"
-    ],
-    [
-        "General Communication Enhancement via the Quantum Switch",
-        "2024-07-03"
-    ],
-    [
-        "On computational complexity and average-case hardness of shallow-depth boson sampling",
-        "2024-05-03"
-    ],
-    [
-        "Noise-Aware Distributed Quantum Approximate Optimization Algorithm on Near-term Quantum Hardware",
-        "2024-07-24"
-    ],
-    [
-        "The impact of noise on the simulation of NMR spectroscopy on NISQ devices",
-        "2024-04-29"
-    ],
-    [
-        "Observation of Ultra-low AC Susceptibility in Micro-magnets Using Quantum Diamond Microscope",
-        "2024-04-26"
-    ],
-    [
-        "The Localized Active Space Method with Unitary Selective Coupled Cluster",
-        "2024-04-19"
-    ],
-    [
-        "Full Qubit Control in the NV$^-$ Ground State for Low Field or High Frequency Sensing",
-        "2024-07-24"
-    ],
-    [
-        "Residue Number System (RNS) based Distributed Quantum Addition",
-        "2024-06-07"
-    ],
-    [
-        "Robust preparation of ground state phases under noisy imaginary time evolution",
-        "2024-06-06"
-    ],
-    [
-        "Dawn of a nuclear clock: frequency ratio of the $^{229m}$Th isomeric transition and the $^{87}$Sr atomic clock",
-        "2024-06-26"
-    ],
-    [
-        "Chiral quantum heating and cooling with an optically controlled ion",
-        "2024-05-29"
-    ],
-    [
-        "Nonlinear Wave-Spin Interactions in Nitrogen-Vacancy Centers",
-        "2024-04-12"
-    ],
-    [
-        "Heisenberg-limited Bayesian phase estimation with low-depth digital quantum circuits",
-        "2024-07-08"
-    ],
-    [
-        "Approaches of frequency-dependent squeezing for the low frequency detector of Einstein Telescope",
-        "2024-04-23"
-    ],
-    [
-        "Monolithically Integrated Ultra-Low Noise Balanced Receiver for CV-QKD",
-        "2024-07-15"
-    ],
-    [
-        "Approximating dynamical correlation functions with constant depth quantum circuits",
-        "2024-06-05"
-    ],
-    [
-        "Simulating electronic structure on bosonic quantum computers",
-        "2024-04-16"
-    ],
-    [
-        "Electrical pumping of h-BN single-photon sources in van der Waals heterostructures",
-        "2024-07-19"
-    ],
-    [
-        "Fault-tolerant noise guessing decoding of quantum random codes",
-        "2024-07-01"
-    ],
-    [
-        "Simple loss-tolerant protocol for GHZ-state distribution in a quantum network",
-        "2024-04-30"
-    ],
-    [
-        "Spin Squeezing Enhanced Quantum Magnetometry with Nitrogen-Vacancy Center Qutrits",
-        "2024-06-21"
-    ],
-    [
-        "Simple constructions of linear-depth t-designs and pseudorandom unitaries",
-        "2024-04-19"
-    ],
-    [
-        "Variational quantum state preparation for quantum-enhanced metrology in noisy systems",
-        "2024-06-04"
-    ],
-    [
-        "Constructing Optimal Noise Channels for Enhanced Robustness in Quantum Machine Learning",
-        "2024-04-25"
-    ],
-    [
-        "A spin-refrigerated cavity quantum electrodynamic sensor",
-        "2024-04-16"
-    ],
-    [
-        "Evaluation of phase shifts for non-relativistic elastic scattering using quantum computers",
-        "2024-07-04"
-    ],
-    [
-        "On the singular position-dependent mass",
-        "2024-06-09"
-    ],
-    [
-        "Entanglement distribution through separable states via a zero-added-loss photon multiplexing inspired protocol",
-        "2024-04-10"
-    ],
-    [
-        "Long-fiber Sagnac interferometers for twin field quantum key distribution networks",
-        "2024-07-10"
-    ],
-    [
-        "Directly Estimating Mixed-State Entanglement with Bell Measurement Assistance",
-        "2024-05-31"
-    ],
-    [
-        "Accurate Numerical Simulations of Open Quantum Systems Using Spectral Tensor Trains",
-        "2024-07-16"
-    ],
-    [
-        "Impact of Parallel Gating on Gate Fidelities in Linear, Square, and Star Arrays of Noisy Flip-Flop Qubits",
-        "2024-07-29"
-    ],
-    [
-        "Device-independent Verification of Quantum Coherence without Quantum Control",
-        "2024-04-15"
-    ],
-    [
-        "Better Optimization of Variational Quantum Eigensolvers by combining the Unitary Block Optimization Scheme with Classical Post-Processing",
-        "2024-04-29"
-    ],
-    [
-        "Gate Teleportation in Noisy Quantum Networks with the SquidASM Simulator",
-        "2024-06-19"
-    ],
-    [
-        "Low-cost noise reduction for Clifford circuits",
-        "2024-07-09"
-    ],
-    [
-        "Improving the Fidelity of CNOT Circuits on NISQ Hardware",
-        "2024-05-30"
-    ],
-    [
-        "Sparse Simulation of VQE Circuits for Quantum Chemistry",
-        "2024-04-15"
-    ],
-    [
-        "Parallel Segment Entanglement Swapping",
-        "2024-07-09"
-    ],
-    [
         "Reinforcement Learning to Disentangle Multiqubit Quantum States from Partial Observations",
         "2024-06-12"
     ],
     [
-        "Engineering bound state in continuum via giant atom in photonic waveguide",
-        "2024-06-13"
-    ],
-    [
-        "Automatic re-calibration of quantum devices by reinforcement learning",
-        "2024-04-16"
-    ],
-    [
-        "Quantum Machine Learning: Quantum Kernel Methods",
-        "2024-05-02"
-    ],
-    [
-        "Chebyshev Approximated Variational Coupled Cluster for Quantum Computing",
-        "2024-06-11"
-    ],
-    [
-        "Using stochastic resonance of two-level systems to increase qubit decoherence times",
-        "2024-07-26"
-    ],
-    [
-        "Microscopic parametrizations for gate set tomography under coloured noise",
+        "Quantum Chaos, Randomness and Universal Scaling of Entanglement in Various Krylov Spaces",
         "2024-07-16"
     ],
     [
-        "Highly Versatile FPGA-Implemented Cyber Coherent Ising Machine",
-        "2024-06-08"
-    ],
-    [
-        "Probability and fidelity of teleportation in a two-mode continuous variable cluster state via an insufficiently selective measurement",
-        "2024-07-13"
-    ],
-    [
-        "Gifts from long-range interaction: Emergent gapless topological behaviors in quantum spin chain",
-        "2024-06-04"
-    ],
-    [
-        "Momentum Space Feynman Integral for the Bound State Aharonov-Bohm Effect",
-        "2024-07-21"
-    ],
-    [
-        "Function Smoothing Regularization for Precision Factorization Machine Annealing in Continuous Variable Optimization Problems",
-        "2024-07-05"
-    ],
-    [
-        "Quantum noise induced nonreciprocity for single photon transport in parity-time symmetric systems",
-        "2024-06-30"
-    ],
-    [
-        "Conformal quantum mechanics of causal diamonds: Quantum instability and semiclassical approximation",
-        "2024-07-25"
-    ],
-    [
-        "Optomechanics driven by noisy and narrowband fields",
-        "2024-06-01"
-    ],
-    [
-        "Phases and phase transition in Grover's algorithm with systematic noise",
-        "2024-06-14"
-    ],
-    [
-        "L0-regularized compressed sensing with Mean-field Coherent Ising Machines",
-        "2024-05-01"
-    ],
-    [
-        "The sudden death of quantum advantage in correlation generations",
-        "2024-07-03"
-    ],
-    [
-        "Experimental observation of a time rondeau crystal: Temporal Disorder in Spatiotemporal Order",
-        "2024-04-08"
-    ],
-    [
-        "Cooperative Sensing with Impurities in a Two-Dimensional Subwavelength Array",
-        "2024-06-11"
-    ],
-    [
-        "Noisy certification of continuous variables graph states",
-        "2024-06-06"
-    ],
-    [
-        "Vibrational ADAPT-VQE: Critical points leads to problematic convergence",
-        "2024-04-10"
-    ],
-    [
-        "Observation of full contrast icosahedral Bose-Einstein statistics in laser desorbed, buffer gas cooled C$_{60}$",
-        "2024-06-20"
-    ],
-    [
-        "Dynamical quantum Ansatz tree approach for the heat equation",
-        "2024-04-22"
-    ],
-    [
-        "Nuclear Magnetic Resonance with a Levitating Micro-Particle",
-        "2024-07-29"
-    ],
-    [
-        "Trivariate Bicycle Codes",
-        "2024-06-27"
-    ],
-    [
-        "Continuous variable dense coding under realistic non-ideal scenarios",
-        "2024-07-10"
-    ],
-    [
-        "A quantum implementation of high-order power method for estimating geometric entanglement of pure states",
-        "2024-05-29"
-    ],
-    [
-        "Overdispersion in gate tomography: Experiments and continuous, two-scale random walk model on the Bloch sphere",
+        "High-quality entangled photons source by symmetric beam displacement design",
         "2024-07-04"
     ],
     [
-        "State Transfer in Noisy Modular Quantum Networks",
-        "2024-07-02"
-    ],
-    [
-        "Quantum non-classicality in the simplest causal network",
-        "2024-04-19"
-    ],
-    [
-        "Superresolution in separation estimation between two dynamic incoherent sources using spatial demultiplexing",
-        "2024-07-15"
-    ],
-    [
-        "A Review of Barren Plateaus in Variational Quantum Computing",
-        "2024-05-01"
-    ],
-    [
-        "Nanoscale single-electron box with a floating lead for quantum sensing: modelling and device characterization",
-        "2024-04-23"
-    ],
-    [
-        "Quantum Convolutional Neural Network for Phase Recognition in Two Dimensions",
-        "2024-07-04"
-    ],
-    [
-        "Emergent spinon-holon Feshbach resonance in a doped Majumdar-Ghosh model",
-        "2024-06-12"
-    ],
-    [
-        "Joint qubit observables induced by indirect measurements in cavity QED",
-        "2024-06-19"
-    ],
-    [
-        "Amplitude-noise-resilient entangling gates for trapped ions",
-        "2024-07-03"
-    ],
-    [
-        "Master equation-based model for infrared-based magnetometry with nitrogen-vacancy centers in diamond cavities: a path to sub-picotesla sensitivity at sub-millimeter scales",
-        "2024-07-08"
-    ],
-    [
-        "Demonstration of a variational quantum eigensolver with a solid-state spin system under ambient conditions",
-        "2024-07-23"
-    ],
-    [
-        "On noise in swap ASAP repeater chains: exact analytics, distributions and tight approximations",
-        "2024-04-10"
-    ],
-    [
-        "Anti-Concentration for the Unitary Haar Measure and Applications to Random Quantum Circuits",
-        "2024-07-28"
-    ],
-    [
-        "Giant Purcell broadening and Lamb shift for DNA-assembled near-infrared quantum emitters",
-        "2024-07-28"
-    ],
-    [
-        "Far from Perfect: Quantum Error Correction with (Hyperinvariant) Evenbly Codes",
-        "2024-07-16"
-    ],
-    [
-        "A Study on Quantum Car-Parrinello Molecular Dynamics with Classical Shadows for Resource Efficient Molecular Simulation",
-        "2024-06-27"
-    ],
-    [
-        "QOSST: A Highly-Modular Open Source Platform for Experimental Continuous-Variable Quantum Key Distribution",
-        "2024-04-29"
-    ],
-    [
-        "An oscilloscope based method for pulsed Optically Detected Magnetic Resonance in an ensemble of NV centers in diamond",
-        "2024-04-08"
-    ],
-    [
-        "A primary quantum current standard based on the Josephson and the quantum Hall effects",
-        "2024-07-17"
-    ],
-    [
-        "A Modified Depolarization Approach for Efficient Quantum Machine Learning",
-        "2024-04-10"
-    ],
-    [
-        "Measuring multipartite quantum correlations by thermodynamic work extraction",
-        "2024-07-04"
-    ],
-    [
-        "Competition of long-range interactions and noise at ramped quench dynamical quantum phase transition: The case of the long-range pairing Kitaev chain",
-        "2024-07-16"
-    ],
-    [
-        "Decoupling of External and Internal Dynamics in Driven Two-level Systems",
-        "2024-06-03"
-    ],
-    [
-        "Dynamical Mean Field Theory for Real Materials on a Quantum Computer",
-        "2024-04-15"
-    ],
-    [
-        "Purcell effect in chiral environments",
-        "2024-06-14"
-    ],
-    [
-        "Optomechanical second-order sidebands and group delays in a spinning resonator with parametric amplifier and non-Markovian effects",
-        "2024-04-12"
-    ],
-    [
-        "Superresolving optical ruler based on spatial mode demultiplexing for systems evolving under Brownian motion",
-        "2024-07-18"
-    ],
-    [
-        "Ambiguous Resonances in Multipulse Quantum Sensing with Nitrogen Vacancy Centers",
-        "2024-07-12"
-    ],
-    [
-        "Practical continuous-variable quantum secret sharing using local local oscillator",
-        "2024-07-19"
-    ],
-    [
-        "Highly efficient coupling of single photons using a pair of nanostructures",
-        "2024-06-23"
-    ],
-    [
-        "Suppression of noise in separation estimation of optical sources with spatial-mode demultiplexing",
-        "2024-07-02"
-    ],
-    [
-        "The XYZ ruby code: Making a case for a three-colored graphical calculus for quantum error correction in spacetime",
-        "2024-07-11"
-    ],
-    [
-        "Quantum illumination networks",
-        "2024-06-24"
-    ],
-    [
-        "Non-unitary Coupled Cluster on Gate-based Quantum Computers",
-        "2024-06-17"
-    ],
-    [
-        "Tomography of parametrized quantum states",
-        "2024-07-17"
-    ],
-    [
-        "Stochastic simulation of dissipative quantum oscillators",
-        "2024-06-07"
-    ],
-    [
-        "Pseudorandom density matrices",
-        "2024-07-16"
-    ],
-    [
-        "Achieving Heisenberg scaling by probe-ancilla interaction in quantum metrology",
-        "2024-07-23"
-    ],
-    [
-        "Optomechanical entanglement induced by backward stimulated Brillouin scattering",
-        "2024-05-29"
-    ],
-    [
-        "Modelling the Track of the GD-1 Stellar Stream Inside a Host with a Fermionic Dark Matter Core-Halo Distribution",
-        "2024-04-29"
-    ],
-    [
-        "Decoherence of dielectric particles by thermal emission",
-        "2024-07-01"
-    ],
-    [
-        "Genuine Multipartite Entanglement induced by a Thermal Acoustic Reservoir",
-        "2024-06-19"
-    ],
-    [
-        "Inertial Torsion Noise in Matter-Wave Interferometers for Gravity Experiments",
-        "2024-04-23"
-    ],
-    [
-        "LIGO operates with quantum noise below the Standard Quantum Limit",
-        "2024-04-22"
-    ],
-    [
-        "Efficient diffraction control using a tunable active-Raman gain medium",
-        "2024-04-16"
-    ],
-    [
-        "Progress and Perspectives on Weak-value Amplification",
-        "2024-07-14"
-    ],
-    [
-        "Direct Estimation of the Density of States for Fermionic Systems",
-        "2024-07-03"
-    ],
-    [
-        "Wigner function method for the Gibbons-Hawking and the Unruh effect",
-        "2024-06-13"
-    ],
-    [
-        "Multiplexed scanning microscopy with dual-qubit spin sensors",
-        "2024-07-28"
-    ],
-    [
-        "Noise analysis of a quasi-phase-matched quantum frequency converter and higher-order counter-propagating SPDC",
-        "2024-07-04"
-    ],
-    [
-        "Entanglement-assist cyclic weak-value-amplification metrology",
-        "2024-06-06"
-    ],
-    [
-        "Lattice Surgery for Dummies",
-        "2024-04-19"
-    ],
-    [
-        "Continuous momentum state lasing and cavity frequency-pinning with laser-cooled strontium atoms",
-        "2024-05-31"
-    ],
-    [
-        "Ground and excited state energy calculations of the H2 molecule using a variational quantum eigensolver algorithm on an NMR quantum simulator",
-        "2024-07-01"
-    ],
-    [
-        "Semi-device independent characterization of multiphoton indistinguishability",
-        "2024-04-29"
-    ],
-    [
-        "Simulating spin biology using a digital quantum computer: Prospects on a near-term quantum hardware emulator",
-        "2024-06-18"
-    ],
-    [
-        "Secure quantum-enhanced measurements on a network of sensors",
-        "2024-06-27"
-    ],
-    [
-        "Quantum simulation for strongly interacting fermions with neutral atoms array: towards the simulation of materials of interest",
-        "2024-06-19"
-    ],
-    [
-        "Long-range interactions revealed by collective spin noise spectra in atomic vapors",
-        "2024-06-28"
-    ],
-    [
-        "Improving Trainability of Variational Quantum Circuits via Regularization Strategies",
-        "2024-05-02"
-    ],
-    [
-        "Charge and Spin Dynamics and Destabilization of Shallow Nitrogen-Vacancy Centers under UV and Blue Excitation",
-        "2024-06-26"
-    ],
-    [
-        "Cross-resonance control of an oscillator with a fluxonium ancilla",
-        "2024-07-25"
-    ],
-    [
-        "Coherence of an Electronic Two-Level System under Continuous Charge Sensing by a Quantum Dot Detector",
-        "2024-06-17"
-    ],
-    [
-        "Dual-frequency optical-microwave atomic clocks based on cesium atoms",
-        "2024-05-01"
-    ],
-    [
-        "Apparatus for Optical-Atomic System Integration & Calibration: 1 atm to 1$\\times$10$^{-11}$ Torr in 24h",
-        "2024-07-18"
-    ],
-    [
-        "Measurement of microwave photon correlations at millikelvin with a thermal detector",
-        "2024-07-06"
-    ],
-    [
-        "Breadth-first graph traversal union-find decoder",
-        "2024-07-22"
-    ],
-    [
-        "Sub-diffraction estimation, discrimination and learning of quantum states of light",
-        "2024-06-05"
-    ],
-    [
-        "Magnon squeezing via reservoir-engineered optomagnomechanics",
-        "2024-07-11"
-    ],
-    [
-        "Benchmarking digital quantum simulations and optimization above hundreds of qubits using quantum critical dynamics",
-        "2024-04-11"
-    ],
-    [
-        "Reliable Quantum Memories with Unreliable Components",
-        "2024-06-08"
-    ],
-    [
-        "Observation of Momentum Space Josephson Effects",
-        "2024-04-19"
-    ],
-    [
-        "Optimal quantum sensing of the nonlinear bosonic interactions using Fock states",
-        "2024-04-27"
-    ],
-    [
-        "Efficiency fluctuations of a heat engine with noise induced quantum coherences",
-        "2024-05-29"
-    ],
-    [
-        "Twisted electron impact elastic cross sections of polyatomic molecules: All active electron multicentered approach",
-        "2024-07-29"
-    ],
-    [
-        "Nonreciprocal Quantum Sensing",
-        "2024-07-20"
-    ],
-    [
-        "An attractive way to correct for missing singles excitations in unitary coupled cluster doubles theory",
-        "2024-06-13"
-    ],
-    [
-        "Generally noise-resilient quantum gates for trapped-ions",
-        "2024-04-19"
-    ],
-    [
-        "Single-Photon-Subtracted-Squeezed-Vacuum-State Based Postselected Weak Measurement and its Applications",
-        "2024-04-28"
-    ],
-    [
-        "Born statistics for quantum mechanical measurements from random walk potentials?",
-        "2024-07-03"
-    ],
-    [
-        "Quadratic Advantage with Quantum Randomized Smoothing Applied to Time-Series Analysis",
-        "2024-07-25"
-    ],
-    [
-        "Generic signalling-free white-noise limit for models of spontaneous unitarity violation",
-        "2024-05-02"
-    ],
-    [
-        "Lecture Notes on Quantum Algorithms in Open Quantum Systems",
-        "2024-06-17"
-    ],
-    [
-        "Pauli Check Extrapolation for Quantum Error Mitigation",
-        "2024-06-20"
-    ],
-    [
-        "Can Quantum Computers Do Nothing?",
-        "2024-06-24"
-    ],
-    [
-        "An instructional lab apparatus for quantum experiments with single nitrogen-vacancy centers in diamond",
-        "2024-07-22"
-    ],
-    [
-        "Vector Magnetometry Using Shallow Implanted NV Centers in Diamond with Waveguide-Assisted Dipole Excitation and Readout",
-        "2024-07-26"
-    ],
-    [
-        "Resource-aware scheduling of multiple quantum circuits on a hardware device",
-        "2024-07-12"
-    ],
-    [
-        "Entangled Matter-waves for Quantum Enhanced Sensing",
-        "2024-06-19"
-    ],
-    [
-        "A flexible quantum data bus",
-        "2024-04-09"
-    ],
-    [
-        "Experimental Aspects of Indefinite Causal Order in Quantum Mechanics",
-        "2024-05-01"
-    ],
-    [
-        "Characterizing Biphoton Spatial Wave Function Dynamics with Quantum Wavefront Sensing",
-        "2024-06-07"
-    ],
-    [
-        "Effect of group-velocity dispersion on the generation of multimode pulsed squeezed light in a synchronously pumped optical parametric oscillator",
-        "2024-07-26"
-    ],
-    [
-        "Quantifying multipartite quantum states by ($k+1$)-partite entanglement measures",
-        "2024-04-23"
-    ],
-    [
-        "Noise reduction via optimal control in a light-matter quantum system",
-        "2024-06-26"
-    ],
-    [
-        "Robust external spin hyperpolarization of quadrupolar nuclei enabled by strain",
-        "2024-04-28"
-    ],
-    [
-        "Certifying nonlocal properties of noisy quantum operations",
-        "2024-07-02"
-    ],
-    [
-        "Security of Partially Corrupted Repeater Chains",
-        "2024-06-24"
-    ],
-    [
-        "T-Count Optimizing Genetic Algorithm for Quantum State Preparation",
-        "2024-06-06"
-    ],
-    [
-        "Hardware-efficient variational quantum algorithm in trapped-ion quantum computer",
-        "2024-07-03"
-    ],
-    [
-        "Trapping polar molecules by surface acoustic waves",
-        "2024-04-27"
-    ],
-    [
-        "Spin Qubits with Scalable milli-kelvin CMOS Control",
-        "2024-07-21"
-    ],
-    [
-        "State preparation of lattice field theories using quantum optimal control",
-        "2024-07-24"
-    ],
-    [
-        "Pauli path simulations of noisy quantum circuits beyond average case",
-        "2024-07-22"
-    ],
-    [
-        "Entanglement-assisted quantum transduction",
-        "2024-04-15"
-    ],
-    [
-        "Microscale Fiber-Integrated Vector Magnetometer with On-Tip Field Biasing using NV Ensembles in Diamond Microcystals",
-        "2024-04-22"
-    ],
-    [
-        "Quantum hardware demonstrations of relativistic calculations of molecular electric dipole moments: from light to heavy systems using Variational Quantum Eigensolver",
-        "2024-06-07"
-    ],
-    [
-        "Uncertain Quantum Critical Metrology: From Single to Multi Parameter Sensing",
-        "2024-07-29"
-    ],
-    [
-        "CUAOA: A Novel CUDA-Accelerated Simulation Framework for the QAOA",
-        "2024-07-17"
-    ],
-    [
-        "Collective quantum enhancement in critical quantum sensing",
-        "2024-07-25"
-    ],
-    [
-        "Qudit-native measurement protocol for dynamical correlations using Hadamard tests",
-        "2024-07-03"
-    ],
-    [
-        "Protect Measurement-Induced Phase Transition from Noise",
-        "2024-06-20"
-    ],
-    [
-        "Reduced density matrix formulation of quantum linear response",
-        "2024-04-25"
-    ],
-    [
-        "Low-Overhead Defect-Adaptive Surface Code with Bandage-Like Super-Stabilizers",
-        "2024-04-29"
-    ],
-    [
-        "Quantum decoherence dynamics in stochastically fluctuating environments",
-        "2024-07-08"
-    ],
-    [
-        "Discrete-Modulated Continuous-Variable Quantum Key Distribution in Satellite-to-Ground Communication",
-        "2024-06-20"
-    ],
-    [
-        "A quantum analog of Huygen's clock: noise-induced synchronization",
-        "2024-07-24"
-    ],
-    [
-        "Quantum interrogation using weak value measurement",
-        "2024-07-01"
-    ],
-    [
-        "Quantum Non-Gaussian States of Superfluid Helium Vibrations",
-        "2024-06-14"
-    ],
-    [
-        "Studying Critical Parameters of Superconductor via Diamond Quantum Sensors",
-        "2024-07-23"
-    ],
-    [
-        "Positive and non-positive measurements in energy extraction from quantum batteries",
-        "2024-04-29"
-    ],
-    [
-        "Optimizing Off-Axis Fields for Vector Magnetometry with Point Defects",
-        "2024-04-15"
-    ],
-    [
-        "Finding Quantum Codes via Riemannian Optimization",
-        "2024-07-11"
-    ],
-    [
-        "Limitations to Dynamical Error Suppression and Gate-Error Virtualization from Temporally Correlated Nonclassical Noise",
-        "2024-07-05"
-    ],
-    [
-        "Thermodynamics of photoelectric devices",
-        "2024-07-01"
-    ],
-    [
-        "Distributing Arbitrary Quantum Cluster States by Graph Transformation",
-        "2024-04-08"
-    ],
-    [
-        "Numerical investigation of the quantum inverse algorithm on small molecules",
-        "2024-04-11"
-    ],
-    [
-        "Hybrid Rotational Cavity Optomechanics Using Atomic Superfluid in a Ring",
-        "2024-07-02"
-    ],
-    [
-        "Enhanced quantum state transfer via feedforward cancellation of optical phase noise",
+        "Second-Order Coherence as an Indicator of Quantum Entanglement of Hawking Radiation in Moving-Mirror Models",
         "2024-07-12"
     ],
     [
@@ -828,823 +20,243 @@
         "2024-05-29"
     ],
     [
-        "Quantum sensing in an exciton-polariton condensate",
-        "2024-07-19"
-    ],
-    [
-        "Cavity QED materials: Comparison and validation of two linear response theories at arbitrary light-matter coupling strengths",
-        "2024-06-17"
-    ],
-    [
-        "A quantum algorithm to simulate Lindblad master equations",
-        "2024-06-18"
-    ],
-    [
-        "Stability of Quantum Computers",
-        "2024-04-29"
-    ],
-    [
-        "A quantum eigenvalue solver based on tensor networks",
-        "2024-04-16"
-    ],
-    [
-        "Kinetic Inductance Parametric Converter",
-        "2024-07-19"
-    ],
-    [
-        "Fast optical control of a coherent hole spin in a microcavity",
-        "2024-07-26"
-    ],
-    [
-        "Noise induced coherent ergotropy of a quantum heat engine",
-        "2024-04-09"
-    ],
-    [
-        "High-Dimensional Bell States: A Paradigm Shift for Quantum Illumination",
-        "2024-07-10"
-    ],
-    [
-        "Gain assistant control of photonic spin Hall effect",
-        "2024-06-15"
-    ],
-    [
-        "Optimization complexity and resource minimization of emitter-based photonic graph state generation protocols",
-        "2024-07-22"
-    ],
-    [
-        "Promise of Graph Sparsification and Decomposition for Noise Reduction in QAOA: Analysis for Trapped-Ion Compilations",
-        "2024-06-20"
-    ],
-    [
-        "Red-QAOA: Efficient Variational Optimization through Circuit Reduction",
-        "2024-07-19"
-    ],
-    [
-        "Probing Yu-Shiba Rushinov state via quantum noise and $\u0394_T$ noise",
-        "2024-06-24"
-    ],
-    [
-        "Coherent control of levitated nanoparticles via dipole-dipole interaction",
-        "2024-04-15"
-    ],
-    [
-        "Chiral Chaos Enhanced Sensing",
-        "2024-04-10"
-    ],
-    [
-        "Demonstration of two-dimensional connectivity for a scalable error-corrected ion-trap quantum processor architecture",
-        "2024-06-04"
-    ],
-    [
-        "Optimal Mechanisms for Quantum Local Differential Privacy",
-        "2024-07-18"
-    ],
-    [
-        "Identifying non-Hermitian critical points with quantum metric",
-        "2024-04-24"
-    ],
-    [
-        "KPZ scaling from the Krylov space",
-        "2024-06-04"
-    ],
-    [
-        "Extending Radiowave Frequency Detection Range with Dressed States of Solid-State Spin Ensembles",
-        "2024-07-19"
-    ],
-    [
-        "High-threshold, low-overhead and single-shot decodable fault-tolerant quantum memory",
-        "2024-06-20"
-    ],
-    [
-        "Switching, Amplifying, and Chirping Diode Lasers with Current Pulses for High Bandwidth Quantum Technologies",
-        "2024-07-26"
-    ],
-    [
-        "Quartic quantum speedups for planted inference",
-        "2024-06-27"
-    ],
-    [
-        "Computationally Efficient Molecular Integrals of Solid Harmonic Gaussian Orbitals Using Quantum Entanglement of Angular Momentum",
-        "2024-04-24"
-    ],
-    [
-        "Queen: A quick, scalable, and comprehensive quantum circuit simulation for supercomputing",
-        "2024-06-20"
-    ],
-    [
-        "A photon-interfaced ten qubit quantum network node",
-        "2024-06-13"
-    ],
-    [
-        "Pauli Noise Learning for Mid-Circuit Measurements",
-        "2024-06-13"
-    ],
-    [
-        "Simultaneous Generation of Quantum Frequency Combs across Distinct Modal Families in a Single $Si_3 N_4$ Whispering Gallery Mode Resonator",
-        "2024-06-24"
-    ],
-    [
-        "Optimized measurement-free and fault-tolerant quantum error correction for neutral atoms",
-        "2024-04-17"
-    ],
-    [
-        "One-Way Quantum Repeater with Rare-Earth-Ions Doped in Solids",
-        "2024-04-13"
-    ],
-    [
-        "High-quality entangled photons source by symmetric beam displacement design",
-        "2024-07-04"
-    ],
-    [
-        "Quantum Chaos, Randomness and Universal Scaling of Entanglement in Various Krylov Spaces",
-        "2024-07-16"
-    ],
-    [
-        "Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures",
-        "2024-06-17"
-    ],
-    [
-        "Slowing Down a Coherent Superposition of Circular Rydberg States of Strontium",
-        "2024-06-03"
-    ],
-    [
-        "Effect of antiprotons on hydrogen-like ions in external magnetic fields",
-        "2024-07-02"
-    ],
-    [
-        "Role of Quantum Coherence in Kinetic Uncertainty Relations",
-        "2024-07-19"
-    ],
-    [
-        "Nuclear Spin Metrology with Nitrogen Vacancy Center in Diamond for Axion Dark Matter Detection",
-        "2024-07-09"
-    ],
-    [
-        "Quantum computer specification for nuclear structure calculations",
-        "2024-06-23"
-    ],
-    [
-        "Quantum integrated sensing and communication via entanglement",
-        "2024-04-12"
-    ],
-    [
-        "Phase transitions in (2 + 1)D subsystem-symmetric monitored quantum circuits",
-        "2024-07-25"
-    ],
-    [
-        "Spin/Phonon Dynamics in Single Molecular Magnets: II. spin/phonon entanglemen",
-        "2024-07-10"
-    ],
-    [
-        "A diverse set of two-qubit gates for spin qubits in semiconductor quantum dots",
-        "2024-04-29"
-    ],
-    [
-        "Acceleration Noise Induced Decoherence in Stern-Gerlach Interferometers for Gravity Experiments",
-        "2024-06-16"
-    ],
-    [
-        "Persistent quantum advantage with definite photon-number states in lossy multiple-phase estimation",
-        "2024-07-23"
-    ],
-    [
-        "High-Dimensional Subspace Expansion Using Classical Shadows",
-        "2024-06-17"
-    ],
-    [
-        "Quantum Control of an Oscillator with a Kerr-cat Qubit",
-        "2024-07-15"
-    ],
-    [
-        "Identifying Bottlenecks of NISQ-friendly HHL algorithms",
-        "2024-06-10"
-    ],
-    [
-        "Continuous drive heterodyne microwave sensing with spin qubits in hexagonal boron nitride",
-        "2024-06-24"
-    ],
-    [
-        "Non-Gaussian state teleportation with a nonlinear feedforward",
-        "2024-04-09"
-    ],
-    [
-        "Probing Yu-Shiba-Rusinov state via quantum noise and $\u0394_T$ noise",
-        "2024-06-24"
-    ],
-    [
-        "Optimal Control and Glassiness in Quantum Sensing",
-        "2024-06-05"
-    ],
-    [
-        "Strong-field ionization of chiral molecules with bicircular laser fields : sub-barrier dynamics, interference, and vortices",
-        "2024-04-09"
-    ],
-    [
-        "Linear-Size Ancilla Systems for Logical Measurements in QLDPC Codes",
-        "2024-07-25"
-    ],
-    [
-        "Entanglement-assisted phase estimation algorithm for calculating dynamical response functions",
-        "2024-04-30"
-    ],
-    [
-        "Active robustness against the detuning-error for Rydberg quantum gates",
-        "2024-04-18"
-    ],
-    [
-        "Eikonal Approximation for Floquet Scattering",
-        "2024-07-20"
-    ],
-    [
-        "Error mitigation with stabilized noise in superconducting quantum processors",
-        "2024-07-02"
-    ],
-    [
-        "Integrated electro-optics on thin-film lithium niobate",
-        "2024-04-09"
-    ],
-    [
-        "Generalized Type II Fusion of Cluster States",
-        "2024-06-21"
-    ],
-    [
-        "Circuit-level fault tolerance of cat codes",
-        "2024-06-06"
-    ],
-    [
-        "Symmetric top molecule YbOCH$_3$ in the fundamental $\\mathcal{P}$, $\\mathcal{T}$-violation searches",
-        "2024-04-11"
-    ],
-    [
-        "Coherent Erbium Spin Defects in Colloidal Nanocrystal Hosts",
-        "2024-06-11"
-    ],
-    [
-        "Joint estimation of noise and nonlinearity in Kerr systems",
-        "2024-06-14"
-    ],
-    [
-        "Probing spontaneously symmetry-broken phases with spin-charge separation through noise correlation measurements",
-        "2024-04-12"
-    ],
-    [
-        "Experimental Demonstration of a Quantum-Optimal Coronagraph Using Spatial Mode Sorters",
-        "2024-07-17"
-    ],
-    [
-        "An optical atomic clock using $4D_J$ states of rubidium",
-        "2024-06-13"
-    ],
-    [
-        "Sparks of Quantum Advantage and Rapid Retraining in Machine Learning",
-        "2024-07-22"
-    ],
-    [
-        "Time-resolved quantum correlations in electronic noise",
-        "2024-04-13"
-    ],
-    [
-        "A manufacturable platform for photonic quantum computing",
-        "2024-04-26"
-    ],
-    [
-        "Quantum enhancements and entropic constraints to Boundary Time Crystals as sensors of AC fields",
-        "2024-06-10"
-    ],
-    [
-        "Proximity-Induced Exchange Interaction: a New Pathway for Quantum Sensing using Spin Centers in Hexagonal Boron Nitride",
-        "2024-04-08"
-    ],
-    [
-        "Discretized Quantum Exhaustive Search for Variational Quantum Algorithms",
-        "2024-07-24"
-    ],
-    [
-        "Toward Reliable Dipole Moments without Single Excitations: The Role of Orbital Rotations and Dynamical Correlation",
-        "2024-04-09"
-    ],
-    [
-        "Critical fluctuation and noise spectra in two-dimensional Fe$_{3}$GeTe$_{2}$ magnets",
-        "2024-06-30"
-    ],
-    [
-        "Analog Quantum Simulator of a Quantum Field Theory with Fermion-Spin Systems in Silicon",
-        "2024-07-03"
-    ],
-    [
-        "Benchmarking and linear response modeling of high-fidelity Rydberg gates",
-        "2024-07-29"
-    ],
-    [
-        "Quantum Teleportation Coexisting with Conventional Classical Communications in Optical Fiber",
-        "2024-04-16"
-    ],
-    [
-        "Simulation of the Dissipative Dynamics of Strongly Interacting NV Centers with Tensor Networks",
-        "2024-06-12"
-    ],
-    [
-        "Quantum Hardware-Enabled Molecular Dynamics via Transfer Learning",
-        "2024-06-12"
-    ],
-    [
-        "Quantum-Enhanced Neural Exchange-Correlation Functionals",
-        "2024-04-22"
-    ],
-    [
-        "A generalized cycle benchmarking algorithm for characterizing mid-circuit measurements",
-        "2024-06-04"
-    ],
-    [
-        "PT Symmetry, induced mechanical lasing and tunable force sensing in a coupled-mode optically levitated nanoparticle",
-        "2024-04-17"
-    ],
-    [
-        "Precision Quantum Parameter Inference with Continuous Observation",
-        "2024-07-17"
-    ],
-    [
-        "Quantum channel correction outperforming direct transmission",
-        "2024-06-07"
-    ],
-    [
-        "Nonlinear interferometry-based metrology of magneto-optical properties at infrared wavelengths",
-        "2024-06-28"
-    ],
-    [
-        "Breaking and trapping Cooper pairs by Rydberg-molecule spectroscopy in atomic Fermi superfluids",
-        "2024-05-02"
-    ],
-    [
-        "Four-qubit photonic system for publicly verifiable quantum random numbers and generation of public and private key",
-        "2024-06-11"
-    ],
-    [
-        "Superradiance from Nitrogen Vacancy Centers Coupled to An Ultranarrow Optical Cavity",
-        "2024-07-13"
-    ],
-    [
-        "Repeater-Based Quantum Communication Protocol: Maximizing Teleportation Fidelity with Minimal Entanglement",
-        "2024-06-20"
-    ],
-    [
-        "All-optical production of Bose-Einstein condensates with 2 Hz repetition rate",
-        "2024-06-24"
-    ],
-    [
-        "Solving Fractional Differential Equations on a Quantum Computer: A Variational Approach",
-        "2024-06-13"
-    ],
-    [
-        "Ramsey interferometry of nuclear spins in diamond using stimulated Raman adiabatic passage",
-        "2024-07-22"
-    ],
-    [
-        "Generating multipartite nonlocality to benchmark quantum computers",
-        "2024-06-11"
-    ],
-    [
-        "Optimal Multiparameter Metrology: The Quantum Compass Solution",
-        "2024-04-22"
-    ],
-    [
-        "Spatial light mode analogues of generalized quantum coherent states",
-        "2024-05-31"
-    ],
-    [
-        "Spectral Features of the Fourth Order Irreducible Correlations in a Monolayer Semiconductor",
-        "2024-05-03"
-    ],
-    [
-        "Quantum coarsening and collective dynamics on a programmable quantum simulator",
-        "2024-07-03"
-    ],
-    [
-        "Lower bounds on bipartite entanglement in noisy graph states",
-        "2024-04-13"
-    ],
-    [
-        "Programmable activation of quantum emitters in high-purity silicon with focused carbon ion beams",
-        "2024-04-30"
-    ],
-    [
-        "Chebyshev pseudosite matrix product state approach for cluster perturbation theory",
-        "2024-04-08"
-    ],
-    [
-        "Feynman Diagrams for Matter Wave Interferometry",
-        "2024-07-16"
-    ],
-    [
-        "High-precision chemical quantum sensing in flowing monodisperse microdroplets",
-        "2024-04-30"
-    ],
-    [
-        "An Efficient Quantum Euclidean Similarity Algorithm for Worldwide Localization",
-        "2024-07-19"
-    ],
-    [
-        "Laser-written micro-channel atomic magnetometer",
-        "2024-04-22"
-    ],
-    [
-        "Integrated high-performance error correction for continuous-variable quantum key distribution",
-        "2024-07-23"
-    ],
-    [
-        "Practicality of quantum adiabatic algorithm for chemistry applications",
-        "2024-07-13"
-    ],
-    [
-        "$n$ qubits can be entangled in two different ways",
-        "2024-06-27"
-    ],
-    [
-        "Speeding up quantum measurement using space-time trade-off",
-        "2024-07-24"
-    ],
-    [
-        "CMOS-fabricated ultraviolet light modulators using low-loss alumina piezo-optomechanical photonic circuits",
-        "2024-06-29"
-    ],
-    [
-        "Qudit non-Clifford interleaved benchmarking",
-        "2024-07-20"
-    ],
-    [
-        "Quantum-Classical Separations in Shallow-Circuit-Based Learning with and without Noises",
-        "2024-05-01"
-    ],
-    [
-        "High-Dimensional Two-Photon Quantum Controlled Phase-Flip Gate",
-        "2024-04-23"
-    ],
-    [
-        "Nonlinearity-enhanced quantum sensing in Stark probes",
-        "2024-04-16"
-    ],
-    [
-        "Demonstration of a Squeezed Light Source on Thin-Film Lithium Niobate with Modal Phase Matching",
-        "2024-06-24"
-    ],
-    [
-        "Finite Key Security of Simplified Trusted Node Networks",
-        "2024-04-26"
-    ],
-    [
-        "OQuPy: A Python package to efficiently simulate non-Markovian open quantum systems with process tensors",
-        "2024-06-24"
-    ],
-    [
-        "Physics-informed neural network for quantum control of NMR registers",
-        "2024-06-29"
-    ],
-    [
-        "A Comprehensive Study on A Tapered Paul Trap: From Design to Potential Applications",
-        "2024-04-16"
-    ],
-    [
-        "Enhanced Whispering Gallery Mode Phase Shift using Indistinguishable Photon Pairs",
-        "2024-04-26"
-    ],
-    [
-        "Pure State Inspired Lossless Post-selected Quantum Metrology of Mixed States",
-        "2024-05-01"
-    ],
-    [
-        "Quantum consistent neural/tensor networks for photonic circuits with strongly/weakly entangled states",
-        "2024-06-03"
-    ],
-    [
-        "Learning to rank quantum circuits for hardware-optimized performance enhancement",
-        "2024-04-09"
-    ],
-    [
-        "Observation of Space-Dependent Rotational Doppler Shifts with a Single Ion Probe",
-        "2024-07-06"
-    ],
-    [
-        "Color code decoder with improved scaling for correcting circuit-level noise",
-        "2024-04-11"
-    ],
-    [
-        "Interferometry of quantum correlation functions to access quasiprobability distribution of work",
-        "2024-05-31"
-    ],
-    [
-        "Achieving Heisenberg scaling in low-temperature quantum thermometry",
-        "2024-07-08"
-    ],
-    [
-        "Observation of a giant Goos-H\u00e4nchen shift for matter waves",
-        "2024-07-01"
-    ],
-    [
-        "Numerical evaluation of orientation averages and its application to molecular physics",
-        "2024-07-24"
-    ],
-    [
-        "Analytical derivation and extension of the anti-Kibble-Zurek scaling in the transverse field Ising model",
-        "2024-04-26"
+        "Universal scaling laws for correlated decay of many-body quantum systems",
+        "2024-06-02"
     ],
     [
         "High-Efficiency Low-Noise Optomechanical Crystal Photon-Phonon Transducers",
         "2024-06-22"
     ],
     [
-        "Improved Optimization for the Neural-network Quantum States and Tests on the Chromium Dimer",
-        "2024-04-14"
+        "Improving Trainability of Variational Quantum Circuits via Regularization Strategies",
+        "2024-05-02"
     ],
     [
-        "Hybrid Quantum-Classical Photonic Neural Networks",
-        "2024-07-02"
+        "Qudit-native measurement protocol for dynamical correlations using Hadamard tests",
+        "2024-07-03"
     ],
     [
-        "All-optical Loss-tolerant Distributed Quantum Sensing",
-        "2024-07-18"
-    ],
-    [
-        "Bayesian Parameterized Quantum Circuit Optimization (BPQCO): A task and hardware-dependent approach",
-        "2024-04-17"
-    ],
-    [
-        "Variational Quantum Imaginary Time Evolution for Matrix Product State Ansatz with Tests on Transcorrelated Hamiltonians",
-        "2024-07-15"
-    ],
-    [
-        "Quantum Frequency Mixing using an NV Diamond Microscope",
-        "2024-07-09"
-    ],
-    [
-        "Universal scaling laws for correlated decay of many-body quantum systems",
-        "2024-06-02"
-    ],
-    [
-        "Accuracy guarantees and quantum advantage in analogue open quantum simulation with and without noise",
-        "2024-04-17"
-    ],
-    [
-        "Qubit-assisted quantum metrology",
-        "2024-04-19"
-    ],
-    [
-        "Leveraging collective effects for thermometry in waveguide quantum electrodynamics",
-        "2024-07-08"
-    ],
-    [
-        "Simulating open quantum systems with giant atoms",
-        "2024-06-19"
-    ],
-    [
-        "Approximate quantum error correcting codes from conformal field theory",
-        "2024-06-13"
-    ],
-    [
-        "OnionVQE Optimization Strategy for Ground State Preparation on NISQ Devices",
-        "2024-07-15"
-    ],
-    [
-        "A strongly interacting, two-dimensional, dipolar spin ensemble in (111)-oriented diamond",
-        "2024-04-15"
-    ],
-    [
-        "Cavity-Enhanced Emission and Absorption of Color Centers in a Diamond Membrane With Selectable Strain",
-        "2024-05-30"
-    ],
-    [
-        "Two-dimensional correlation propagation dynamics with a cluster discrete phase-space method",
-        "2024-04-29"
-    ],
-    [
-        "Disentangling Quantum Classifiers: Simplex Edge Mapping for Few-Sample Confidence",
-        "2024-06-07"
-    ],
-    [
-        "Quantum theory of a potential biological magnetic field sensor: radical pair mechanism in flavin adenine dinucleotide biradicals",
-        "2024-06-18"
-    ],
-    [
-        "Protecting three-dimensional entanglement from correlated amplitude damping channel",
-        "2024-06-26"
-    ],
-    [
-        "Finite-Depth Preparation of Tensor Network States from Measurement",
-        "2024-04-26"
-    ],
-    [
-        "Synergy between noisy quantum computers and scalable classical deep learning",
-        "2024-04-11"
-    ],
-    [
-        "Majorana qubit readout by a point-contact detector under finite bias voltages",
-        "2024-06-16"
-    ],
-    [
-        "Many-body quantum register for a spin qubit",
+        "Simple loss-tolerant protocol for GHZ-state distribution in a quantum network",
         "2024-04-30"
     ],
     [
-        "Improving probabilistic error cancellation in the presence of non-stationary noise",
-        "2024-04-20"
+        "Charge and Spin Dynamics and Destabilization of Shallow Nitrogen-Vacancy Centers under UV and Blue Excitation",
+        "2024-06-26"
     ],
     [
-        "Saturation Dynamics in Non-Hermitian Topological Sensing Systems",
-        "2024-06-28"
-    ],
-    [
-        "Spin-photon entanglement of a single Er$^{3+}$ ion in the telecom band",
-        "2024-06-10"
-    ],
-    [
-        "Classicality concept test on neutral pseudoscalar meson qubits with Wigner inequalities",
-        "2024-07-01"
-    ],
-    [
-        "Elastic scattering on a quantum computer",
-        "2024-06-13"
-    ],
-    [
-        "Quantum Information Processing with Molecular Nanomagnets: an introduction",
-        "2024-05-31"
-    ],
-    [
-        "Evaluating a quantum-classical quantum Monte Carlo algorithm with Matchgate shadows",
-        "2024-04-28"
-    ],
-    [
-        "Fault-tolerant compiling of classically hard IQP circuits on hypercubes",
-        "2024-04-29"
-    ],
-    [
-        "Hyperpolarisation Dynamics: Asymptotic Polarisation",
-        "2024-04-11"
-    ],
-    [
-        "Quantum Geometric Tensor and Critical Metrology in the Anisotropic Dicke Model",
-        "2024-06-10"
-    ],
-    [
-        "Beyond Weak Cram\u00e9r Rao Bound for Distributed Phases Using Multiphoton Polarization GHZ State: Exact Quantum Fisher Matrix Results",
+        "Effect of antiprotons on hydrogen-like ions in external magnetic fields",
         "2024-07-02"
-    ],
-    [
-        "Quantum encoder for fixed Hamming-weight subspaces",
-        "2024-05-30"
-    ],
-    [
-        "SHARC-VQE: Simplified Hamiltonian Approach with Refinement and Correction enabled Variational Quantum Eigensolver for Molecular Simulation",
-        "2024-07-17"
-    ],
-    [
-        "Continuous-variable quantum key distribution with noisy squeezed states",
-        "2024-04-08"
-    ],
-    [
-        "Advances in quantum metrology with dielectrically structured single photon sources based on molecules",
-        "2024-07-08"
     ],
     [
         "Exploring Quantum Materials & Applications: A Review",
         "2024-04-21"
     ],
     [
-        "Mask-coding-assisted continuous-variable quantum direct communication with orbital angular momentum multiplexing",
-        "2024-06-17"
+        "Wafer-Scale Fabrication of InGaP-on-Insulator for Nonlinear and Quantum Photonic Applications",
+        "2024-06-26"
     ],
     [
-        "Quantum Data Centers in the Presence of Noise",
-        "2024-07-15"
+        "Momentum Space Feynman Integral for the Bound State Aharonov-Bohm Effect",
+        "2024-07-21"
     ],
     [
-        "Hyperfine-to-rotational energy transfer in ultracold atom-molecule collisions",
-        "2024-07-11"
-    ],
-    [
-        "Schmidt modes carrying orbital angular momentum generated by cascaded systems pumped with Laguerre-Gaussian beams",
-        "2024-07-17"
-    ],
-    [
-        "Expressibility of linear combination of ansatz circuits",
-        "2024-06-16"
-    ],
-    [
-        "Feed-Forward Probabilistic Error Cancellation with Noisy Recovery Gates",
-        "2024-05-03"
-    ],
-    [
-        "Efficient classical algorithm for simulating boson sampling with inhomogeneous partial distinguishability",
-        "2024-06-25"
-    ],
-    [
-        "Stable Symmetry-Protected Topological Phases in Systems with Heralded Noise",
-        "2024-04-25"
-    ],
-    [
-        "Quantum metrology of rotations with mixed spin states",
-        "2024-04-23"
-    ],
-    [
-        "Witnessing Quantum Entanglement Using Resonant Inelastic X-ray Scattering",
-        "2024-04-08"
-    ],
-    [
-        "Development of Pattern Recognition Validation for Boson Sampling",
-        "2024-04-24"
-    ],
-    [
-        "Efficient simulation of quantum chemistry problems in an enlarged basis set",
+        "Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements",
         "2024-07-05"
     ],
     [
-        "Quantum-enhanced learning with a controllable bosonic variational sensor network",
-        "2024-04-28"
+        "An analog of topological entanglement entropy for mixed states",
+        "2024-07-30"
     ],
     [
-        "Effective Many-body Interactions in Reduced-Dimensionality Spaces Through Neural Network Models",
-        "2024-07-08"
+        "A Study on Quantum Car-Parrinello Molecular Dynamics with Classical Shadows for Resource Efficient Molecular Simulation",
+        "2024-06-27"
     ],
     [
-        "A Dual Open Atom Interferometer for Compact, Mobile Quantum Sensing",
-        "2024-05-01"
+        "Quantum Non-Gaussian States of Superfluid Helium Vibrations",
+        "2024-06-14"
     ],
     [
-        "Enhanced Quantum Metrology with Non-Phase-Covariant Noise",
+        "Observation of a giant Goos-H\u00e4nchen shift for matter waves",
+        "2024-07-01"
+    ],
+    [
+        "Superradiance from Nitrogen Vacancy Centers Coupled to An Ultranarrow Optical Cavity",
+        "2024-07-13"
+    ],
+    [
+        "Hybrid Quantum-Classical Photonic Neural Networks",
+        "2024-07-02"
+    ],
+    [
+        "Realization of two-qubit gates and multi-body entanglement states in an asymmetric superconducting circuits",
         "2024-04-12"
     ],
     [
-        "Quantum Equation-of-Motion Method with Single, Double, and Triple Excitations",
-        "2024-06-15"
+        "Multiplexed scanning microscopy with dual-qubit spin sensors",
+        "2024-07-28"
     ],
     [
-        "NAC-QFL: Noise Aware Clustered Quantum Federated Learning",
-        "2024-06-20"
+        "Critical metrology of minimally accessible anisotropic spin chains",
+        "2024-05-30"
     ],
     [
-        "Noise-tolerant public-key quantum money from a classical oracle",
-        "2024-07-08"
+        "Analytical derivation and extension of the anti-Kibble-Zurek scaling in the transverse field Ising model",
+        "2024-04-26"
     ],
     [
-        "Realizing fracton order from long-range quantum entanglement in programmable Rydberg atom arrays",
-        "2024-07-08"
+        "Optimal Multiparameter Metrology: The Quantum Compass Solution",
+        "2024-04-22"
     ],
     [
-        "Spin/Phonon Dynamics in Single Molecular Magnets: I. quantum embedding",
+        "Free-space quantum information platform on a chip",
+        "2024-06-13"
+    ],
+    [
+        "Analyzing Machine Learning Performance in a Hybrid Quantum Computing and HPC Environment",
         "2024-07-10"
     ],
     [
-        "The genuinely multipartite nonlocality of graph states is model-dependent",
-        "2024-04-24"
+        "Accurate Chemical Reaction Modeling on Noisy Intermediate-Scale Quantum Computers Using a Noise-Resilient Wavefunction Ansatz",
+        "2024-04-22"
     ],
     [
-        "Error correction for encoded quantum annealing revisited",
-        "2024-07-22"
-    ],
-    [
-        "Design and demonstration of an operating system for executing applications on quantum network nodes",
-        "2024-07-25"
-    ],
-    [
-        "Unambiguous discrimination of general quantum operations",
-        "2024-04-20"
-    ],
-    [
-        "Efficient variational quantum eigensolver methodologies on quantum processors",
-        "2024-07-23"
-    ],
-    [
-        "Designing metasurface optical interfaces for solid-state qubits using many-body adjoint shape optimization",
-        "2024-06-12"
-    ],
-    [
-        "Lowering Connectivity Requirements For Bivariate Bicycle Codes Using Morphing Circuits",
-        "2024-07-23"
-    ],
-    [
-        "Classical-Quantum Dual Encoding for Laser Communications in Space",
+        "Lattice Surgery for Dummies",
         "2024-04-19"
     ],
     [
-        "Broadband Entangled-Photon Pair Generation with Integrated Photonics: Guidelines and A Materials Comparison",
-        "2024-07-05"
+        "Many-body quantum register for a spin qubit",
+        "2024-04-30"
     ],
     [
-        "Discrete Time Crystal Phase as a Resource for Quantum Enhanced Sensing",
-        "2024-05-01"
+        "Magnon squeezing via reservoir-engineered optomagnomechanics",
+        "2024-07-11"
     ],
     [
-        "Variational Quantum Circuit Decoupling",
-        "2024-06-09"
+        "Amplitude-noise-resilient entangling gates for trapped ions",
+        "2024-07-03"
     ],
     [
-        "Quantum key distribution with displaced thermal states",
+        "Monolithically Integrated Ultra-Low Noise Balanced Receiver for CV-QKD",
+        "2024-07-15"
+    ],
+    [
+        "High-threshold, low-overhead and single-shot decodable fault-tolerant quantum memory",
+        "2024-06-20"
+    ],
+    [
+        "Exploiting many-body localization for scalable variational quantum simulation",
+        "2024-04-26"
+    ],
+    [
+        "Stabilizing an individual charge fluctuator in a Si/SiGe quantum dot",
+        "2024-07-07"
+    ],
+    [
+        "Spin/Phonon Dynamics in Single Molecular Magnets: II. spin/phonon entanglemen",
+        "2024-07-10"
+    ],
+    [
+        "Parametrically controlled chiral interface for superconducting quantum devices",
+        "2024-05-23"
+    ],
+    [
+        "Deterministic generation of concatenated graph codes from quantum emitters",
+        "2024-06-24"
+    ],
+    [
+        "Ultrasensitive single-ion electrometry in a magnetic field gradient",
+        "2024-06-12"
+    ],
+    [
+        "A diverse set of two-qubit gates for spin qubits in semiconductor quantum dots",
         "2024-04-29"
     ],
     [
-        "Optimization of Static Potentials for Large Delocalization and Non-Gaussian Quantum Dynamics of Levitated Nanoparticles Under Decoherence",
+        "Non-Gaussian generalized two-mode squeezing: applications to two-ensemble spin squeezing and beyond",
+        "2024-06-30"
+    ],
+    [
+        "Computational Electromagnetics Meets Spin Qubits: Controlling Noise Effects in Quantum Sensing and Computing",
+        "2024-05-03"
+    ],
+    [
+        "A photon-interfaced ten qubit quantum network node",
+        "2024-06-13"
+    ],
+    [
+        "Utilizing probabilistic entanglement between sensors in quantum networks",
+        "2024-07-22"
+    ],
+    [
+        "Red-QAOA: Efficient Variational Optimization through Circuit Reduction",
+        "2024-07-19"
+    ],
+    [
+        "Effects of resonant dipole-dipole interactions in the spin noise of atomic vapors",
         "2024-06-28"
     ],
     [
-        "Investigate the Performance of Distribution Loading with Conditional Quantum Generative Adversarial Network Algorithm on Quantum Hardware with Error Suppression",
+        "Improving probabilistic error cancellation in the presence of non-stationary noise",
+        "2024-04-20"
+    ],
+    [
+        "Two-dimensional correlation propagation dynamics with a cluster discrete phase-space method",
+        "2024-04-29"
+    ],
+    [
+        "Hybrid Rotational Cavity Optomechanics Using Atomic Superfluid in a Ring",
+        "2024-07-02"
+    ],
+    [
+        "Trusted source noise model of discrete-modulated continuous-variable quantum key distribution",
+        "2024-07-29"
+    ],
+    [
+        "Linear-Size Ancilla Systems for Logical Measurements in QLDPC Codes",
+        "2024-07-25"
+    ],
+    [
+        "Metrology of microwave fields based on trap-loss spectroscopy with cold Rydberg atoms",
+        "2024-04-26"
+    ],
+    [
+        "State preparation of lattice field theories using quantum optimal control",
+        "2024-07-24"
+    ],
+    [
+        "Impact of Measurement Noise on Escaping Saddles in Variational Quantum Algorithms",
+        "2024-06-14"
+    ],
+    [
+        "All-in-one Quantum Diamond Microscope for Sensor Characterization",
+        "2024-04-18"
+    ],
+    [
+        "Apparatus for Optical-Atomic System Integration & Calibration: 1 atm to 1$\\times$10$^{-11}$ Torr in 24h",
+        "2024-07-18"
+    ],
+    [
+        "Low-cost noise reduction for Clifford circuits",
+        "2024-07-09"
+    ],
+    [
+        "Quantum Mechanics of Open Systems in Non-Inertial Motion",
+        "2024-04-10"
+    ],
+    [
+        "Joint estimation of noise and nonlinearity in Kerr systems",
+        "2024-06-14"
+    ],
+    [
+        "Observation of Momentum Space Josephson Effects",
+        "2024-04-19"
+    ],
+    [
+        "Pauli path simulations of noisy quantum circuits beyond average case",
+        "2024-07-22"
+    ],
+    [
+        "SA-DQAS: Self-attention Enhanced Differentiable Quantum Architecture Search",
         "2024-06-13"
     ],
     [
@@ -1652,655 +264,2079 @@
         "2024-07-01"
     ],
     [
-        "Birefringent spin-photon interface generates polarization entanglement",
-        "2024-04-24"
+        "A strongly interacting, two-dimensional, dipolar spin ensemble in (111)-oriented diamond",
+        "2024-04-15"
     ],
     [
-        "Spectroscopy and modeling of $^{171}$Yb Rydberg states for high-fidelity two-qubit gates",
-        "2024-06-03"
+        "Sparse Simulation of VQE Circuits for Quantum Chemistry",
+        "2024-04-15"
     ],
     [
-        "Entanglement Assisted Squeezed States of Light in All Fiber Form-Factor",
-        "2024-06-28"
-    ],
-    [
-        "Computational Electromagnetics Meets Spin Qubits: Controlling Noise Effects in Quantum Sensing and Computing",
-        "2024-05-03"
-    ],
-    [
-        "Quantum Enhanced Sensitivity through Many-Body Bloch Oscillations",
-        "2024-06-20"
-    ],
-    [
-        "Energy efficient coherent quantum control of nitrogen vacancy (NV) spin with nanoscale magnets",
-        "2024-07-19"
-    ],
-    [
-        "GHZ protocols enhance frequency metrology despite spontaneous decay",
-        "2024-06-17"
-    ],
-    [
-        "Dissipative variational quantum algorithms for Gibbs state preparation",
-        "2024-07-12"
-    ],
-    [
-        "Temperature dependent spin-phonon coupling of boron-vacancy centers in hexagonal boron nitride",
-        "2024-04-23"
-    ],
-    [
-        "Generalized phase estimation in noisy quantum gates",
-        "2024-06-03"
-    ],
-    [
-        "Metrology of microwave fields based on trap-loss spectroscopy with cold Rydberg atoms",
-        "2024-04-26"
-    ],
-    [
-        "Algebraic Observational Cosmology",
-        "2024-06-03"
-    ],
-    [
-        "Ultrasensitive single-ion electrometry in a magnetic field gradient",
-        "2024-06-12"
-    ],
-    [
-        "Nanoscale sensing of spatial correlations in nonequilibrium current noise",
-        "2024-04-23"
-    ],
-    [
-        "Quantum plasmonic sensing by Hong-Ou-Mandel interferometry",
-        "2024-04-17"
-    ],
-    [
-        "Light Cone Cancellation for Variational Quantum Eigensolver Ansatz",
-        "2024-04-30"
-    ],
-    [
-        "How coherence measurements of a qubit steer its quantum environment",
-        "2024-04-09"
-    ],
-    [
-        "Variational readout through quantum teleportation",
-        "2024-06-05"
-    ],
-    [
-        "Diffusion-Inspired Quantum Noise Mitigation in Parameterized Quantum Circuits",
-        "2024-06-02"
-    ],
-    [
-        "Utility of virtual qubits in trapped-ion quantum computers",
-        "2024-06-27"
-    ],
-    [
-        "Simulating open-system molecular dynamics on analog quantum computers",
-        "2024-07-25"
-    ],
-    [
-        "Quantum metrology with a squeezed Kerr oscillator",
-        "2024-06-17"
-    ],
-    [
-        "Ultrafast, all-optical coherence of molecular electron spins in room-temperature, aqueous solution",
-        "2024-07-26"
-    ],
-    [
-        "Bayesian Inference of General Noise Model Parameters from Surface Code's Syndrome Statistics",
-        "2024-06-13"
-    ],
-    [
-        "Quantum eraser experiments for the demonstration of entanglement between swift electrons and light",
-        "2024-04-17"
-    ],
-    [
-        "Wafer-Scale Fabrication of InGaP-on-Insulator for Nonlinear and Quantum Photonic Applications",
-        "2024-06-26"
-    ],
-    [
-        "Electronic Wigner-Molecule Polymeric Chains in Elongated Silicon Quantum Dots and Finite-Length Quantum Wires",
-        "2024-06-09"
-    ],
-    [
-        "The impact of microwave phase noise on diamond quantum sensing",
-        "2024-07-09"
-    ],
-    [
-        "Fault-tolerant quantum computing with the parity code and noise-biased qubits",
-        "2024-04-17"
-    ],
-    [
-        "Stabilizing an individual charge fluctuator in a Si/SiGe quantum dot",
-        "2024-07-07"
-    ],
-    [
-        "Scalable noise characterisation of syndrome extraction circuits with averaged circuit eigenvalue sampling",
-        "2024-04-09"
-    ],
-    [
-        "Automated distribution of high-rate, high-fidelity polarization entangled photons using deployed metropolitan fibers",
-        "2024-04-12"
-    ],
-    [
-        "Tomography of a single-atom-resolved detector in the presence of shot-to-shot number fluctuations",
-        "2024-05-02"
-    ],
-    [
-        "Free-space quantum information platform on a chip",
-        "2024-06-13"
-    ],
-    [
-        "VeriQR: A Robustness Verification Tool for Quantum Machine Learning Models",
-        "2024-07-18"
-    ],
-    [
-        "Photon number distribution of squeezed light from a silicon nitride microresonator measured without photon number resolving detectors",
-        "2024-06-19"
-    ],
-    [
-        "Second-Order Coherence as an Indicator of Quantum Entanglement of Hawking Radiation in Moving-Mirror Models",
-        "2024-07-12"
-    ],
-    [
-        "Parameter Estimation in Quantum Metrology Technique for Time Series Prediction",
-        "2024-06-12"
-    ],
-    [
-        "Improved criteria of detecting multipartite entanglement structure",
-        "2024-06-11"
-    ],
-    [
-        "Quantum Computing for Phonon Scattering Effects on Thermal Conductivity",
-        "2024-07-22"
-    ],
-    [
-        "Near-quantum limited axion dark matter search with the ORGAN experiment around 26 $\u03bc$eV",
-        "2024-07-26"
-    ],
-    [
-        "Compact fermionic quantum state preparation with a natural-orbitalizing variational quantum eigensolving scheme",
-        "2024-06-20"
-    ],
-    [
-        "Experimental certification of level dynamics in single-photon emitters",
-        "2024-07-18"
-    ],
-    [
-        "Stochastic Processes: From Classical to Quantum",
-        "2024-07-04"
-    ],
-    [
-        "Harnessing quantum light for microscopic biomechanical imaging of cells and tissues",
-        "2024-07-11"
-    ],
-    [
-        "Protecting Quantum Information via Many-Body Dynamical Localization",
-        "2024-07-27"
-    ],
-    [
-        "Nonlinearity of the Fidelity in Open Qudit Systems: Gate and Noise Dependence in High-dimensional Quantum Computing",
-        "2024-06-21"
-    ],
-    [
-        "Diamond surfaces with lateral gradients for systematic optimization of surface chemistry for relaxometry -- A low pressure plasma-based approach",
-        "2024-04-18"
-    ],
-    [
-        "Enhancing teleportation via noisy channels: effects of the induced multipartite entanglement",
-        "2024-04-14"
-    ],
-    [
-        "Quantum subspace expansion in the presence of hardware noise",
-        "2024-04-14"
-    ],
-    [
-        "A polynomial-time classical algorithm for noisy quantum circuits",
-        "2024-07-17"
-    ],
-    [
-        "Recovery of resource through sequential noisy measurements",
-        "2024-06-11"
-    ],
-    [
-        "Quantum control in the presence of strongly coupled non-Markovian noise",
-        "2024-04-30"
-    ],
-    [
-        "Purification and correction of quantum channels by commutation-derived quantum filters",
-        "2024-07-29"
-    ],
-    [
-        "Global calibration of large-scale photonic integrated circuits",
-        "2024-07-02"
-    ],
-    [
-        "Qudit Dynamical Decoupling on a Superconducting Quantum Processor",
-        "2024-07-05"
-    ],
-    [
-        "High-Fidelity Electron Spin Gates in a Scalable Diamond Quantum Register",
-        "2024-06-06"
-    ],
-    [
-        "Detection of broadband squeezed light with a low-noise die-level balanced receiver",
-        "2024-07-10"
-    ],
-    [
-        "Experimental Hybrid Shadow Tomography and Distillation",
-        "2024-04-18"
-    ],
-    [
-        "Towards a spatial cat state of a massive pendulum",
-        "2024-04-12"
-    ],
-    [
-        "Quantum computational advantage with constant-temperature Gibbs sampling",
-        "2024-04-23"
-    ],
-    [
-        "Encoded probabilistic imaginary-time evolution on a trapped-ion quantum computer for ground and excited states of spin qubits",
-        "2024-07-15"
-    ],
-    [
-        "Effect of environmental noise on charge diffusion in DNA: Towards modeling its potential epigenetic impact in live processes",
-        "2024-07-19"
-    ],
-    [
-        "Realization of two-qubit gates and multi-body entanglement states in an asymmetric superconducting circuits",
-        "2024-04-12"
-    ],
-    [
-        "How to surpass no-go limits in Gaussian quantum error correction and entangled Gaussian state distillation?",
-        "2024-04-29"
-    ],
-    [
-        "Insensitivity of the two-photon Jaynes-Cummings model to thermal noise",
-        "2024-06-27"
-    ],
-    [
-        "Classically Spoofing System Linear Cross Entropy Score Benchmarking",
-        "2024-05-01"
-    ],
-    [
-        "Photon-resolved Floquet theory I: Full-Counting statistics of the driving field in Floquet systems",
-        "2024-07-25"
-    ],
-    [
-        "Resonator-mediated quantum gate between distant charge qubits",
-        "2024-06-10"
-    ],
-    [
-        "SA-DQAS: Self-attention Enhanced Differentiable Quantum Architecture Search",
-        "2024-06-13"
-    ],
-    [
-        "Critical metrology of minimally accessible anisotropic spin chains",
-        "2024-05-30"
-    ],
-    [
-        "Entanglement and operator correlation signatures of many-body quantum Zeno phases in inefficiently monitored noisy systems",
-        "2024-07-16"
-    ],
-    [
-        "Guardians of the Quantum GAN",
-        "2024-04-24"
-    ],
-    [
-        "Qubit frugal entanglement determination with the deep multi-scale entanglement renormalization ansatz",
-        "2024-04-12"
-    ],
-    [
-        "Machine-learning-inspired quantum control in many-body dynamics",
-        "2024-04-09"
-    ],
-    [
-        "Optimized Distribution of Entanglement Graph States in Quantum Networks",
-        "2024-04-30"
-    ],
-    [
-        "Continuous-variable quantum digital signatures against coherent attacks",
-        "2024-07-04"
-    ],
-    [
-        "Spin torque driven electron paramagnetic resonance of a single spin in a pentacene molecule",
-        "2024-06-25"
-    ],
-    [
-        "Super-resolution imaging based on active optical intensity interferometry",
-        "2024-04-24"
-    ],
-    [
-        "New design paradigm for highly efficient and low noise photodetector",
-        "2024-07-23"
-    ],
-    [
-        "Demonstration of system-bath physics on gate-based quantum computer",
-        "2024-04-29"
-    ],
-    [
-        "Decoherence induced by a sparse bath of two-level fluctuators: peculiar features of $1/f$ noise in high-quality qubits",
-        "2024-04-29"
-    ],
-    [
-        "Modulated Ringdown Comb Interferometry for next-generation high complexity trace gas sensing",
-        "2024-06-05"
-    ],
-    [
-        "Interfacing Gottesman-Kitaev-Preskill Qubits to Quantum Memories",
-        "2024-06-06"
-    ],
-    [
-        "All-in-one Quantum Diamond Microscope for Sensor Characterization",
-        "2024-04-18"
-    ],
-    [
-        "Quantum Sensing from Gravity as Universal Dephasing Channel for Qubits",
-        "2024-06-05"
-    ],
-    [
-        "Non-Gaussian generalized two-mode squeezing: applications to two-ensemble spin squeezing and beyond",
-        "2024-06-30"
-    ],
-    [
-        "Coherent Heat Transfer Leads to Genuine Quantum Enhancement in Performances of Continuous Engines",
-        "2024-04-08"
-    ],
-    [
-        "Q-BiC: A biocompatible integrated chip for in vitro and in vivo spin-based quantum sensing",
-        "2024-06-03"
-    ],
-    [
-        "Clapton: Clifford-Assisted Problem Transformation for Error Mitigation in Variational Quantum Algorithms",
-        "2024-06-22"
-    ],
-    [
-        "What if you have only one copy? Low-depth quantum circuits have no advantage in decision problems!",
-        "2024-04-08"
-    ],
-    [
-        "Chiral photon blockade in the spinning Kerr resonator",
-        "2024-06-02"
-    ],
-    [
-        "The Role of Spin-Orbit Coupling on the Linear Absorption Spectrum and Intersystem Crossing Rate Coefficients of Ruthenium Polypyridyl Dyes",
-        "2024-06-18"
-    ],
-    [
-        "On the Baltimore Light RailLink into the quantum future",
-        "2024-06-17"
-    ],
-    [
-        "Dielectric Fano Nanoantennas for Enabling Sub-Nanosecond Lifetimes in NV-based Single Photon Emitters",
-        "2024-07-03"
-    ],
-    [
-        "Impact of Loss Mechanisms on Linear Spectra of Excitonic and Polaritonic Aggregates",
-        "2024-06-24"
-    ],
-    [
-        "Few-Shot, Robust Calibration of Single Qubit Gates Using Bayesian Robust Phase Estimation",
-        "2024-07-25"
-    ],
-    [
-        "Cavity QED in a High NA Resonator",
-        "2024-07-05"
-    ],
-    [
-        "Emerging Quadrature Lattices of Kerr Combs",
-        "2024-07-17"
-    ],
-    [
-        "Wideband Coherent Microwave Conversion via Magnon Nonlinearity in Hybrid Quantum System",
-        "2024-07-03"
-    ],
-    [
-        "Purification of Noisy Measurements and Faithful Distillation of Entanglement",
-        "2024-04-16"
-    ],
-    [
-        "Multiparameter cascaded quantum interferometer",
-        "2024-04-11"
-    ],
-    [
-        "Utilizing probabilistic entanglement between sensors in quantum networks",
-        "2024-07-22"
-    ],
-    [
-        "Quantum Mechanics of Open Systems in Non-Inertial Motion",
-        "2024-04-10"
-    ],
-    [
-        "Crystal-field effects in the formation of Wigner-molecule supercrystals in moir\u00e9 TMD superlattices",
-        "2024-06-30"
-    ],
-    [
-        "Quantum and thermal noise in coupled non-Hermitian waveguide systems with different models of gain and loss",
-        "2024-04-07"
-    ],
-    [
-        "Relativistic Effects on Entangled Single-Electron Traps",
-        "2024-06-25"
-    ],
-    [
-        "Classical simulability of constant-depth linear-optical circuits with noise",
-        "2024-06-12"
-    ],
-    [
-        "Long-Range Entangled Quantum Noise Radar Over Order of Kilometer",
-        "2024-06-15"
-    ],
-    [
-        "Exploiting many-body localization for scalable variational quantum simulation",
-        "2024-04-26"
-    ],
-    [
-        "Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements",
-        "2024-07-05"
-    ],
-    [
-        "Quantum Dynamics with Stochastic Non-Hermitian Hamiltonians",
-        "2024-07-10"
-    ],
-    [
-        "Leveraging Off-the-Shelf Silicon Chips for Quantum Computing",
-        "2024-06-05"
-    ],
-    [
-        "Physics-informed tracking of qubit fluctuations",
-        "2024-04-14"
-    ],
-    [
-        "Does the full configuration interaction method based on quantum phase estimation with Trotter decomposition satisfy the size consistency condition?",
-        "2024-06-14"
-    ],
-    [
-        "Quantum Adversarial Learning for Kernel Methods",
-        "2024-04-08"
-    ],
-    [
-        "Entanglement-assisted authenticated BB84 protocol",
-        "2024-07-03"
-    ],
-    [
-        "Quantum metrology in a driven-dissipation down-conversion system beyond the parametric approximation",
-        "2024-04-24"
-    ],
-    [
-        "Bose-Einstein condensate as a quantum gravity probe; \"Erste Abhandlung\"",
-        "2024-04-09"
-    ],
-    [
-        "Integrated Mode-Hop-Free Tunable Lasers at 780 nm for Chip-Scale Classical and Quantum Photonic Applications",
-        "2024-07-22"
-    ],
-    [
-        "Imaging-based Quantum Optomechanics",
-        "2024-07-09"
-    ],
-    [
-        "Equivalence Classes of Quantum Error-Correcting Codes",
-        "2024-06-17"
-    ],
-    [
-        "Deterministic generation of concatenated graph codes from quantum emitters",
-        "2024-06-24"
-    ],
-    [
-        "Arbitrary quantum states preparation aided by deep reinforcement learning",
-        "2024-07-23"
-    ],
-    [
-        "A Quantum Neural Network-Based Approach to Power Quality Disturbances Detection and Recognition",
-        "2024-06-05"
-    ],
-    [
-        "Robustness of contextuality under different types of noise as quantifiers for parity-oblivious multiplexing tasks",
-        "2024-06-18"
-    ],
-    [
-        "Enantiomer-Specific Pumping of Chiral Molecules",
-        "2024-06-23"
-    ],
-    [
-        "Optical read and write of spin states in organic diradicals",
-        "2024-06-05"
-    ],
-    [
-        "Quantum Sensing with Nanoelectronics: Fisher Information for an Adiabatic Perturbation",
-        "2024-06-26"
-    ],
-    [
-        "Portable diamond maser with reduced magnetic field through orientation",
-        "2024-04-07"
-    ],
-    [
-        "Quantum Benchmarking via Random Dynamical Quantum Maps",
-        "2024-04-29"
-    ],
-    [
-        "Conformal quantum mechanics of causal diamonds: Time evolution and thermality via path integral functionals",
-        "2024-07-25"
-    ],
-    [
-        "Coherence properties of NV-center ensembles in diamond coupled to an electron-spin bath",
-        "2024-04-12"
-    ],
-    [
-        "Analyzing Machine Learning Performance in a Hybrid Quantum Computing and HPC Environment",
-        "2024-07-10"
-    ],
-    [
-        "Unextendible entanglement of quantum channels",
-        "2024-07-22"
-    ],
-    [
-        "Divergences in classical and quantum linear response and equation of motion formulations",
-        "2024-06-24"
-    ],
-    [
-        "Deep Learning for Low-Latency, Quantum-Ready RF Sensing",
-        "2024-04-27"
-    ],
-    [
-        "Accurate Chemical Reaction Modeling on Noisy Intermediate-Scale Quantum Computers Using a Noise-Resilient Wavefunction Ansatz",
-        "2024-04-22"
-    ],
-    [
-        "Continuous-variable Quantum Position Verification secure against entangled attackers",
-        "2024-04-22"
-    ],
-    [
-        "Quantum electrodynamics of lossy samples in vacuum: modified Langevin noise formalism",
-        "2024-04-07"
-    ],
-    [
-        "QEEGNet: Quantum Machine Learning for Enhanced Electroencephalography Encoding",
-        "2024-07-27"
-    ],
-    [
-        "Exploiting nonequilibrium phase transitions and strong symmetries for continuous measurement of collective observables",
-        "2024-07-18"
-    ],
-    [
-        "Quanv4EO: Empowering Earth Observation by means of Quanvolutional Neural Networks",
+        "Noise-Aware Distributed Quantum Approximate Optimization Algorithm on Near-term Quantum Hardware",
         "2024-07-24"
     ],
     [
-        "Data-driven approach to mixed-state multipartite entanglement characterisation",
-        "2024-07-25"
+        "Lecture Notes on Quantum Algorithms in Open Quantum Systems",
+        "2024-06-17"
     ],
     [
-        "Symmetry: a fundamental resource for quantum coherence and metrology",
-        "2024-07-01"
+        "Uncertain Quantum Critical Metrology: From Single to Multi Parameter Sensing",
+        "2024-07-29"
     ],
     [
         "Adapting coherent-state superpositions in noisy channels",
         "2024-06-03"
     ],
     [
-        "Quantum speed limit in quantum sensing",
-        "2024-06-26"
+        "Stable Symmetry-Protected Topological Phases in Systems with Heralded Noise",
+        "2024-04-25"
     ],
     [
-        "Physical Layer Aspects of Quantum Communications: A Survey",
-        "2024-07-12"
+        "Effective Many-body Interactions in Reduced-Dimensionality Spaces Through Neural Network Models",
+        "2024-07-08"
     ],
     [
-        "Identification of highly-forbidden optical transitions in highly charged ions",
+        "Robust preparation of ground state phases under noisy imaginary time evolution",
         "2024-06-06"
     ],
     [
-        "Phase-Subtractive Interference and Noise-Resistant Quantum Imaging with Two Undetected Photons",
-        "2024-06-09"
+        "Vibrational ADAPT-VQE: Critical points leads to problematic convergence",
+        "2024-04-10"
     ],
     [
-        "Scalable, high-fidelity all-electronic control of trapped-ion qubits",
-        "2024-07-10"
+        "Quantum theory of a potential biological magnetic field sensor: radical pair mechanism in flavin adenine dinucleotide biradicals",
+        "2024-06-18"
     ],
     [
-        "Measuring bipartite spin correlations of lattice-trapped dipolar atoms",
-        "2024-04-16"
+        "Quantum computational advantage with constant-temperature Gibbs sampling",
+        "2024-04-23"
     ],
     [
-        "Chip-scale generation of 60-mode continuous-variable cluster states",
-        "2024-06-15"
+        "Crystal-field effects in the formation of Wigner-molecule supercrystals in moir\u00e9 TMD superlattices",
+        "2024-06-30"
     ],
     [
-        "Quantum Optimal Control of Squeezing in Cavity Optomechanics",
-        "2024-05-29"
+        "Chebyshev Approximated Variational Coupled Cluster for Quantum Computing",
+        "2024-06-11"
     ],
     [
-        "Impact of Measurement Noise on Escaping Saddles in Variational Quantum Algorithms",
-        "2024-06-14"
+        "Simulating open quantum systems with giant atoms",
+        "2024-06-19"
     ],
     [
-        "Precision bounds for quantum phase estimation using two-mode squeezed Gaussian states",
-        "2024-07-18"
+        "Cavity QED materials: Comparison and validation of two linear response theories at arbitrary light-matter coupling strengths",
+        "2024-06-17"
     ],
     [
-        "Engineering open-shell extended edge states in chiral graphene nanoribbons on MgO",
-        "2024-06-06"
+        "Enhancing teleportation via noisy channels: effects of the induced multipartite entanglement",
+        "2024-04-14"
+    ],
+    [
+        "Numerical investigation of the quantum inverse algorithm on small molecules",
+        "2024-04-11"
+    ],
+    [
+        "Quantum encoder for fixed Hamming-weight subspaces",
+        "2024-05-30"
+    ],
+    [
+        "Divergences in classical and quantum linear response and equation of motion formulations",
+        "2024-06-24"
     ],
     [
         "Cheaper and more noise-resilient quantum state preparation using eigenvector continuation",
         "2024-06-24"
     ],
     [
+        "Accuracy guarantees and quantum advantage in analogue open quantum simulation with and without noise",
+        "2024-04-17"
+    ],
+    [
+        "A polynomial-time classical algorithm for noisy quantum circuits",
+        "2024-07-17"
+    ],
+    [
+        "Can Quantum Computers Do Nothing?",
+        "2024-06-24"
+    ],
+    [
+        "Advances in quantum metrology with dielectrically structured single photon sources based on molecules",
+        "2024-07-08"
+    ],
+    [
+        "Design and demonstration of an operating system for executing applications on quantum network nodes",
+        "2024-07-25"
+    ],
+    [
+        "Coherent control of levitated nanoparticles via dipole-dipole interaction",
+        "2024-04-15"
+    ],
+    [
+        "Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures",
+        "2024-06-17"
+    ],
+    [
+        "Relativistic Effects on Entangled Single-Electron Traps",
+        "2024-06-25"
+    ],
+    [
+        "Sub-diffraction estimation, discrimination and learning of quantum states of light",
+        "2024-06-05"
+    ],
+    [
+        "Global calibration of large-scale photonic integrated circuits",
+        "2024-07-02"
+    ],
+    [
+        "Non-unitary Coupled Cluster on Gate-based Quantum Computers",
+        "2024-06-17"
+    ],
+    [
+        "A manufacturable platform for photonic quantum computing",
+        "2024-04-26"
+    ],
+    [
+        "Tomography of a single-atom-resolved detector in the presence of shot-to-shot number fluctuations",
+        "2024-05-02"
+    ],
+    [
+        "TANQ-Sim: Tensorcore Accelerated Noisy Quantum System Simulation via QIR on Perlmutter HPC",
+        "2024-04-19"
+    ],
+    [
+        "A spin-refrigerated cavity quantum electrodynamic sensor",
+        "2024-04-16"
+    ],
+    [
+        "High-Dimensional Subspace Expansion Using Classical Shadows",
+        "2024-06-17"
+    ],
+    [
+        "Few-Shot, Robust Calibration of Single Qubit Gates Using Bayesian Robust Phase Estimation",
+        "2024-07-25"
+    ],
+    [
+        "Analog Quantum Simulator of a Quantum Field Theory with Fermion-Spin Systems in Silicon",
+        "2024-07-03"
+    ],
+    [
+        "Quantum-Classical Separations in Shallow-Circuit-Based Learning with and without Noises",
+        "2024-05-01"
+    ],
+    [
+        "Nanoscale sensing of spatial correlations in nonequilibrium current noise",
+        "2024-04-23"
+    ],
+    [
+        "Quantum Hardware-Enabled Molecular Dynamics via Transfer Learning",
+        "2024-06-12"
+    ],
+    [
+        "Unruh-DeWitt Quantum Computing: Realizing Quantum Shannon Theory With Quantum Fields",
+        "2024-07-18"
+    ],
+    [
+        "Quantum teleportation between a continuous-variable optical qumode and a discrete-variable solid-state qubit",
+        "2024-06-27"
+    ],
+    [
+        "$n$ qubits can be entangled in two different ways",
+        "2024-06-27"
+    ],
+    [
+        "Spin torque driven electron paramagnetic resonance of a single spin in a pentacene molecule",
+        "2024-06-25"
+    ],
+    [
+        "Nonreciprocal Quantum Sensing",
+        "2024-07-20"
+    ],
+    [
+        "Nonlinear interferometry-based metrology of magneto-optical properties at infrared wavelengths",
+        "2024-06-28"
+    ],
+    [
+        "Cross-resonance control of an oscillator with a fluxonium ancilla",
+        "2024-07-25"
+    ],
+    [
+        "Effect of group-velocity dispersion on the generation of multimode pulsed squeezed light in a synchronously pumped optical parametric oscillator",
+        "2024-07-26"
+    ],
+    [
+        "Non-Gaussian state teleportation with a nonlinear feedforward",
+        "2024-04-09"
+    ],
+    [
+        "Direct Estimation of the Density of States for Fermionic Systems",
+        "2024-07-03"
+    ],
+    [
+        "Optomechanical entanglement induced by backward stimulated Brillouin scattering",
+        "2024-05-29"
+    ],
+    [
+        "Quantum Convolutional Neural Network for Phase Recognition in Two Dimensions",
+        "2024-07-04"
+    ],
+    [
+        "Sparks of Quantum Advantage and Rapid Retraining in Machine Learning",
+        "2024-07-22"
+    ],
+    [
+        "Entanglement Assisted Squeezed States of Light in All Fiber Form-Factor",
+        "2024-06-28"
+    ],
+    [
+        "Does the full configuration interaction method based on quantum phase estimation with Trotter decomposition satisfy the size consistency condition?",
+        "2024-06-14"
+    ],
+    [
+        "Chiral Chaos Enhanced Sensing",
+        "2024-04-10"
+    ],
+    [
+        "What if you have only one copy? Low-depth quantum circuits have no advantage in decision problems!",
+        "2024-04-08"
+    ],
+    [
+        "Entanglement-assist cyclic weak-value-amplification metrology",
+        "2024-06-06"
+    ],
+    [
+        "Generating multipartite nonlocality to benchmark quantum computers",
+        "2024-06-11"
+    ],
+    [
+        "QEEGNet: Quantum Machine Learning for Enhanced Electroencephalography Encoding",
+        "2024-07-27"
+    ],
+    [
+        "Breaking and trapping Cooper pairs by Rydberg-molecule spectroscopy in atomic Fermi superfluids",
+        "2024-05-02"
+    ],
+    [
+        "Continuous drive heterodyne microwave sensing with spin qubits in hexagonal boron nitride",
+        "2024-06-24"
+    ],
+    [
+        "Analyzing the sensitivity of an atom interferometer with a phase modulation readout scheme",
+        "2024-06-06"
+    ],
+    [
+        "A Review of Barren Plateaus in Variational Quantum Computing",
+        "2024-05-01"
+    ],
+    [
+        "Generalized phase estimation in noisy quantum gates",
+        "2024-06-03"
+    ],
+    [
+        "Gain assistant control of photonic spin Hall effect",
+        "2024-06-15"
+    ],
+    [
+        "Algebraic Observational Cosmology",
+        "2024-06-03"
+    ],
+    [
+        "Experimental certification of level dynamics in single-photon emitters",
+        "2024-07-18"
+    ],
+    [
+        "Decoupling of External and Internal Dynamics in Driven Two-level Systems",
+        "2024-06-03"
+    ],
+    [
+        "Ramsey interferometry of nuclear spins in diamond using stimulated Raman adiabatic passage",
+        "2024-07-22"
+    ],
+    [
+        "NAC-QFL: Noise Aware Clustered Quantum Federated Learning",
+        "2024-06-20"
+    ],
+    [
+        "Protecting three-dimensional entanglement from correlated amplitude damping channel",
+        "2024-06-26"
+    ],
+    [
+        "Highly Versatile FPGA-Implemented Cyber Coherent Ising Machine",
+        "2024-06-08"
+    ],
+    [
+        "Qudit Dynamical Decoupling on a Superconducting Quantum Processor",
+        "2024-07-05"
+    ],
+    [
+        "Experimental Demonstration of a Quantum-Optimal Coronagraph Using Spatial Mode Sorters",
+        "2024-07-17"
+    ],
+    [
+        "Achieving Heisenberg scaling in low-temperature quantum thermometry",
+        "2024-07-08"
+    ],
+    [
+        "Competition of long-range interactions and noise at ramped quench dynamical quantum phase transition: The case of the long-range pairing Kitaev chain",
+        "2024-07-16"
+    ],
+    [
+        "Constructing Optimal Noise Channels for Enhanced Robustness in Quantum Machine Learning",
+        "2024-04-25"
+    ],
+    [
+        "Observation of full contrast icosahedral Bose-Einstein statistics in laser desorbed, buffer gas cooled C$_{60}$",
+        "2024-06-20"
+    ],
+    [
+        "Qubit frugal entanglement determination with the deep multi-scale entanglement renormalization ansatz",
+        "2024-04-12"
+    ],
+    [
+        "Exploiting nonequilibrium phase transitions and strong symmetries for continuous measurement of collective observables",
+        "2024-07-18"
+    ],
+    [
+        "Quantum illumination networks",
+        "2024-06-24"
+    ],
+    [
+        "Quantum Optimal Control of Squeezing in Cavity Optomechanics",
+        "2024-05-29"
+    ],
+    [
+        "Dielectric Fano Nanoantennas for Enabling Sub-Nanosecond Lifetimes in NV-based Single Photon Emitters",
+        "2024-07-03"
+    ],
+    [
+        "Diffusion-Inspired Quantum Noise Mitigation in Parameterized Quantum Circuits",
+        "2024-06-02"
+    ],
+    [
+        "Approximating dynamical correlation functions with constant depth quantum circuits",
+        "2024-06-05"
+    ],
+    [
+        "Collective quantum enhancement in critical quantum sensing",
+        "2024-07-25"
+    ],
+    [
+        "Kinetic Inductance Parametric Converter",
+        "2024-07-19"
+    ],
+    [
+        "Benchmarking and linear response modeling of high-fidelity Rydberg gates",
+        "2024-07-29"
+    ],
+    [
+        "Radiative pumping vs vibrational relaxation of molecular polaritons: a bosonic mapping approach",
+        "2024-07-30"
+    ],
+    [
+        "Repeater-Based Quantum Communication Protocol: Maximizing Teleportation Fidelity with Minimal Entanglement",
+        "2024-06-20"
+    ],
+    [
+        "Imaging-based Quantum Optomechanics",
+        "2024-07-09"
+    ],
+    [
+        "Phases and phase transition in Grover's algorithm with systematic noise",
+        "2024-06-14"
+    ],
+    [
+        "Coherence properties of NV-center ensembles in diamond coupled to an electron-spin bath",
+        "2024-04-12"
+    ],
+    [
+        "Simulating spin biology using a digital quantum computer: Prospects on a near-term quantum hardware emulator",
+        "2024-06-18"
+    ],
+    [
+        "A Dual Open Atom Interferometer for Compact, Mobile Quantum Sensing",
+        "2024-05-01"
+    ],
+    [
+        "Long-Range Entangled Quantum Noise Radar Over Order of Kilometer",
+        "2024-06-15"
+    ],
+    [
+        "Thermodynamics of photoelectric devices",
+        "2024-07-01"
+    ],
+    [
+        "Acceleration Noise Induced Decoherence in Stern-Gerlach Interferometers for Gravity Experiments",
+        "2024-06-16"
+    ],
+    [
+        "Integrated electro-optics on thin-film lithium niobate",
+        "2024-04-09"
+    ],
+    [
+        "Continuous-variable Quantum Position Verification secure against entangled attackers",
+        "2024-04-22"
+    ],
+    [
+        "Classical simulability of constant-depth linear-optical circuits with noise",
+        "2024-06-12"
+    ],
+    [
+        "Near-quantum limited axion dark matter search with the ORGAN experiment around 26 $\u03bc$eV",
+        "2024-07-26"
+    ],
+    [
+        "Laser-written micro-channel atomic magnetometer",
+        "2024-04-22"
+    ],
+    [
+        "Integrated Mode-Hop-Free Tunable Lasers at 780 nm for Chip-Scale Classical and Quantum Photonic Applications",
+        "2024-07-22"
+    ],
+    [
+        "Compact fermionic quantum state preparation with a natural-orbitalizing variational quantum eigensolving scheme",
+        "2024-06-20"
+    ],
+    [
+        "Continuous variable dense coding under realistic non-ideal scenarios",
+        "2024-07-10"
+    ],
+    [
+        "Purification and correction of quantum channels by commutation-derived quantum filters",
+        "2024-07-29"
+    ],
+    [
+        "Emergent spinon-holon Feshbach resonance in a doped Majumdar-Ghosh model",
+        "2024-06-12"
+    ],
+    [
+        "Variational readout through quantum teleportation",
+        "2024-06-05"
+    ],
+    [
+        "Optimized Distribution of Entanglement Graph States in Quantum Networks",
+        "2024-04-30"
+    ],
+    [
+        "Quantum Dynamics with Stochastic Non-Hermitian Hamiltonians",
+        "2024-07-10"
+    ],
+    [
+        "Quantum subspace expansion in the presence of hardware noise",
+        "2024-04-14"
+    ],
+    [
+        "Measuring multipartite quantum correlations by thermodynamic work extraction",
+        "2024-07-04"
+    ],
+    [
+        "Accurate Numerical Simulations of Open Quantum Systems Using Spectral Tensor Trains",
+        "2024-07-16"
+    ],
+    [
+        "Fault-tolerant noise guessing decoding of quantum random codes",
+        "2024-07-01"
+    ],
+    [
+        "An Efficient Quantum Euclidean Similarity Algorithm for Worldwide Localization",
+        "2024-07-19"
+    ],
+    [
+        "Chiral photon blockade in the spinning Kerr resonator",
+        "2024-06-02"
+    ],
+    [
+        "Quadratic Advantage with Quantum Randomized Smoothing Applied to Time-Series Analysis",
+        "2024-07-25"
+    ],
+    [
+        "Chip-scale generation of 60-mode continuous-variable cluster states",
+        "2024-06-15"
+    ],
+    [
+        "Quantum consistent neural/tensor networks for photonic circuits with strongly/weakly entangled states",
+        "2024-06-03"
+    ],
+    [
+        "Majorana qubit readout by a point-contact detector under finite bias voltages",
+        "2024-06-16"
+    ],
+    [
+        "Spectral Features of the Fourth Order Irreducible Correlations in a Monolayer Semiconductor",
+        "2024-05-03"
+    ],
+    [
+        "Quantum Information Processing with Molecular Nanomagnets: an introduction",
+        "2024-05-31"
+    ],
+    [
+        "Quantum plasmonic sensing by Hong-Ou-Mandel interferometry",
+        "2024-04-17"
+    ],
+    [
+        "Persistent quantum advantage with definite photon-number states in lossy multiple-phase estimation",
+        "2024-07-23"
+    ],
+    [
+        "Symmetric top molecule YbOCH$_3$ in the fundamental $\\mathcal{P}$, $\\mathcal{T}$-violation searches",
+        "2024-04-11"
+    ],
+    [
+        "Trivariate Bicycle Codes",
+        "2024-06-27"
+    ],
+    [
+        "Coherence of an Electronic Two-Level System under Continuous Charge Sensing by a Quantum Dot Detector",
+        "2024-06-17"
+    ],
+    [
+        "Nonlinear Wave-Spin Interactions in Nitrogen-Vacancy Centers",
+        "2024-04-12"
+    ],
+    [
+        "Reliable Quantum Memories with Unreliable Components",
+        "2024-06-08"
+    ],
+    [
+        "Dual-frequency optical-microwave atomic clocks based on cesium atoms",
+        "2024-05-01"
+    ],
+    [
+        "Twisted electron impact elastic cross sections of polyatomic molecules: All active electron multicentered approach",
+        "2024-07-29"
+    ],
+    [
+        "Efficient classical algorithm for simulating boson sampling with inhomogeneous partial distinguishability",
+        "2024-06-25"
+    ],
+    [
+        "Device-independent Verification of Quantum Coherence without Quantum Control",
+        "2024-04-15"
+    ],
+    [
+        "Decoherence of dielectric particles by thermal emission",
+        "2024-07-01"
+    ],
+    [
+        "Automated distribution of high-rate, high-fidelity polarization entangled photons using deployed metropolitan fibers",
+        "2024-04-12"
+    ],
+    [
+        "Robustness of contextuality under different types of noise as quantifiers for parity-oblivious multiplexing tasks",
+        "2024-06-18"
+    ],
+    [
+        "Continuous-variable quantum key distribution with noisy squeezed states",
+        "2024-04-08"
+    ],
+    [
+        "Spin Qubits with Scalable milli-kelvin CMOS Control",
+        "2024-07-21"
+    ],
+    [
+        "Pauli Check Extrapolation for Quantum Error Mitigation",
+        "2024-06-20"
+    ],
+    [
+        "Interferometry of quantum correlation functions to access quasiprobability distribution of work",
+        "2024-05-31"
+    ],
+    [
+        "High-precision chemical quantum sensing in flowing monodisperse microdroplets",
+        "2024-04-30"
+    ],
+    [
+        "Quantifying multipartite quantum states by ($k+1$)-partite entanglement measures",
+        "2024-04-23"
+    ],
+    [
+        "Proximity-Induced Exchange Interaction: a New Pathway for Quantum Sensing using Spin Centers in Hexagonal Boron Nitride",
+        "2024-04-08"
+    ],
+    [
+        "Highly efficient coupling of single photons using a pair of nanostructures",
+        "2024-06-23"
+    ],
+    [
+        "Coherent Heat Transfer Leads to Genuine Quantum Enhancement in Performances of Continuous Engines",
+        "2024-04-08"
+    ],
+    [
+        "An iterative transversal CNOT decoder",
+        "2024-07-30"
+    ],
+    [
+        "Pure State Inspired Lossless Post-selected Quantum Metrology of Mixed States",
+        "2024-05-01"
+    ],
+    [
+        "Enantiomer-Specific Pumping of Chiral Molecules",
+        "2024-06-23"
+    ],
+    [
+        "Wigner function method for the Gibbons-Hawking and the Unruh effect",
+        "2024-06-13"
+    ],
+    [
+        "Decoherence induced by a sparse bath of two-level fluctuators: peculiar features of $1/f$ noise in high-quality qubits",
+        "2024-04-29"
+    ],
+    [
+        "Conformal quantum mechanics of causal diamonds: Quantum instability and semiclassical approximation",
+        "2024-07-25"
+    ],
+    [
+        "Approaches of frequency-dependent squeezing for the low frequency detector of Einstein Telescope",
+        "2024-04-23"
+    ],
+    [
+        "Insensitivity of the two-photon Jaynes-Cummings model to thermal noise",
+        "2024-06-27"
+    ],
+    [
+        "Quantum Data Centers in the Presence of Noise",
+        "2024-07-15"
+    ],
+    [
+        "Genuine Multipartite Entanglement induced by a Thermal Acoustic Reservoir",
+        "2024-06-19"
+    ],
+    [
+        "Better Optimization of Variational Quantum Eigensolvers by combining the Unitary Block Optimization Scheme with Classical Post-Processing",
+        "2024-04-29"
+    ],
+    [
+        "Optomechanical second-order sidebands and group delays in a spinning resonator with parametric amplifier and non-Markovian effects",
+        "2024-04-12"
+    ],
+    [
+        "The sudden death of quantum advantage in correlation generations",
+        "2024-07-03"
+    ],
+    [
+        "Chiral quantum heating and cooling with an optically controlled ion",
+        "2024-05-29"
+    ],
+    [
+        "Quantum Noise Spectroscopy of Critical Slowing Down in an Atomically Thin Magnet",
+        "2024-07-08"
+    ],
+    [
+        "Resource-aware scheduling of multiple quantum circuits on a hardware device",
+        "2024-07-12"
+    ],
+    [
+        "Resonator-mediated quantum gate between distant charge qubits",
+        "2024-06-10"
+    ],
+    [
+        "Measuring bipartite spin correlations of lattice-trapped dipolar atoms",
+        "2024-04-16"
+    ],
+    [
+        "Quantum and thermal noise in coupled non-Hermitian waveguide systems with different models of gain and loss",
+        "2024-04-07"
+    ],
+    [
+        "Probing spontaneously symmetry-broken phases with spin-charge separation through noise correlation measurements",
+        "2024-04-12"
+    ],
+    [
+        "VeriQR: A Robustness Verification Tool for Quantum Machine Learning Models",
+        "2024-07-18"
+    ],
+    [
+        "Color code decoder with improved scaling for correcting circuit-level noise",
+        "2024-04-11"
+    ],
+    [
+        "Toward Reliable Dipole Moments without Single Excitations: The Role of Orbital Rotations and Dynamical Correlation",
+        "2024-04-09"
+    ],
+    [
+        "Realizing fracton order from long-range quantum entanglement in programmable Rydberg atom arrays",
+        "2024-07-08"
+    ],
+    [
+        "Quantum eraser experiments for the demonstration of entanglement between swift electrons and light",
+        "2024-04-17"
+    ],
+    [
+        "Efficient diffraction control using a tunable active-Raman gain medium",
+        "2024-04-16"
+    ],
+    [
+        "Measurement of microwave photon correlations at millikelvin with a thermal detector",
+        "2024-07-06"
+    ],
+    [
+        "Promise of Graph Sparsification and Decomposition for Noise Reduction in QAOA: Analysis for Trapped-Ion Compilations",
+        "2024-06-20"
+    ],
+    [
+        "Quantum metrology of rotations with mixed spin states",
+        "2024-04-23"
+    ],
+    [
+        "Lower bounds on bipartite entanglement in noisy graph states",
+        "2024-04-13"
+    ],
+    [
+        "Security of Partially Corrupted Repeater Chains",
+        "2024-06-24"
+    ],
+    [
+        "Tomography of parametrized quantum states",
+        "2024-07-17"
+    ],
+    [
+        "Secure quantum-enhanced measurements on a network of sensors",
+        "2024-06-27"
+    ],
+    [
+        "Simulating electronic structure on bosonic quantum computers",
+        "2024-04-16"
+    ],
+    [
+        "Development of Pattern Recognition Validation for Boson Sampling",
+        "2024-04-24"
+    ],
+    [
+        "Stochastic simulation of dissipative quantum oscillators",
+        "2024-06-07"
+    ],
+    [
+        "Dawn of a nuclear clock: frequency ratio of the $^{229m}$Th isomeric transition and the $^{87}$Sr atomic clock",
+        "2024-06-26"
+    ],
+    [
+        "Using stochastic resonance of two-level systems to increase qubit decoherence times",
+        "2024-07-26"
+    ],
+    [
+        "Long-fiber Sagnac interferometers for twin field quantum key distribution networks",
+        "2024-07-10"
+    ],
+    [
+        "Ground and excited state energy calculations of the H2 molecule using a variational quantum eigensolver algorithm on an NMR quantum simulator",
+        "2024-07-01"
+    ],
+    [
+        "Hyperspectral electromechanical imaging at the nanoscale: Dynamical backaction, dissipation and quantum fluctuations",
+        "2024-07-30"
+    ],
+    [
+        "All-optical production of Bose-Einstein condensates with 2 Hz repetition rate",
+        "2024-06-24"
+    ],
+    [
+        "General Communication Enhancement via the Quantum Switch",
+        "2024-07-03"
+    ],
+    [
+        "A Modified Depolarization Approach for Efficient Quantum Machine Learning",
+        "2024-04-10"
+    ],
+    [
+        "Temperature dependent spin-phonon coupling of boron-vacancy centers in hexagonal boron nitride",
+        "2024-04-23"
+    ],
+    [
+        "Error mitigation with stabilized noise in superconducting quantum processors",
+        "2024-07-02"
+    ],
+    [
+        "Simulation of the Dissipative Dynamics of Strongly Interacting NV Centers with Tensor Networks",
+        "2024-06-12"
+    ],
+    [
+        "Quantum decoherence dynamics in stochastically fluctuating environments",
+        "2024-07-08"
+    ],
+    [
+        "Parallel Segment Entanglement Swapping",
+        "2024-07-09"
+    ],
+    [
+        "Low-Overhead Defect-Adaptive Surface Code with Bandage-Like Super-Stabilizers",
+        "2024-04-29"
+    ],
+    [
+        "Bayesian Inference of General Noise Model Parameters from Surface Code's Syndrome Statistics",
+        "2024-06-13"
+    ],
+    [
+        "Experimental Aspects of Indefinite Causal Order in Quantum Mechanics",
+        "2024-05-01"
+    ],
+    [
+        "Improved criteria of detecting multipartite entanglement structure",
+        "2024-06-11"
+    ],
+    [
         "Entangled states from arborescent knots",
         "2024-04-18"
     ],
     [
-        "Quantum Long Short-Term Memory for Drug Discovery",
-        "2024-07-29"
+        "Experimental Hybrid Shadow Tomography and Distillation",
+        "2024-04-18"
     ],
     [
-        "Parametrically controlled chiral interface for superconducting quantum devices",
-        "2024-05-23"
+        "Disentangling Quantum Classifiers: Simplex Edge Mapping for Few-Sample Confidence",
+        "2024-06-07"
+    ],
+    [
+        "Experimental observation of a time rondeau crystal: Temporal Disorder in Spatiotemporal Order",
+        "2024-04-08"
+    ],
+    [
+        "Practical continuous-variable quantum secret sharing using local local oscillator",
+        "2024-07-19"
+    ],
+    [
+        "Quantum electrodynamics of lossy samples in vacuum: modified Langevin noise formalism",
+        "2024-04-07"
+    ],
+    [
+        "Efficient variational quantum eigensolver methodologies on quantum processors",
+        "2024-07-23"
+    ],
+    [
+        "Energy efficient coherent quantum control of nitrogen vacancy (NV) spin with nanoscale magnets",
+        "2024-07-19"
+    ],
+    [
+        "Qudit non-Clifford interleaved benchmarking",
+        "2024-07-20"
+    ],
+    [
+        "Studying Critical Parameters of Superconductor via Diamond Quantum Sensors",
+        "2024-07-23"
+    ],
+    [
+        "Encoded probabilistic imaginary-time evolution on a trapped-ion quantum computer for ground and excited states of spin qubits",
+        "2024-07-15"
+    ],
+    [
+        "Emerging Quadrature Lattices of Kerr Combs",
+        "2024-07-17"
+    ],
+    [
+        "How to surpass no-go limits in Gaussian quantum error correction and entangled Gaussian state distillation?",
+        "2024-04-29"
+    ],
+    [
+        "The XYZ ruby code: Making a case for a three-colored graphical calculus for quantum error correction in spacetime",
+        "2024-07-11"
+    ],
+    [
+        "Simulating open-system molecular dynamics on analog quantum computers",
+        "2024-07-25"
+    ],
+    [
+        "Fault-tolerant compiling of classically hard IQP circuits on hypercubes",
+        "2024-04-29"
+    ],
+    [
+        "Quantum metrology in a driven-dissipation down-conversion system beyond the parametric approximation",
+        "2024-04-24"
+    ],
+    [
+        "Quantum simulation for strongly interacting fermions with neutral atoms array: towards the simulation of materials of interest",
+        "2024-06-19"
+    ],
+    [
+        "Diamond surfaces with lateral gradients for systematic optimization of surface chemistry for relaxometry -- A low pressure plasma-based approach",
+        "2024-04-18"
+    ],
+    [
+        "Physics-informed tracking of qubit fluctuations",
+        "2024-04-14"
+    ],
+    [
+        "Unextendible entanglement of quantum channels",
+        "2024-07-22"
+    ],
+    [
+        "Approximate quantum error correcting codes from conformal field theory",
+        "2024-06-13"
+    ],
+    [
+        "Demonstration of a Squeezed Light Source on Thin-Film Lithium Niobate with Modal Phase Matching",
+        "2024-06-24"
+    ],
+    [
+        "Joint qubit observables induced by indirect measurements in cavity QED",
+        "2024-06-19"
+    ],
+    [
+        "Classical-Quantum Dual Encoding for Laser Communications in Space",
+        "2024-04-19"
+    ],
+    [
+        "The genuinely multipartite nonlocality of graph states is model-dependent",
+        "2024-04-24"
+    ],
+    [
+        "Continuous momentum state lasing and cavity frequency-pinning with laser-cooled strontium atoms",
+        "2024-05-31"
+    ],
+    [
+        "Optimizing Off-Axis Fields for Vector Magnetometry with Point Defects",
+        "2024-04-15"
+    ],
+    [
+        "Heisenberg-limited Bayesian phase estimation with low-depth digital quantum circuits",
+        "2024-07-08"
+    ],
+    [
+        "Noise reduction via optimal control in a light-matter quantum system",
+        "2024-06-26"
+    ],
+    [
+        "Broadband Entangled-Photon Pair Generation with Integrated Photonics: Guidelines and A Materials Comparison",
+        "2024-07-05"
+    ],
+    [
+        "Discretized Quantum Exhaustive Search for Variational Quantum Algorithms",
+        "2024-07-24"
+    ],
+    [
+        "Dissipative variational quantum algorithms for Gibbs state preparation",
+        "2024-07-12"
+    ],
+    [
+        "Optimal Mechanisms for Quantum Local Differential Privacy",
+        "2024-07-18"
+    ],
+    [
+        "Parameter Estimation in Quantum Metrology Technique for Time Series Prediction",
+        "2024-06-12"
+    ],
+    [
+        "Quantum Machine Learning: Quantum Kernel Methods",
+        "2024-05-02"
+    ],
+    [
+        "On the Baltimore Light RailLink into the quantum future",
+        "2024-06-17"
+    ],
+    [
+        "Directly Estimating Mixed-State Entanglement with Bell Measurement Assistance",
+        "2024-05-31"
+    ],
+    [
+        "Multiparameter cascaded quantum interferometer",
+        "2024-04-11"
+    ],
+    [
+        "Entanglement-assisted quantum transduction",
+        "2024-04-15"
+    ],
+    [
+        "Continuous-variable quantum digital signatures against coherent attacks",
+        "2024-07-04"
+    ],
+    [
+        "Practicality of quantum adiabatic algorithm for chemistry applications",
+        "2024-07-13"
+    ],
+    [
+        "Quartic quantum speedups for planted inference",
+        "2024-06-27"
+    ],
+    [
+        "Entanglement-assisted phase estimation algorithm for calculating dynamical response functions",
+        "2024-04-30"
+    ],
+    [
+        "Noise analysis of a quasi-phase-matched quantum frequency converter and higher-order counter-propagating SPDC",
+        "2024-07-04"
+    ],
+    [
+        "Designing metasurface optical interfaces for solid-state qubits using many-body adjoint shape optimization",
+        "2024-06-12"
+    ],
+    [
+        "Feynman Diagrams for Matter Wave Interferometry",
+        "2024-07-16"
+    ],
+    [
+        "Protect Measurement-Induced Phase Transition from Noise",
+        "2024-06-20"
+    ],
+    [
+        "Bayesian Parameterized Quantum Circuit Optimization (BPQCO): A task and hardware-dependent approach",
+        "2024-04-17"
+    ],
+    [
+        "Identifying Bottlenecks of NISQ-friendly HHL algorithms",
+        "2024-06-10"
+    ],
+    [
+        "Physics-informed neural network for quantum control of NMR registers",
+        "2024-06-29"
+    ],
+    [
+        "Long-range interactions revealed by collective spin noise spectra in atomic vapors",
+        "2024-06-28"
+    ],
+    [
+        "Semi-device independent characterization of multiphoton indistinguishability",
+        "2024-04-29"
+    ],
+    [
+        "Mask-coding-assisted continuous-variable quantum direct communication with orbital angular momentum multiplexing",
+        "2024-06-17"
+    ],
+    [
+        "Nonlinearity of the Fidelity in Open Qudit Systems: Gate and Noise Dependence in High-dimensional Quantum Computing",
+        "2024-06-21"
+    ],
+    [
+        "Conformal quantum mechanics of causal diamonds: Time evolution and thermality via path integral functionals",
+        "2024-07-25"
+    ],
+    [
+        "Suppression of noise in separation estimation of optical sources with spatial-mode demultiplexing",
+        "2024-07-02"
+    ],
+    [
+        "Deep Learning for Low-Latency, Quantum-Ready RF Sensing",
+        "2024-04-27"
+    ],
+    [
+        "Fault-tolerant quantum computing with the parity code and noise-biased qubits",
+        "2024-04-17"
+    ],
+    [
+        "Fast optical control of a coherent hole spin in a microcavity",
+        "2024-07-26"
+    ],
+    [
+        "Ultrafast, all-optical coherence of molecular electron spins in room-temperature, aqueous solution",
+        "2024-07-26"
+    ],
+    [
+        "Unambiguous discrimination of general quantum operations",
+        "2024-04-20"
+    ],
+    [
+        "Quanv4EO: Empowering Earth Observation by means of Quanvolutional Neural Networks",
+        "2024-07-24"
+    ],
+    [
+        "Enhanced Whispering Gallery Mode Phase Shift using Indistinguishable Photon Pairs",
+        "2024-04-26"
+    ],
+    [
+        "Spin Squeezing Enhanced Quantum Magnetometry with Nitrogen-Vacancy Center Qutrits",
+        "2024-06-21"
+    ],
+    [
+        "Dynamical quantum Ansatz tree approach for the heat equation",
+        "2024-04-22"
+    ],
+    [
+        "Computationally Efficient Molecular Integrals of Solid Harmonic Gaussian Orbitals Using Quantum Entanglement of Angular Momentum",
+        "2024-04-24"
+    ],
+    [
+        "Engineering open-shell extended edge states in chiral graphene nanoribbons on MgO",
+        "2024-06-06"
+    ],
+    [
+        "Efficiency fluctuations of a heat engine with noise induced quantum coherences",
+        "2024-05-29"
+    ],
+    [
+        "Entanglement-assisted authenticated BB84 protocol",
+        "2024-07-03"
     ],
     [
         "Simulation of Vibrational Circular Dichroism Spectra Using Second-Order M\u00f8ller-Plesset Perturbation Theory and Configuration Interaction Doubles",
         "2024-06-07"
     ],
     [
+        "Enhanced quantum state transfer via feedforward cancellation of optical phase noise",
+        "2024-07-12"
+    ],
+    [
+        "Generalized Type II Fusion of Cluster States",
+        "2024-06-21"
+    ],
+    [
+        "Critical fluctuation and noise spectra in two-dimensional Fe$_{3}$GeTe$_{2}$ magnets",
+        "2024-06-30"
+    ],
+    [
+        "Classically Spoofing System Linear Cross Entropy Score Benchmarking",
+        "2024-05-01"
+    ],
+    [
+        "Hyperfine-to-rotational energy transfer in ultracold atom-molecule collisions",
+        "2024-07-11"
+    ],
+    [
+        "A quantum implementation of high-order power method for estimating geometric entanglement of pure states",
+        "2024-05-29"
+    ],
+    [
+        "Semiclassical Quantum Trajectories in the Monitored Lipkin-Meshkov-Glick Model",
+        "2024-07-29"
+    ],
+    [
+        "A primary quantum current standard based on the Josephson and the quantum Hall effects",
+        "2024-07-17"
+    ],
+    [
+        "Purcell effect in chiral environments",
+        "2024-06-14"
+    ],
+    [
+        "Qubit-assisted quantum metrology",
+        "2024-04-19"
+    ],
+    [
+        "Learning to rank quantum circuits for hardware-optimized performance enhancement",
+        "2024-04-09"
+    ],
+    [
+        "Light Cone Cancellation for Variational Quantum Eigensolver Ansatz",
+        "2024-04-30"
+    ],
+    [
+        "Queen: A quick, scalable, and comprehensive quantum circuit simulation for supercomputing",
+        "2024-06-20"
+    ],
+    [
+        "A generalized cycle benchmarking algorithm for characterizing mid-circuit measurements",
+        "2024-06-04"
+    ],
+    [
+        "Quantum Teleportation Coexisting with Conventional Classical Communications in Optical Fiber",
+        "2024-04-16"
+    ],
+    [
+        "Q-BiC: A biocompatible integrated chip for in vitro and in vivo spin-based quantum sensing",
+        "2024-06-03"
+    ],
+    [
+        "Portable diamond maser with reduced magnetic field through orientation",
+        "2024-04-07"
+    ],
+    [
+        "A Quantum Neural Network-Based Approach to Power Quality Disturbances Detection and Recognition",
+        "2024-06-05"
+    ],
+    [
+        "Quantum Enhanced Sensitivity through Many-Body Bloch Oscillations",
+        "2024-06-20"
+    ],
+    [
+        "Clapton: Clifford-Assisted Problem Transformation for Error Mitigation in Variational Quantum Algorithms",
+        "2024-06-22"
+    ],
+    [
+        "Purification of Noisy Measurements and Faithful Distillation of Entanglement",
+        "2024-04-16"
+    ],
+    [
+        "Simple constructions of linear-depth t-designs and pseudorandom unitaries",
+        "2024-04-19"
+    ],
+    [
+        "New design paradigm for highly efficient and low noise photodetector",
+        "2024-07-23"
+    ],
+    [
+        "OQuPy: A Python package to efficiently simulate non-Markovian open quantum systems with process tensors",
+        "2024-06-24"
+    ],
+    [
+        "Variational Quantum Imaginary Time Evolution for Matrix Product State Ansatz with Tests on Transcorrelated Hamiltonians",
+        "2024-07-15"
+    ],
+    [
+        "Quantum speed limit in quantum sensing",
+        "2024-06-26"
+    ],
+    [
+        "Role of Quantum Coherence in Kinetic Uncertainty Relations",
+        "2024-07-19"
+    ],
+    [
+        "Far from Perfect: Quantum Error Correction with (Hyperinvariant) Evenbly Codes",
+        "2024-07-16"
+    ],
+    [
+        "Beyond Weak Cram\u00e9r Rao Bound for Distributed Phases Using Multiphoton Polarization GHZ State: Exact Quantum Fisher Matrix Results",
+        "2024-07-02"
+    ],
+    [
+        "Finite Key Security of Simplified Trusted Node Networks",
+        "2024-04-26"
+    ],
+    [
+        "Modelling the Track of the GD-1 Stellar Stream Inside a Host with a Fermionic Dark Matter Core-Halo Distribution",
+        "2024-04-29"
+    ],
+    [
+        "Quantum control in the presence of strongly coupled non-Markovian noise",
+        "2024-04-30"
+    ],
+    [
+        "A flexible quantum data bus",
+        "2024-04-09"
+    ],
+    [
+        "Interfacing Gottesman-Kitaev-Preskill Qubits to Quantum Memories",
+        "2024-06-06"
+    ],
+    [
+        "Finite-Depth Preparation of Tensor Network States from Measurement",
+        "2024-04-26"
+    ],
+    [
+        "Quantum metrology with a squeezed Kerr oscillator",
+        "2024-06-17"
+    ],
+    [
+        "Stochastic Processes: From Classical to Quantum",
+        "2024-07-04"
+    ],
+    [
+        "Feed-Forward Probabilistic Error Cancellation with Noisy Recovery Gates",
+        "2024-05-03"
+    ],
+    [
+        "Probing Yu-Shiba-Rusinov state via quantum noise and $\u0394_T$ noise",
+        "2024-06-24"
+    ],
+    [
+        "Robust external spin hyperpolarization of quadrupolar nuclei enabled by strain",
+        "2024-04-28"
+    ],
+    [
+        "Optimized measurement-free and fault-tolerant quantum error correction for neutral atoms",
+        "2024-04-17"
+    ],
+    [
+        "Spectroscopy and modeling of $^{171}$Yb Rydberg states for high-fidelity two-qubit gates",
+        "2024-06-03"
+    ],
+    [
+        "GHZ protocols enhance frequency metrology despite spontaneous decay",
+        "2024-06-17"
+    ],
+    [
+        "Slowing Down a Coherent Superposition of Circular Rydberg States of Strontium",
+        "2024-06-03"
+    ],
+    [
+        "Detection of broadband squeezed light with a low-noise die-level balanced receiver",
+        "2024-07-10"
+    ],
+    [
+        "Characterizing Biphoton Spatial Wave Function Dynamics with Quantum Wavefront Sensing",
+        "2024-06-07"
+    ],
+    [
+        "Discrete-Modulated Continuous-Variable Quantum Key Distribution in Satellite-to-Ground Communication",
+        "2024-06-20"
+    ],
+    [
+        "Noise induced coherent ergotropy of a quantum heat engine",
+        "2024-04-09"
+    ],
+    [
+        "Quantum Frequency Mixing using an NV Diamond Microscope",
+        "2024-07-09"
+    ],
+    [
+        "One-Way Quantum Repeater with Rare-Earth-Ions Doped in Solids",
+        "2024-04-13"
+    ],
+    [
+        "Entanglement distribution through separable states via a zero-added-loss photon multiplexing inspired protocol",
+        "2024-04-10"
+    ],
+    [
+        "Electronic Wigner-Molecule Polymeric Chains in Elongated Silicon Quantum Dots and Finite-Length Quantum Wires",
+        "2024-06-09"
+    ],
+    [
+        "Optimization complexity and resource minimization of emitter-based photonic graph state generation protocols",
+        "2024-07-22"
+    ],
+    [
+        "Nuclear Spin Metrology with Nitrogen Vacancy Center in Diamond for Axion Dark Matter Detection",
+        "2024-07-09"
+    ],
+    [
+        "Scalable noise characterisation of syndrome extraction circuits with averaged circuit eigenvalue sampling",
+        "2024-04-09"
+    ],
+    [
+        "The Role of Spin-Orbit Coupling on the Linear Absorption Spectrum and Intersystem Crossing Rate Coefficients of Ruthenium Polypyridyl Dyes",
+        "2024-06-18"
+    ],
+    [
+        "Hyperpolarisation Dynamics: Asymptotic Polarisation",
+        "2024-04-11"
+    ],
+    [
+        "Engineering bound state in continuum via giant atom in photonic waveguide",
+        "2024-06-13"
+    ],
+    [
+        "Dynamical Mean Field Theory for Real Materials on a Quantum Computer",
+        "2024-04-15"
+    ],
+    [
+        "Eikonal Approximation for Floquet Scattering",
+        "2024-07-20"
+    ],
+    [
+        "Entanglement and operator correlation signatures of many-body quantum Zeno phases in inefficiently monitored noisy systems",
+        "2024-07-16"
+    ],
+    [
+        "Improving the Fidelity of CNOT Circuits on NISQ Hardware",
+        "2024-05-30"
+    ],
+    [
+        "Improved Optimization for the Neural-network Quantum States and Tests on the Chromium Dimer",
+        "2024-04-14"
+    ],
+    [
+        "Identification of highly-forbidden optical transitions in highly charged ions",
+        "2024-06-06"
+    ],
+    [
+        "T-Count Optimizing Genetic Algorithm for Quantum State Preparation",
+        "2024-06-06"
+    ],
+    [
+        "Non-Markovianity in Discrete-Time Open Quantum Random Walk on Arbitrary Graphs",
+        "2024-07-30"
+    ],
+    [
+        "Investigate the Performance of Distribution Loading with Conditional Quantum Generative Adversarial Network Algorithm on Quantum Hardware with Error Suppression",
+        "2024-06-13"
+    ],
+    [
+        "Quantum Sensing from Gravity as Universal Dephasing Channel for Qubits",
+        "2024-06-05"
+    ],
+    [
+        "Photon number distribution of squeezed light from a silicon nitride microresonator measured without photon number resolving detectors",
+        "2024-06-19"
+    ],
+    [
+        "Birefringent spin-photon interface generates polarization entanglement",
+        "2024-04-24"
+    ],
+    [
+        "Cooperative Sensing with Impurities in a Two-Dimensional Subwavelength Array",
+        "2024-06-11"
+    ],
+    [
+        "Precision bounds for quantum phase estimation using two-mode squeezed Gaussian states",
+        "2024-07-18"
+    ],
+    [
+        "High-Dimensional Bell States: A Paradigm Shift for Quantum Illumination",
+        "2024-07-10"
+    ],
+    [
+        "Generally noise-resilient quantum gates for trapped-ions",
+        "2024-04-19"
+    ],
+    [
+        "Optical read and write of spin states in organic diradicals",
+        "2024-06-05"
+    ],
+    [
+        "A quantum algorithm to simulate Lindblad master equations",
+        "2024-06-18"
+    ],
+    [
+        "Error correction for encoded quantum annealing revisited",
+        "2024-07-22"
+    ],
+    [
+        "State Transfer in Noisy Modular Quantum Networks",
+        "2024-07-02"
+    ],
+    [
+        "Entangled Matter-waves for Quantum Enhanced Sensing",
+        "2024-06-19"
+    ],
+    [
+        "Hardware-efficient variational quantum algorithm in trapped-ion quantum computer",
+        "2024-07-03"
+    ],
+    [
+        "Circuit-level fault tolerance of cat codes",
+        "2024-06-06"
+    ],
+    [
+        "Spin/Phonon Dynamics in Single Molecular Magnets: I. quantum embedding",
+        "2024-07-10"
+    ],
+    [
+        "Stability of Quantum Computers",
+        "2024-04-29"
+    ],
+    [
+        "Quantum interrogation using weak value measurement",
+        "2024-07-01"
+    ],
+    [
+        "An instructional lab apparatus for quantum experiments with single nitrogen-vacancy centers in diamond",
+        "2024-07-22"
+    ],
+    [
+        "Towards a spatial cat state of a massive pendulum",
+        "2024-04-12"
+    ],
+    [
+        "Physical Layer Aspects of Quantum Communications: A Survey",
+        "2024-07-12"
+    ],
+    [
+        "Breadth-first graph traversal union-find decoder",
+        "2024-07-22"
+    ],
+    [
+        "Expressibility of linear combination of ansatz circuits",
+        "2024-06-16"
+    ],
+    [
+        "Pauli Noise Learning for Mid-Circuit Measurements",
+        "2024-06-13"
+    ],
+    [
+        "Switching, Amplifying, and Chirping Diode Lasers with Current Pulses for High Bandwidth Quantum Technologies",
+        "2024-07-26"
+    ],
+    [
+        "Automatic re-calibration of quantum devices by reinforcement learning",
+        "2024-04-16"
+    ],
+    [
         "Noise-induced quantum synchronization and maximally entangled mixed states in superconducting circuits",
         "2024-06-15"
+    ],
+    [
+        "Residue Number System (RNS) based Distributed Quantum Addition",
+        "2024-06-07"
+    ],
+    [
+        "Born statistics for quantum mechanical measurements from random walk potentials?",
+        "2024-07-03"
+    ],
+    [
+        "Cavity-Enhanced Emission and Absorption of Color Centers in a Diamond Membrane With Selectable Strain",
+        "2024-05-30"
+    ],
+    [
+        "Four-qubit photonic system for publicly verifiable quantum random numbers and generation of public and private key",
+        "2024-06-11"
+    ],
+    [
+        "Quantum computer specification for nuclear structure calculations",
+        "2024-06-23"
+    ],
+    [
+        "L0-regularized compressed sensing with Mean-field Coherent Ising Machines",
+        "2024-05-01"
+    ],
+    [
+        "Quantum Adversarial Learning for Kernel Methods",
+        "2024-04-08"
+    ],
+    [
+        "Observation of Space-Dependent Rotational Doppler Shifts with a Single Ion Probe",
+        "2024-07-06"
+    ],
+    [
+        "The impact of noise on the simulation of NMR spectroscopy on NISQ devices",
+        "2024-04-29"
+    ],
+    [
+        "Arbitrary quantum states preparation aided by deep reinforcement learning",
+        "2024-07-23"
+    ],
+    [
+        "The Localized Active Space Method with Unitary Selective Coupled Cluster",
+        "2024-04-19"
+    ],
+    [
+        "Quantum integrated sensing and communication via entanglement",
+        "2024-04-12"
+    ],
+    [
+        "How coherence measurements of a qubit steer its quantum environment",
+        "2024-04-09"
+    ],
+    [
+        "Quantum non-classicality in the simplest causal network",
+        "2024-04-19"
+    ],
+    [
+        "Efficient simulation of quantum chemistry problems in an enlarged basis set",
+        "2024-07-05"
+    ],
+    [
+        "Optimal quantum sensing of the nonlinear bosonic interactions using Fock states",
+        "2024-04-27"
+    ],
+    [
+        "Protecting Quantum Information via Many-Body Dynamical Localization",
+        "2024-07-27"
+    ],
+    [
+        "Quantum channel correction outperforming direct transmission",
+        "2024-06-07"
+    ],
+    [
+        "KPZ scaling from the Krylov space",
+        "2024-06-04"
+    ],
+    [
+        "PT Symmetry, induced mechanical lasing and tunable force sensing in a coupled-mode optically levitated nanoparticle",
+        "2024-04-17"
+    ],
+    [
+        "An attractive way to correct for missing singles excitations in unitary coupled cluster doubles theory",
+        "2024-06-13"
+    ],
+    [
+        "Optomechanics driven by noisy and narrowband fields",
+        "2024-06-01"
+    ],
+    [
+        "All-optical Loss-tolerant Distributed Quantum Sensing",
+        "2024-07-18"
+    ],
+    [
+        "Quantum Sensing with Nanoelectronics: Fisher Information for an Adiabatic Perturbation",
+        "2024-06-26"
+    ],
+    [
+        "Scalable, high-fidelity all-electronic control of trapped-ion qubits",
+        "2024-07-10"
+    ],
+    [
+        "OnionVQE Optimization Strategy for Ground State Preparation on NISQ Devices",
+        "2024-07-15"
+    ],
+    [
+        "Probability and fidelity of teleportation in a two-mode continuous variable cluster state via an insufficiently selective measurement",
+        "2024-07-13"
+    ],
+    [
+        "Generic signalling-free white-noise limit for models of spontaneous unitarity violation",
+        "2024-05-02"
+    ],
+    [
+        "Quantum coarsening and collective dynamics on a programmable quantum simulator",
+        "2024-07-03"
+    ],
+    [
+        "Limitations to Dynamical Error Suppression and Gate-Error Virtualization from Temporally Correlated Nonclassical Noise",
+        "2024-07-05"
+    ],
+    [
+        "Numerical evaluation of orientation averages and its application to molecular physics",
+        "2024-07-24"
+    ],
+    [
+        "Nuclear Magnetic Resonance with a Levitating Micro-Particle",
+        "2024-07-29"
+    ],
+    [
+        "A quantum eigenvalue solver based on tensor networks",
+        "2024-04-16"
+    ],
+    [
+        "On computational complexity and average-case hardness of shallow-depth boson sampling",
+        "2024-05-03"
+    ],
+    [
+        "Variational Quantum Circuit Decoupling",
+        "2024-06-09"
+    ],
+    [
+        "Vector Magnetometry Using Shallow Implanted NV Centers in Diamond with Waveguide-Assisted Dipole Excitation and Readout",
+        "2024-07-26"
+    ],
+    [
+        "Ambiguous Resonances in Multipulse Quantum Sensing with Nitrogen Vacancy Centers",
+        "2024-07-12"
+    ],
+    [
+        "Detection of Electron Paramagnetic Resonance of Two Electron Spins Using a Single NV Center in Diamond",
+        "2024-07-29"
+    ],
+    [
+        "Complete three-dimensional vector polarimetry with a Rydberg atom rf electrometer",
+        "2024-07-29"
+    ],
+    [
+        "Harnessing quantum light for microscopic biomechanical imaging of cells and tissues",
+        "2024-07-11"
+    ],
+    [
+        "Effect of environmental noise on charge diffusion in DNA: Towards modeling its potential epigenetic impact in live processes",
+        "2024-07-19"
+    ],
+    [
+        "Spatial light mode analogues of generalized quantum coherent states",
+        "2024-05-31"
+    ],
+    [
+        "Noise-tolerant public-key quantum money from a classical oracle",
+        "2024-07-08"
+    ],
+    [
+        "Simultaneous Generation of Quantum Frequency Combs across Distinct Modal Families in a Single $Si_3 N_4$ Whispering Gallery Mode Resonator",
+        "2024-06-24"
+    ],
+    [
+        "On the singular position-dependent mass",
+        "2024-06-09"
+    ],
+    [
+        "A Comprehensive Study on A Tapered Paul Trap: From Design to Potential Applications",
+        "2024-04-16"
+    ],
+    [
+        "CMOS-fabricated ultraviolet light modulators using low-loss alumina piezo-optomechanical photonic circuits",
+        "2024-06-29"
+    ],
+    [
+        "Evaluating a quantum-classical quantum Monte Carlo algorithm with Matchgate shadows",
+        "2024-04-28"
+    ],
+    [
+        "On noise in swap ASAP repeater chains: exact analytics, distributions and tight approximations",
+        "2024-04-10"
+    ],
+    [
+        "High-Fidelity Electron Spin Gates in a Scalable Diamond Quantum Register",
+        "2024-06-06"
+    ],
+    [
+        "Impact of Loss Mechanisms on Linear Spectra of Excitonic and Polaritonic Aggregates",
+        "2024-06-24"
+    ],
+    [
+        "Photon-resolved Floquet theory I: Full-Counting statistics of the driving field in Floquet systems",
+        "2024-07-25"
+    ],
+    [
+        "Trapping polar molecules by surface acoustic waves",
+        "2024-04-27"
+    ],
+    [
+        "Finding Quantum Codes via Riemannian Optimization",
+        "2024-07-11"
+    ],
+    [
+        "Coherent Erbium Spin Defects in Colloidal Nanocrystal Hosts",
+        "2024-06-11"
+    ],
+    [
+        "Utility of virtual qubits in trapped-ion quantum computers",
+        "2024-06-27"
+    ],
+    [
+        "Certifying nonlocal properties of noisy quantum operations",
+        "2024-07-02"
+    ],
+    [
+        "Superresolution in separation estimation between two dynamic incoherent sources using spatial demultiplexing",
+        "2024-07-15"
+    ],
+    [
+        "Progress and Perspectives on Weak-value Amplification",
+        "2024-07-14"
+    ],
+    [
+        "Single-Photon-Subtracted-Squeezed-Vacuum-State Based Postselected Weak Measurement and its Applications",
+        "2024-04-28"
+    ],
+    [
+        "Extending Radiowave Frequency Detection Range with Dressed States of Solid-State Spin Ensembles",
+        "2024-07-19"
+    ],
+    [
+        "Raman effects in Quantum Frequency Conversion using Bragg Scattering",
+        "2024-06-05"
+    ],
+    [
+        "Classicality concept test on neutral pseudoscalar meson qubits with Wigner inequalities",
+        "2024-07-01"
+    ],
+    [
+        "Modulated Ringdown Comb Interferometry for next-generation high complexity trace gas sensing",
+        "2024-06-05"
+    ],
+    [
+        "An optical atomic clock using $4D_J$ states of rubidium",
+        "2024-06-13"
+    ],
+    [
+        "Precision Quantum Parameter Inference with Continuous Observation",
+        "2024-07-17"
+    ],
+    [
+        "LIGO operates with quantum noise below the Standard Quantum Limit",
+        "2024-04-22"
+    ],
+    [
+        "Quantum noise induced nonreciprocity for single photon transport in parity-time symmetric systems",
+        "2024-06-30"
+    ],
+    [
+        "Full Qubit Control in the NV$^-$ Ground State for Low Field or High Frequency Sensing",
+        "2024-07-24"
+    ],
+    [
+        "Nonlinearity-enhanced quantum sensing in Stark probes",
+        "2024-04-16"
+    ],
+    [
+        "Cavity QED in a High NA Resonator",
+        "2024-07-05"
+    ],
+    [
+        "Chebyshev pseudosite matrix product state approach for cluster perturbation theory",
+        "2024-04-08"
+    ],
+    [
+        "Overdispersion in gate tomography: Experiments and continuous, two-scale random walk model on the Bloch sphere",
+        "2024-07-04"
+    ],
+    [
+        "Quantum sensing in an exciton-polariton condensate",
+        "2024-07-19"
+    ],
+    [
+        "Optimization of Static Potentials for Large Delocalization and Non-Gaussian Quantum Dynamics of Levitated Nanoparticles Under Decoherence",
+        "2024-06-28"
+    ],
+    [
+        "Distributing Arbitrary Quantum Cluster States by Graph Transformation",
+        "2024-04-08"
+    ],
+    [
+        "Hybrid quantum systems with artificial atoms in solid state",
+        "2024-04-08"
+    ],
+    [
+        "Positive and non-positive measurements in energy extraction from quantum batteries",
+        "2024-04-29"
+    ],
+    [
+        "Active robustness against the detuning-error for Rydberg quantum gates",
+        "2024-04-18"
+    ],
+    [
+        "Guardians of the Quantum GAN",
+        "2024-04-24"
+    ],
+    [
+        "Quantum Benchmarking via Random Dynamical Quantum Maps",
+        "2024-04-29"
+    ],
+    [
+        "Variational quantum state preparation for quantum-enhanced metrology in noisy systems",
+        "2024-06-04"
+    ],
+    [
+        "Achieving Heisenberg scaling by probe-ancilla interaction in quantum metrology",
+        "2024-07-23"
+    ],
+    [
+        "Benchmarking digital quantum simulations and optimization above hundreds of qubits using quantum critical dynamics",
+        "2024-04-11"
+    ],
+    [
+        "An oscilloscope based method for pulsed Optically Detected Magnetic Resonance in an ensemble of NV centers in diamond",
+        "2024-04-08"
+    ],
+    [
+        "Quantum enhancements and entropic constraints to Boundary Time Crystals as sensors of AC fields",
+        "2024-06-10"
+    ],
+    [
+        "Anti-Concentration for the Unitary Haar Measure and Applications to Random Quantum Circuits",
+        "2024-07-28"
+    ],
+    [
+        "Quantum Geometric Tensor and Critical Metrology in the Anisotropic Dicke Model",
+        "2024-06-10"
+    ],
+    [
+        "Discrete Time Crystal Phase as a Resource for Quantum Enhanced Sensing",
+        "2024-05-01"
+    ],
+    [
+        "Integrated high-performance error correction for continuous-variable quantum key distribution",
+        "2024-07-23"
+    ],
+    [
+        "High-Dimensional Two-Photon Quantum Controlled Phase-Flip Gate",
+        "2024-04-23"
+    ],
+    [
+        "Quantum key distribution with displaced thermal states",
+        "2024-04-29"
+    ],
+    [
+        "Electrical pumping of h-BN single-photon sources in van der Waals heterostructures",
+        "2024-07-19"
+    ],
+    [
+        "Saturation Dynamics in Non-Hermitian Topological Sensing Systems",
+        "2024-06-28"
+    ],
+    [
+        "Evaluation of phase shifts for non-relativistic elastic scattering using quantum computers",
+        "2024-07-04"
+    ],
+    [
+        "Nanoscale single-electron box with a floating lead for quantum sensing: modelling and device characterization",
+        "2024-04-23"
+    ],
+    [
+        "A quantum analog of Huygen's clock: noise-induced synchronization",
+        "2024-07-24"
+    ],
+    [
+        "Inertial Torsion Noise in Matter-Wave Interferometers for Gravity Experiments",
+        "2024-04-23"
+    ],
+    [
+        "Programmable activation of quantum emitters in high-purity silicon with focused carbon ion beams",
+        "2024-04-30"
+    ],
+    [
+        "Synergy between noisy quantum computers and scalable classical deep learning",
+        "2024-04-11"
+    ],
+    [
+        "Super-resolution imaging based on active optical intensity interferometry",
+        "2024-04-24"
+    ],
+    [
+        "Witnessing Quantum Entanglement Using Resonant Inelastic X-ray Scattering",
+        "2024-04-08"
+    ],
+    [
+        "The impact of microwave phase noise on diamond quantum sensing",
+        "2024-07-09"
+    ],
+    [
+        "Lowering Connectivity Requirements For Bivariate Bicycle Codes Using Morphing Circuits",
+        "2024-07-23"
+    ],
+    [
+        "Solving Fractional Differential Equations on a Quantum Computer: A Variational Approach",
+        "2024-06-13"
+    ],
+    [
+        "Quantum Long Short-Term Memory for Drug Discovery",
+        "2024-07-29"
+    ],
+    [
+        "QOSST: A Highly-Modular Open Source Platform for Experimental Continuous-Variable Quantum Key Distribution",
+        "2024-04-29"
+    ],
+    [
+        "Quantum-Enhanced Neural Exchange-Correlation Functionals",
+        "2024-04-22"
+    ],
+    [
+        "Noisy certification of continuous variables graph states",
+        "2024-06-06"
+    ],
+    [
+        "Schmidt modes carrying orbital angular momentum generated by cascaded systems pumped with Laguerre-Gaussian beams",
+        "2024-07-17"
+    ],
+    [
+        "Quantum Computing for Phonon Scattering Effects on Thermal Conductivity",
+        "2024-07-22"
+    ],
+    [
+        "Demonstration of a variational quantum eigensolver with a solid-state spin system under ambient conditions",
+        "2024-07-23"
+    ],
+    [
+        "Leveraging collective effects for thermometry in waveguide quantum electrodynamics",
+        "2024-07-08"
+    ],
+    [
+        "Bose-Einstein condensate as a quantum gravity probe; \"Erste Abhandlung\"",
+        "2024-04-09"
+    ],
+    [
+        "Equivalence Classes of Quantum Error-Correcting Codes",
+        "2024-06-17"
+    ],
+    [
+        "Quantum Equation-of-Motion Method with Single, Double, and Triple Excitations",
+        "2024-06-15"
+    ],
+    [
+        "Recovery of resource through sequential noisy measurements",
+        "2024-06-11"
+    ],
+    [
+        "Observation of Ultra-low AC Susceptibility in Micro-magnets Using Quantum Diamond Microscope",
+        "2024-04-26"
+    ],
+    [
+        "Elastic scattering on a quantum computer",
+        "2024-06-13"
+    ],
+    [
+        "Data-driven approach to mixed-state multipartite entanglement characterisation",
+        "2024-07-25"
+    ],
+    [
+        "Phase-Subtractive Interference and Noise-Resistant Quantum Imaging with Two Undetected Photons",
+        "2024-06-09"
+    ],
+    [
+        "Gifts from long-range interaction: Emergent gapless topological behaviors in quantum spin chain",
+        "2024-06-04"
+    ],
+    [
+        "Phase transitions in (2 + 1)D subsystem-symmetric monitored quantum circuits",
+        "2024-07-25"
+    ],
+    [
+        "Leveraging Off-the-Shelf Silicon Chips for Quantum Computing",
+        "2024-06-05"
+    ],
+    [
+        "Symmetry: a fundamental resource for quantum coherence and metrology",
+        "2024-07-01"
+    ],
+    [
+        "Enhanced Quantum Metrology with Non-Phase-Covariant Noise",
+        "2024-04-12"
+    ],
+    [
+        "Microscopic parametrizations for gate set tomography under coloured noise",
+        "2024-07-16"
+    ],
+    [
+        "Pseudorandom density matrices",
+        "2024-07-16"
+    ],
+    [
+        "Microscale Fiber-Integrated Vector Magnetometer with On-Tip Field Biasing using NV Ensembles in Diamond Microcystals",
+        "2024-04-22"
+    ],
+    [
+        "Impact of Parallel Gating on Gate Fidelities in Linear, Square, and Star Arrays of Noisy Flip-Flop Qubits",
+        "2024-07-29"
+    ],
+    [
+        "Wideband Coherent Microwave Conversion via Magnon Nonlinearity in Hybrid Quantum System",
+        "2024-07-03"
+    ],
+    [
+        "CUAOA: A Novel CUDA-Accelerated Simulation Framework for the QAOA",
+        "2024-07-17"
+    ],
+    [
+        "Function Smoothing Regularization for Precision Factorization Machine Annealing in Continuous Variable Optimization Problems",
+        "2024-07-05"
+    ],
+    [
+        "Speeding up quantum measurement using space-time trade-off",
+        "2024-07-24"
+    ],
+    [
+        "Demonstration of system-bath physics on gate-based quantum computer",
+        "2024-04-29"
+    ],
+    [
+        "Strong-field ionization of chiral molecules with bicircular laser fields : sub-barrier dynamics, interference, and vortices",
+        "2024-04-09"
+    ],
+    [
+        "Superresolving optical ruler based on spatial mode demultiplexing for systems evolving under Brownian motion",
+        "2024-07-18"
+    ],
+    [
+        "Spin-photon entanglement of a single Er$^{3+}$ ion in the telecom band",
+        "2024-06-10"
+    ],
+    [
+        "Time-resolved quantum correlations in electronic noise",
+        "2024-04-13"
+    ],
+    [
+        "Quantum hardware demonstrations of relativistic calculations of molecular electric dipole moments: from light to heavy systems using Variational Quantum Eigensolver",
+        "2024-06-07"
+    ],
+    [
+        "Non-monotonic dependence of the radiation linewidth in a phonon laser",
+        "2024-07-30"
+    ],
+    [
+        "Reduced density matrix formulation of quantum linear response",
+        "2024-04-25"
+    ],
+    [
+        "Quantum-enhanced learning with a controllable bosonic variational sensor network",
+        "2024-04-28"
+    ],
+    [
+        "Gate Teleportation in Noisy Quantum Networks with the SquidASM Simulator",
+        "2024-06-19"
+    ],
+    [
+        "Giant Purcell broadening and Lamb shift for DNA-assembled near-infrared quantum emitters",
+        "2024-07-28"
+    ],
+    [
+        "Probing Yu-Shiba Rushinov state via quantum noise and $\u0394_T$ noise",
+        "2024-06-24"
+    ],
+    [
+        "Quantum Control of an Oscillator with a Kerr-cat Qubit",
+        "2024-07-15"
+    ],
+    [
+        "SHARC-VQE: Simplified Hamiltonian Approach with Refinement and Correction enabled Variational Quantum Eigensolver for Molecular Simulation",
+        "2024-07-17"
+    ],
+    [
+        "Optimal Control and Glassiness in Quantum Sensing",
+        "2024-06-05"
+    ],
+    [
+        "Master equation-based model for infrared-based magnetometry with nitrogen-vacancy centers in diamond cavities: a path to sub-picotesla sensitivity at sub-millimeter scales",
+        "2024-07-08"
+    ],
+    [
+        "Demonstration of two-dimensional connectivity for a scalable error-corrected ion-trap quantum processor architecture",
+        "2024-06-04"
+    ],
+    [
+        "Machine-learning-inspired quantum control in many-body dynamics",
+        "2024-04-09"
+    ],
+    [
+        "Identifying non-Hermitian critical points with quantum metric",
+        "2024-04-24"
     ]
 ]
