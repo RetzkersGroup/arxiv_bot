@@ -1,8 +1,11 @@
 {
     "authors": [
+        ["Yotam Vaknin", 1000],
+        ["or golan", 1000],
         ["Retzker", 10],
         ["Kubica", 10],
         ["Levine", 10],
+        ["shruti puri", 10],
         ["Brandão", 10],
         ["Gidney", 7],
         ["Earl T. Campbell", 7],
@@ -52,7 +55,9 @@
         ["Quantinuum", 2],
         ["IBM", 2],
         ["sycamore", 2],
-        ["two-qubit gate", 2]
+        ["two-qubit gate", 2],
+        ["injection", 5],
+        ["magic state", 2],
     ],
     "bad_keywords": [
         ["nitrogen", 2],
