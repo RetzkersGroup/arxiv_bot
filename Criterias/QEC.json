@@ -57,7 +57,7 @@
         ["sycamore", 2],
         ["two-qubit gate", 2],
         ["injection", 5],
-        ["magic state", 2],
+        ["magic state", 2]
     ],
     "bad_keywords": [
         ["nitrogen", 2],
