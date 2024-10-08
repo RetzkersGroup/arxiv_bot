@@ -51,7 +51,7 @@ def load_criteria_from_json(file_path):
 
 
 def get_quant_ph_papers(date, days_back):
-    base_url = 'http://export.arxiv.org/api/query?'
+    base_url = 'https://export.arxiv.org/api/query?'
     start_date = date - datetime.timedelta(days=days_back)
     date_from = start_date.strftime('%Y%m%d') + '0000'
     date_to = date.strftime('%Y%m%d') + '2359'
