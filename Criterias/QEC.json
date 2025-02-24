@@ -3,8 +3,11 @@
         ["Yotam Vaknin", 1000],
         ["or golan", 1000],
         ["alon Salhov", 1000],
+        ["Yuval Marcus", 1000],
+        ["Deniel Ben Hamo", 1000],
         ["Shoham Jacoby", 100],
         ["Retzker", 100],
+        ["Tuvia Gefen", 100],
         ["Kubica", 10],
         ["Levine", 10],
         ["shruti puri", 10],
@@ -21,10 +24,14 @@
         ["Preskill",3],
         ["Liang Jiang",5],
         ["Kitaev",6],
-        ["Bravyi",6]
+        ["Bravyi",6],
+        ["Grimsmo",6],
+        ["Naomi Nickerson", 6]
+
     ],
     "good_keywords": [
         ["surface", 5],
+        ["cultivation", 5],
         ["erasure", 5],
         ["leakage", 3],
         ["LDPC", 4],
