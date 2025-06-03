@@ -34,7 +34,6 @@
         ["erasure", 5],
         ["leakage", 3],
         ["LDPC", 4],
-        ["qLDPC", 4],
         ["low-density parity-check", 4],
         ["floquet", 3],
         ["bivariate bicycle", 2],
