@@ -14,6 +14,7 @@ import asyncio
 import feedparser
 from pathlib import Path
 import argparse
+from pprint import pprint
 
 
 # Change this to the command you want to use to trigger the bot
@@ -51,13 +52,16 @@ def load_criteria_from_json(file_path):
 """ --------------------------------------------- Paper utilities -------------------------------------------------- """
 
 
-def get_quant_ph_papers(date, days_back):
+def get_quant_ph_papers(date, days_back, id=None):
     base_url = 'https://export.arxiv.org/api/query?'
-    start_date = date - datetime.timedelta(days=days_back)
-    date_from = start_date.strftime('%Y%m%d') + '0000'
-    date_to = date.strftime('%Y%m%d') + '2359'
-    print(f'Fetching papers from {date_from} to {date_to}')
-    query = f'search_query=cat:quant-ph+AND+submittedDate:[{date_from}+TO+{date_to}]&sortBy=submittedDate&sortOrder=ascending&max_results=1000'
+    if id is not None:
+        query = f'id_list={id}'
+    else:
+        start_date = date - datetime.timedelta(days=days_back)
+        date_from = start_date.strftime('%Y%m%d') + '0000'
+        date_to = date.strftime('%Y%m%d') + '2359'
+        print(f'Fetching papers from {date_from} to {date_to}')
+        query = f'search_query=cat:quant-ph+AND+submittedDate:[{date_from}+TO+{date_to}]&sortBy=submittedDate&sortOrder=ascending&max_results=1000'
     url = base_url + query
     print(f'Fetching papers from URL: {url}')
     response = feedparser.parse(url)
@@ -84,33 +88,48 @@ def filter_papers_by_most_recent_date(papers):
 
 def get_paper_score(paper, criteria: Criteria):
     score = 0
+    relevant_keywords_dict = {}
 
     authors = ', '.join([author['name'] for author in paper['authors']])
     title = paper['title']
     abstract = paper['summary']
 
-    score += calculate_score(authors, criteria.authors)
-    score += calculate_score(title, criteria.good_keywords)
-    score += calculate_score(title, criteria.bad_keywords, is_bad=True)
-    score += calculate_score(abstract, criteria.good_keywords)
-    score += calculate_score(abstract, criteria.bad_keywords, is_bad=True)
+    # Calculate scores and collect relevant keywords for each criteria
+    author_score, author_keywords = calculate_score(authors, criteria.authors)
+    title_good_score, title_good_keywords = calculate_score(title, criteria.good_keywords)
+    title_bad_score, title_bad_keywords = calculate_score(title, criteria.bad_keywords, is_bad=True)
+    abstract_good_score, abstract_good_keywords = calculate_score(abstract, criteria.good_keywords)
+    abstract_bad_score, abstract_bad_keywords = calculate_score(abstract, criteria.bad_keywords, is_bad=True)
 
-    return score
+    score += author_score
+    score += title_good_score + title_bad_score
+    score += abstract_good_score + abstract_bad_score
+
+    relevant_keywords_dict['authors'] = author_keywords
+    relevant_keywords_dict['good_keywords'] = title_good_keywords
+    relevant_keywords_dict['bad_keywords'] = title_bad_keywords
+    relevant_keywords_dict['good_keywords_abstract'] = abstract_good_keywords
+    relevant_keywords_dict['bad_keywords_abstract'] = abstract_bad_keywords
+
+    return score, relevant_keywords_dict
 
 
 def calculate_score(text: str, keywords: List[Tuple[str, int]], is_bad: bool = False) -> int:
     score = 0
+    relevant_keywords = []
     for keyword, keyword_score in keywords:
         if re.search(r'\b' + re.escape(keyword) + r'\b', text, flags=re.IGNORECASE):
-            score += -keyword_score if is_bad else keyword_score
-    return score
+            score += keyword_score
+            relevant_keywords.append((keyword, keyword_score))
+    score *= 1 if not is_bad else -1
+    return score, relevant_keywords
 
 
 def filter_papers_by_score(papers, criteria: Criteria, threshold_score: int):
     filtered_papers = []
     scores = []
     for paper in papers:
-        score = get_paper_score(paper, criteria=criteria)
+        score, _ = get_paper_score(paper, criteria=criteria)
         if score > threshold_score:
             filtered_papers.append(paper)
             scores.append(score)
@@ -283,12 +302,24 @@ if __name__ == "__main__":
     parser.add_argument("criteria_file", help="Path to the criteria JSON file")
     parser.add_argument("output_file", help="Path to the output file for published papers")
     parser.add_argument("--url", help="Optional Slack webhook URL", default=None)
+    parser.add_argument("--id", help="Optional arXiv paper ID to fetch a specific paper", default=None)
 
     args = parser.parse_args()
 
     # Load criteria from the JSON file
     my_criteria = load_criteria_from_json(args.criteria_file)
     output_file = args.output_file
+
+    if args.id:
+        # Fetch a specific paper by ID
+        papers = get_quant_ph_papers(datetime.datetime.now(), days_back=DAYS_BACK, id=args.id)
+        if not papers:
+            print(f"No paper found with ID {args.id}")
+            sys.exit(1)
+        paper_score, relevant_keywords = get_paper_score(papers[0], criteria=my_criteria)
+        print(f"Paper ID: {args.id}, Score: {paper_score}")
+        pprint(relevant_keywords)
+
 
     # Start the bot
     message = get_message(my_criteria, output_file)
