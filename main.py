@@ -13,6 +13,7 @@ import json
 import asyncio
 import feedparser
 from pathlib import Path
+import argparse
 
 
 # Change this to the command you want to use to trigger the bot
@@ -55,11 +56,14 @@ def get_quant_ph_papers(date, days_back):
     start_date = date - datetime.timedelta(days=days_back)
     date_from = start_date.strftime('%Y%m%d') + '0000'
     date_to = date.strftime('%Y%m%d') + '2359'
+    print(f'Fetching papers from {date_from} to {date_to}')
     query = f'search_query=cat:quant-ph+AND+submittedDate:[{date_from}+TO+{date_to}]&sortBy=submittedDate&sortOrder=ascending&max_results=1000'
     url = base_url + query
+    print(f'Fetching papers from URL: {url}')
     response = feedparser.parse(url)
 
     if response.status == 200:
+        # print(response.entries)
         return response.entries
     else:
         raise Exception(f'Error fetching data from arXiv API: {response.status}')
@@ -233,15 +237,15 @@ def get_message(my_criteria: Criteria, output_file):
 
         papers = get_quant_ph_papers(now, days_back=DAYS_BACK)
 
-        new_papers = filter_papers_by_paper_list(papers, output_file)
-        relevant_papers, scores = filter_papers_by_score(new_papers,
+        # new_papers = filter_papers_by_paper_list(papers, output_file)
+        relevant_papers, scores = filter_papers_by_score(papers,
                                                             criteria=my_criteria, threshold_score=THRESHOLD_SCORE)
 
         if not len(relevant_papers) > 0:
             message = f"No relevant papers found for {now.strftime('%a, %d %b %Y')}."
             return message
 
-        write_last_published(relevant_papers, output_file)
+        # write_last_published(relevant_papers, output_file)
 
         sorted_relevant_papers, sorted_scores = sort_papers_by_score(relevant_papers, scores)
 
@@ -275,12 +279,20 @@ def send_message(url, message: str):
 
 # To run the script use main.py <slack url> <criteria file> <output_file>
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="arXiv bot for quant-ph papers")
+    parser.add_argument("criteria_file", help="Path to the criteria JSON file")
+    parser.add_argument("output_file", help="Path to the output file for published papers")
+    parser.add_argument("--url", help="Optional Slack webhook URL", default=None)
+
+    args = parser.parse_args()
+
     # Load criteria from the JSON file
-    my_criteria = load_criteria_from_json(sys.argv[2])
-    output_file = sys.argv[3]
+    my_criteria = load_criteria_from_json(args.criteria_file)
+    output_file = args.output_file
 
     # Start the bot
     message = get_message(my_criteria, output_file)
     print(message)
 
-    send_message(sys.argv[1], message)
+    if args.url:
+        send_message(args.url, message)
