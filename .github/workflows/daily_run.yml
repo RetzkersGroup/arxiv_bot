@@ -35,23 +35,17 @@ jobs:
       env:
         URL: ${{ secrets.URL }}
 
-
-      # Configure git with your identity
-    - name: Configure git
+    - name: Configure Git
       run: |
-        git config --global user.email "shohamjac@gmail.com"
-        git config --global user.name "shohamjac"
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-    # Commit and push changes
-    - name: Commit and push changes
+    - name: Commit state changes
       run: |
-        git add .
-        # Check if there are any changes staged
-        if git diff --staged --exit-code; then
-          echo "No changes to commit"
-        else
-          git commit -m "Update from GitHub Actions"
+        git add last_published.json
+        if ! git diff --staged --quiet; then
+          git commit -m "chore: update published-paper state"
           git push
+        else
+          echo "No changes to commit"
         fi
-      env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
